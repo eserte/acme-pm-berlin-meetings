@@ -14,7 +14,7 @@
 package Acme::PM::Berlin::Meetings;
 
 use strict;
-our $VERSION = '201008.1602';
+our $VERSION = '201008.17';
 
 use Exporter 'import';
 our @EXPORT = qw(next_meeting);
@@ -28,10 +28,7 @@ our $XMAS_FALLBACK_RECURRENCE;
 sub next_meeting {
     my $count = shift || 1;
     my $dt = DateTime->now; # (time_zone => 'local');
-    for (1 .. $count) {
-	$dt = next_meeting_dt($dt);
-	print $dt, "\n";
-    }
+    map { $dt = next_meeting_dt($dt) } (1 .. $count);
 }
 
 sub next_meeting_dt {
