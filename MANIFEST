@@ -1,4 +1,5 @@
 lib/Acme/PM/Berlin/Meetings.pm
+lib/Acme/PM/Berlin/Meetings/History.pod
 Makefile.PL
 MANIFEST			This list of files
 README
