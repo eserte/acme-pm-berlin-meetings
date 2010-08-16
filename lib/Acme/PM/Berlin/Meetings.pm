@@ -14,7 +14,7 @@
 package Acme::PM::Berlin::Meetings;
 
 use strict;
-our $VERSION = '201008.1601';
+our $VERSION = '201008.1602';
 
 use Exporter 'import';
 our @EXPORT = qw(next_meeting);
@@ -59,3 +59,22 @@ sub next_meeting_dt {
 1;
 
 __END__
+
+=head1 NAME
+
+Acme::PM::Berlin::Meetings - get the next date of the Berlin PM meeting
+
+=head1 SYNOPSIS
+
+    use Acme::PM::Berlin::Meetings;
+    next_meeting(1)
+
+=head1 AUTHOR
+
+Slaven Rezic
+
+=head1 SEE ALSO
+
+L<Acme::PM::Barcelona::Meeting>, L<Acme::PM::Paris::Meetings>.
+
+=cut
