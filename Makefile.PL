@@ -18,4 +18,7 @@ WriteMakefile(NAME =>         'Acme::PM::Berlin::Meetings',
 	      ($ExtUtils::MakeMaker::VERSION >= 6.54 ?
 	       (META_ADD => { resources => { repository => 'git://github.com/eserte/acme-pm-berlin-meetings.git' },
 			    }) : ()),
+	      PREREQ_PM => { 'DateTime' => 0,
+			     'DateTime::Event::Recurrence' => 0,
+			   },
 	     );
