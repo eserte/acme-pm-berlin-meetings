@@ -21,4 +21,5 @@ WriteMakefile(NAME =>         'Acme::PM::Berlin::Meetings',
 	      PREREQ_PM => { 'DateTime' => 0,
 			     'DateTime::Event::Recurrence' => 0,
 			   },
+	      EXE_FILES => ['script/berlin-pm'],
 	     );
