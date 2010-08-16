@@ -1,0 +1,7 @@
+#!/usr/bin/env perl
+
+use strict;
+use Acme::PM::Berlin::Meetings;
+
+my $count = shift || 1;
+next_meeting($count);
