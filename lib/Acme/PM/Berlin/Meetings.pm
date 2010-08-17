@@ -14,9 +14,9 @@
 package Acme::PM::Berlin::Meetings;
 
 use strict;
-our $VERSION = '201008.17';
+our $VERSION = '201008.1701';
 
-use Exporter 'import';
+use Exporter 'import'; # needs Exporter 5.57
 our @EXPORT = qw(next_meeting);
 
 use DateTime;
