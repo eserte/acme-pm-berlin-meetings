@@ -7,6 +7,18 @@ meetings
 
 =head1 2010
 
+=head2 Treffen im August 2010
+
+Mittwoch, 25. August 2010 ab 20 Uhr c.t.
+
+Wo: Turnhalle in Friedrichshain, Holteistraﬂe 6-9 (Ecke
+Sonntagstraﬂe), 10245 Berlin, L<http://www.dieturnhalle.de/>
+
+Karte
+L<http://www.openstreetmap.org/?lat=52.50716&lon=13.4653&zoom=17&layers=M>
+- BBBike-Route
+L<http://bbbike.de/cgi-bin/bbbike.cgi?zielname=Holteistr/Sonntagstr>
+
 =head2 Treffen im Juli 2010
 
 Mittwoch, 28. Juli 2010, ab 20 Uhr c.t.
