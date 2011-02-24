@@ -2,20 +2,21 @@
 use strict;
 use ExtUtils::MakeMaker;
 
-eval {
-    if ((getpwuid($<))[0] eq 'eserte' && $ExtUtils::MakeMaker::VERSION < 6.54) {
-	warn <<EOF;
-**********************************************************************
-* WARNING:
-* ExtUtils::MakeMaker too old. META.yml will be imcomplete
-**********************************************************************
+my $eumm_recent_enough = $ExtUtils::MakeMaker::VERSION >= 6.54;
+
+if (!$eumm_recent_enough) {
+    *MY::dist_core = sub {
+	<<'EOF';
+dist :
+	$(NOECHO) $(ECHO) "Sorry, use a newer EUMM!"
+
 EOF
-    }
-};
+    };
+}
 
 WriteMakefile(NAME =>         'Acme::PM::Berlin::Meetings',
 	      VERSION_FROM => 'lib/Acme/PM/Berlin/Meetings.pm',
-	      ($ExtUtils::MakeMaker::VERSION >= 6.54 ?
+	      ($eumm_recent_enough ?
 	       (META_ADD => { resources => { repository => 'git://github.com/eserte/acme-pm-berlin-meetings.git' },
 			    }) : ()),
 	      PREREQ_PM => { 'DateTime' => 0,
