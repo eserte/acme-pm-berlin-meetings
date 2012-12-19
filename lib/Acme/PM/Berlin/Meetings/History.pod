@@ -19,6 +19,8 @@ L<http://www.openstreetmap.org/?lat=52.50716&lon=13.4653&zoom=17&layers=M>
 - BBBike-Route
 L<http://bbbike.de/cgi-bin/bbbike.cgi?zielname=Holteistr/Sonntagstr>
 
+L<geo:52.50716,13.4653>
+
 =head2 Treffen im Juli 2010
 
 Mittwoch, 28. Juli 2010, ab 20 Uhr c.t.
@@ -31,6 +33,8 @@ L<http://bbbike.de/cgi-bin/bbbike.cgi?zielname=Elisabeth-Abegg-Str> -
 Google Maps
 L<http://maps.google.com/maps?oe=utf-8&client=firefox-a&ie=UTF8&q=zollpackhof&fb=1&hq=zollpackhof&cid=0,0,16858087506954263585&ei=X-lPTMjCC-LGOKeZmb8B&ved=0CBoQnwIwAQ&hnear=&ll=52.519459,13.380876&spn=0.028699,0.03047&z=15>
 
+L<geo:52.521293,13.367068>
+
 =head2 Treffen im Juni 2010
 
 Mittwoch, 30. Juni 2010, ab 20 Uhr c.t.
@@ -42,6 +46,8 @@ BBBike-Route
 L<http://bbbike.de/cgi-bin/bbbike.cgi?zielname=Triftstr(wedding)/brunnenstr>
 - Google Maps
 L<http://maps.google.de/maps?f=q&hl=de&geocode=&q=Triftstr+67+13353+berlin>
+
+L<geo:52.492937,13.401261>
 
 =head2 Treffen im Mai 2010
 
@@ -173,6 +179,8 @@ Google Maps
 L<http://maps.google.de/maps?f=q&source=s_q&hl=de&geocode=&q=Vor+dem+Schlesischen+Tor+2a,+berlin&sll=51.151786,10.415039&sspn=23.066577,44.560547&ie=UTF8&z=16>
 - BBBike-Route
 L<http://bbbike.de/cgi-bin/bbbike.cgi?ziel=Vor+dem+Schlesischen+Tor>
+
+L<geo:52.497206,13.450492>
 
 =head2 Treffen im Juli 2009
 
