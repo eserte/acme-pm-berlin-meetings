@@ -1294,4 +1294,8 @@ Converted by taking the pages L<http://perlmongers.de/?BerlinPM> and
 L<http://perlmongers.de/?BerlinPMNochAeltereTreffen> using
 L<Pod::HTML2Pod> and manual work.
 
+=head1 TODO
+
+Add the entries between 2010 and 2012.
+
 =cut
