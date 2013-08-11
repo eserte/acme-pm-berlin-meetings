@@ -12,8 +12,6 @@
 # WWW:  http://www.rezic.de/eserte/
 #
 
-# Convert Berlin.pm meetings to .gpx file
-
 use strict;
 use autodie qw(:default);
 use Org::Parser;
@@ -68,3 +66,19 @@ for my $row (@$table) {
 }
 
 __END__
+
+=head1 NAME
+
+pmmeetings2bbd.pl - convert Berlin.pm meetings to .gpx file
+
+=head1 EXAMPLE
+
+Create GPX file:
+
+    perl5.18.0 pmmeetings2bbd.pl | ~/src/bbbike/miscsrc/bbd2gpx - >| /tmp/pm.gpx
+
+Create KML file:
+
+    perl5.18.0 pmmeetings2bbd.pl | ~/src/bbbike/miscsrc/bbd2kml - >| /tmp/pm.kml
+
+=cut
