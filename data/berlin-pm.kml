@@ -1114,5 +1114,21 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2013-11-27 : Elfida : Gabriel-Max-Str. 15 : Friedrichshain : ~15</name>
+      <Point>
+        <coordinates>
+13.458677,52.511327
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2014-01-08 : Caf&#233; Nord Sud : Auguststr. 87 : Mitte : 10</name>
+      <Point>
+        <coordinates>
+13.391503,52.526051
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
