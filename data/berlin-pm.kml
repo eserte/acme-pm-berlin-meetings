@@ -1130,5 +1130,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2014-01-26 : Schalander : B&#228;nschstr. 91 : Friedrichshain : 10</name>
+      <Point>
+        <coordinates>
+13.471629,52.517210
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
