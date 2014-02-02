@@ -5,6 +5,11 @@
 Acme::PM::Berlin::Meetings::History - the history of past Berlin PM
 meetings
 
+=head1 Map
+
+All Berlin PM meetings visualized on Googlemaps:
+L<https://maps.google.de/maps?q=https:%2F%2Fraw.github.com%2Feserte%2Facme-pm-berlin-meetings%2Fmaster%2Fdata%2Fberlin-pm.kml>
+
 =head1 2010
 
 =head2 Treffen im August 2010
@@ -1296,6 +1301,6 @@ L<Pod::HTML2Pod> and manual work.
 
 =head1 TODO
 
-Add the entries between 2010 and 2012.
+Add the entries between 2010 and 2014.
 
 =cut
