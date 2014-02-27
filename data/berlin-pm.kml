@@ -1138,5 +1138,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2014-02-26 : Schwarze Pumpe : Choriner Str. 76 : Mitte : 10</name>
+      <Point>
+        <coordinates>
+13.406118,52.532374
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
