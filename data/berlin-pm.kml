@@ -1146,5 +1146,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2014-03-26 : Kuchenkaiser : Oranienplatz 1 : Kreuzberg : 7</name>
+      <Point>
+        <coordinates>
+13.416583,52.502822
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
