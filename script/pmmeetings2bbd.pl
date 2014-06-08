@@ -55,7 +55,7 @@ print <<'EOF';
 EOF
 my %column = do {
     my $col_i = 0;
-    map { ($_, $col_i++) } @{ shift($table) };
+    map { ($_, $col_i++) } @{ shift(@$table) };
 };
 my $wgs84_column = $column{"WGS84"}; die "No WGS84 column?" if !defined $wgs84_column;
 for my $row (@$table) {
