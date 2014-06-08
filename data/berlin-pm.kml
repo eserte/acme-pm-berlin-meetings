@@ -1154,5 +1154,21 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2014-04-30 : Caf&#233; Resonanz : Ebersstr. 73 : Sch&#246;neberg : </name>
+      <Point>
+        <coordinates>
+13.351890,52.479737
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2014-05-28 : Viasko : Erkelenzdamm 49 : Kreuzberg : ~9</name>
+      <Point>
+        <coordinates>
+13.412995,52.497601
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
