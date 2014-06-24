@@ -1170,5 +1170,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2014-06-26 : Bistro Zeus : Boxhagener Str. 29 : Friedrichshain : </name>
+      <Point>
+        <coordinates>
+13.45816,52.51234
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
