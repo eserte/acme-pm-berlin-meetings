@@ -963,7 +963,7 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>2012-04-25 : Caf&#233; Uebereck : Sonntagstr. 31 : Friedrichshain : </name>
+      <name>2012-04-25 : Caf&#233; Uebereck : Sonntagstr. 31 : Friedrichshain : ~18</name>
       <Point>
         <coordinates>
 13.466479,52.505370
@@ -1183,6 +1183,14 @@
       <Point>
         <coordinates>
 13.444896,52.474217
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2014-08-27 : Caf&#233; Uebereck : Sonntagstr. 31 : Friedrichshain : 15</name>
+      <Point>
+        <coordinates>
+13.466479,52.505370
         </coordinates>
       </Point>
     </Placemark>
