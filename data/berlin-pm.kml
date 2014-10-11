@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://earth.google.com/kml/2.1">
   <Document>
-    <name>BBBike-Route</name>
+    <name>Berlin PM meetings</name>
     <description></description>
     <Style id="style1">
       <LineStyle>
@@ -1191,6 +1191,14 @@
       <Point>
         <coordinates>
 13.466479,52.505370
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2014-09-24 : Aufsturz : Oranienburger Str. 67 : Mitte : 7</name>
+      <Point>
+        <coordinates>
+13.392382,52.525052
         </coordinates>
       </Point>
     </Placemark>
