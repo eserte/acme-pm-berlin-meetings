@@ -25,3 +25,18 @@ WriteMakefile(NAME =>         'Acme::PM::Berlin::Meetings',
 			   },
 	      EXE_FILES => ['script/berlin-pm'],
 	     );
+
+sub MY::postamble {
+    my $postamble = "";
+
+    if (defined $ENV{USER} && $ENV{USER} eq 'eserte' && $^O =~ /bsd/i && -f "../../perl.release.mk") {
+	$postamble .= <<'EOF';
+
+.include "../../perl.release.mk"
+.include "../../perl.git.mk"
+
+EOF
+    }
+
+    $postamble;
+}
