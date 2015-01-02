@@ -3,7 +3,7 @@
 #
 # Author: Slaven Rezic
 #
-# Copyright (C) 2010,2012 Slaven Rezic. All rights reserved.
+# Copyright (C) 2010,2012,2015 Slaven Rezic. All rights reserved.
 # This package is free software; you can redistribute it and/or
 # modify it under the same terms as Perl itself.
 #
@@ -14,7 +14,7 @@
 package Acme::PM::Berlin::Meetings;
 
 use strict;
-our $VERSION = '201212.19';
+our $VERSION = '201501.02';
 
 use Exporter 'import'; # needs Exporter 5.57
 our @EXPORT = qw(next_meeting);
@@ -40,18 +40,39 @@ sub next_meeting_dt {
 #	$der->set_time_zone('Europe/Berlin');
 	$der;
     };
+
+    my $prev_dt = $NORMAL_RECURRENCE->previous($dt);
+    if (_within_xmas_time($prev_dt)) {
+	my $january_dt = _advance_to_january_date($prev_dt);
+	if ($dt < $january_dt) {
+	    return $january_dt;
+	}
+    }
+
     my $next_dt = $NORMAL_RECURRENCE->next($dt);
-    while(($next_dt->month == 12 && $next_dt->day >= 24) ||
-	  ($next_dt->month == 1  && $next_dt->day <= 2)) {
+    if (_within_xmas_time($next_dt)) {
+	$next_dt = _advance_to_january_date($next_dt);
+    }
+    $next_dt;
+}
+
+sub _within_xmas_time {
+    my $dt = shift;
+    ($dt->month == 12 && $dt->day >= 24) || ($dt->month == 1 && $dt->day <= 2);
+}
+
+sub _advance_to_january_date {
+    my $dt = shift;
+    while(_within_xmas_time($dt)) {
 	$ADVANCE_ONE_WEEK_RECURRENCE ||= do {
 	    my $der = DateTime::Event::Recurrence->weekly(days => 'we', hours => 20, week_start_day => 'mo');
 #	    $der->set_time_zone('Europe/Berlin');
 	    $der;
 	};
-	$next_dt = $ADVANCE_ONE_WEEK_RECURRENCE->next($next_dt);
+	$dt = $ADVANCE_ONE_WEEK_RECURRENCE->next($dt);
     }
-    $next_dt;
-}   
+    $dt;
+}
 
 1;
 
