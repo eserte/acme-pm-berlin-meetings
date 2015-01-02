@@ -1,5 +1,8 @@
+/.prove
 /Acme-PM-Berlin-Meetings-*.*.tar.gz
 /MANIFEST.bak
+/MYMETA.json
+/MYMETA.yml
 /Makefile
 /Makefile.old
 /blib
