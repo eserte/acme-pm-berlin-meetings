@@ -4,8 +4,11 @@ use Test::More tests => 3;
 
 my $script = "$FindBin::RealBin/../blib/script/berlin-pm";
 
-my $next_date = `$script`;
-my $next_two_dates = `$script 2`;
+# Special handling for systems without shebang handling
+my $full_script = $^O eq 'MSWin32' ? qq{"$^X" $script} : $script;
+
+my $next_date = `$full_script`;
+my $next_two_dates = `$full_script 2`;
 
 for my $date ($next_date, (split /\n/, $next_two_dates)) {
     chomp $date;
