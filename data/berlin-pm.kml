@@ -1226,5 +1226,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2015-01-28 : The Lir Irish Bar : Flensburger Str. 7 : Tiergarten : ????</name>
+      <Point>
+        <coordinates>
+13.344371,52.520388
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
