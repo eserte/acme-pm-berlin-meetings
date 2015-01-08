@@ -1218,5 +1218,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2015-01-07 : Caf&#233; Nord Sud : Auguststr. 87 : Mitte : 9</name>
+      <Point>
+        <coordinates>
+13.391503,52.526051
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
