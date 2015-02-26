@@ -1234,5 +1234,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2015-02-25 : Intimes : Boxhagener Str. 107 : Friedrichshain : 8</name>
+      <Point>
+        <coordinates>
+13.457859,52.512819
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
