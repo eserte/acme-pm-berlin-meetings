@@ -7,8 +7,12 @@ meetings
 
 =head1 Map
 
-All Berlin PM meetings visualized on Googlemaps:
-L<https://maps.google.de/maps?q=https:%2F%2Fraw.github.com%2Feserte%2Facme-pm-berlin-meetings%2Fmaster%2Fdata%2Fberlin-pm.kml>
+All Berlin PM meetings visualized on a map:
+L<http://berlin.pm.org/history_map.html>
+
+=head1 September 2010 and later
+
+Please see L<http://berlin.pm.org/history.html>.
 
 =head1 2010
 
