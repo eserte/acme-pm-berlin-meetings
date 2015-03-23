@@ -1242,5 +1242,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2015-03-25 : Wirtshaus Hasenheide : Hasenheide 18 : Kreuzberg : ?</name>
+      <Point>
+        <coordinates>
+13.419691,52.487611
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
