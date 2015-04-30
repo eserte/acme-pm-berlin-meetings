@@ -1250,5 +1250,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2015-04-29 : Gasthaus Figl : Urbanstr. 47 : Kreuzberg : 9</name>
+      <Point>
+        <coordinates>
+13.417562,52.490367
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

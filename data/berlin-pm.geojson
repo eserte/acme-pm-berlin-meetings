@@ -2155,6 +2155,20 @@
             "name" : "2015-03-25 : Wirtshaus Hasenheide : Hasenheide 18 : Kreuzberg : 14"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.417562",
+               "52.490367"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2015-04-29 : Gasthaus Figl : Urbanstr. 47 : Kreuzberg : 9"
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"
