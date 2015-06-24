@@ -1266,5 +1266,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2015-06-24 : Schleusenkrug : am Landwehrkanal : Tiergarten : 8</name>
+      <Point>
+        <coordinates>
+13.336045,52.511182
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

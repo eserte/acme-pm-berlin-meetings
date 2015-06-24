@@ -2183,6 +2183,20 @@
             "name" : "2015-05-27 : Caf\u00e9 Uebereck : Sonntagstr. 31 : Friedrichshain : 5"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.336045",
+               "52.511182"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2015-06-24 : Schleusenkrug : am Landwehrkanal : Tiergarten : 8"
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"
