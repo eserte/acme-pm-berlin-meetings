@@ -2197,6 +2197,20 @@
             "name" : "2015-06-24 : Schleusenkrug : am Landwehrkanal : Tiergarten : 8"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.465827",
+               "52.553961"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2015-07-29 : Strandbad Wei\u00dfensee : Berliner Allee 155 : Wei\u00dfensee : "
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"
