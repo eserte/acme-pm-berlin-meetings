@@ -4,7 +4,7 @@
 #
 # Author: Slaven Rezic
 #
-# Copyright (C) 2013 Slaven Rezic. All rights reserved.
+# Copyright (C) 2013,2015 Slaven Rezic. All rights reserved.
 # This program is free software; you can redistribute it and/or
 # modify it under the same terms as Perl itself.
 #
@@ -13,8 +13,13 @@
 #
 
 use strict;
+use Getopt::Long;
 use autodie qw(:default);
 use Org::Parser;
+
+my $do_rev;
+GetOptions("r" => \$do_rev)
+    or die "usage: $0 [-r]\n";
 
 my $orgp = Org::Parser->new;
 # Org::Parser is too picky sometimes (returning errors like
@@ -58,6 +63,11 @@ my %column = do {
     map { ($_, $col_i++) } @{ shift(@$table) };
 };
 my $wgs84_column = $column{"WGS84"}; die "No WGS84 column?" if !defined $wgs84_column;
+
+if ($do_rev) {
+    @$table = reverse @$table;
+}
+
 for my $row (@$table) {
     next if !$row->[$wgs84_column];
     my $coordinate = splice @$row, $wgs84_column, 1;
