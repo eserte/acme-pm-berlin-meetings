@@ -1282,5 +1282,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2015-08-26 : James June Sommergarten : Karl-Marx-Allee 93 : Friedrichshain : 11</name>
+      <Point>
+        <coordinates>
+13.441393,52.517589
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

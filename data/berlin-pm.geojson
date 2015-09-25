@@ -2211,6 +2211,20 @@
             "name" : "2015-07-29 : Strandbad Wei\u00dfensee : Berliner Allee 155 : Wei\u00dfensee : 7"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.441393",
+               "52.517589"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2015-08-26 : James June Sommergarten : Karl-Marx-Allee 93 : Friedrichshain : 11"
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"
