@@ -2225,6 +2225,20 @@
             "name" : "2015-08-26 : James June Sommergarten : Karl-Marx-Allee 93 : Friedrichshain : 11"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.409886",
+               "52.488698"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2015-09-30 : Brauhaus S\u00fcdstern : Hasenheide 69 : Kreuzberg : 9"
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"

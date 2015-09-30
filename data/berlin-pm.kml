@@ -1290,5 +1290,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2015-09-30 : Brauhaus S&#252;dstern : Hasenheide 69 : Kreuzberg : 9</name>
+      <Point>
+        <coordinates>
+13.409886,52.488698
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
