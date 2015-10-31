@@ -2239,6 +2239,20 @@
             "name" : "2015-09-30 : Brauhaus S\u00fcdstern : Hasenheide 69 : Kreuzberg : 9"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.412995",
+               "52.497601"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2015-10-28 : Viasko : Erkelenzdamm 49 : Kreuzberg : 11"
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"
