@@ -1310,7 +1310,15 @@
       <name>2015-11-25 : Caf&#233; Schmitts : Oderstr. 8 : Friedrichshain : 10</name>
       <Point>
         <coordinates>
-13.46863,52.51117
+13.468645,52.51117
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2016-01-06 : Caf&#233; Nord Sud : Auguststr. 87 : Mitte : </name>
+      <Point>
+        <coordinates>
+13.391503,52.526051
         </coordinates>
       </Point>
     </Placemark>
