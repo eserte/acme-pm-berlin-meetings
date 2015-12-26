@@ -2253,6 +2253,20 @@
             "name" : "2015-10-28 : Viasko : Erkelenzdamm 49 : Kreuzberg : 11"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.46863",
+               "52.51117"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2015-11-25 : Caf\u00e9 Schmitt : Oderstr. 8 : Friedrichshain : 10"
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"
