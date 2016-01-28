@@ -2281,6 +2281,20 @@
             "name" : "2016-01-06 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : 12"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.4159",
+               "52.51408"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2016-01-27 : Marinenaus : M\u00e4rkisches Ufer 50 : Mitte : 11"
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"

@@ -1322,5 +1322,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2016-01-27 : Marinenaus : M&#228;rkisches Ufer 50 : Mitte : 11</name>
+      <Point>
+        <coordinates>
+13.4159,52.51408
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
