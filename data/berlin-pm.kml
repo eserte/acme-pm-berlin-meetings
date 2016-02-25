@@ -1330,5 +1330,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2016-02-25 : Trattoria del Corso : Hauptstr. 70 : Friedenau : 8</name>
+      <Point>
+        <coordinates>
+13.33973,52.47549
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
