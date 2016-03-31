@@ -2309,6 +2309,20 @@
             "name" : "2016-02-25 : Trattoria del Corso : Hauptstr. 70 : Friedenau : 8"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.508606",
+               "52.526679"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2016-03-30 : Krankenhaus KEH : Herzbergstr. 79 : Lichtenberg : 14"
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"

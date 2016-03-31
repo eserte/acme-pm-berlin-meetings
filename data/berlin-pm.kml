@@ -1338,5 +1338,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2016-03-30 : Krankenhaus KEH : Herzbergstr. 79 : Lichtenberg : 14</name>
+      <Point>
+        <coordinates>
+13.508606,52.526679
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
