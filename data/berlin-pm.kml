@@ -1346,5 +1346,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2016-04-27 : Flammerie Hugo Ball : Saalestr. 38 : Neuk&#246;lln : 11</name>
+      <Point>
+        <coordinates>
+13.45475,52.47257
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

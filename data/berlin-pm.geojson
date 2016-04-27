@@ -2323,6 +2323,20 @@
             "name" : "2016-03-30 : Krankenhaus KEH : Herzbergstr. 79 : Lichtenberg : 14"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.45475",
+               "52.47257"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2016-04-27 : Flammerie Hugo Ball : Saalestr. 38 : Neuk\u00f6lln : 11"
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"
