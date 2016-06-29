@@ -2351,6 +2351,20 @@
             "name" : "2016-05-25 : Caf\u00e9 Schmitts : Oderstr. 8 : Friedrichshain : 11"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.367068",
+               "52.521293"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2016-06-29 : Zollpackhof : Elisabeth-Abegg-Str. 1 : Tiergarten : 10"
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"
