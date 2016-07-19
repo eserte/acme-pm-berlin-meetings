@@ -1370,5 +1370,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2016-07-19 : Caf&#233; V : Lausitzer Platz 12 : Kreuzberg : 9</name>
+      <Point>
+        <coordinates>
+13.43166,52.50076
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

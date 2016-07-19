@@ -2365,6 +2365,20 @@
             "name" : "2016-06-29 : Zollpackhof : Elisabeth-Abegg-Str. 1 : Tiergarten : 10"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.43166",
+               "52.50076"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2016-07-19 : Caf\u00e9 V : Lausitzer Platz 12 : Kreuzberg : 9"
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"
