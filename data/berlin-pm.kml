@@ -1378,5 +1378,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2016-08-31 : Prater : Kastanienallee 7 : Prenzlauer Berg : 15</name>
+      <Point>
+        <coordinates>
+13.410031,52.539821
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
