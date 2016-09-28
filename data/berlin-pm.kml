@@ -1386,5 +1386,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2016-09-28 : Zur kleinen Markthalle : Legiendamm 32 : Kreuzberg : 7</name>
+      <Point>
+        <coordinates>
+13.416118,52.503776
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
