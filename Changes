@@ -1,0 +1,26 @@
+Revision history for Perl extension Acme::PM::Berlin::Meetings.
+
+201610.09 2016-10-09
+	- DateTime::Event::Recurrence is not used anymore
+	- reflect new begin time (19:00 instead of 20:00)
+	- fix buggy calculations
+
+201501.05 2015-01-05
+	- no functional change, just a test fix
+
+201501.02 2015-01-02
+	- fix for RT #61077
+	- more test scripts
+
+201212.19 2012-12-19
+	- reflect change of special December/January rule
+
+201008.26 2010-08-26
+	- increase Exporter version requirement
+
+201008.17 2010-08-17
+	- changed next_meeting behavior to match the same-named function in
+	  Acme::PM::Paris::Meetings
+
+201008.16 2016-08-16
+	- first working version
