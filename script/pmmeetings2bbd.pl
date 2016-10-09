@@ -4,7 +4,7 @@
 #
 # Author: Slaven Rezic
 #
-# Copyright (C) 2013,2015 Slaven Rezic. All rights reserved.
+# Copyright (C) 2013,2015,2016 Slaven Rezic. All rights reserved.
 # This program is free software; you can redistribute it and/or
 # modify it under the same terms as Perl itself.
 #
@@ -21,12 +21,15 @@ my $do_rev;
 GetOptions("r" => \$do_rev)
     or die "usage: $0 [-r]\n";
 
+my $file = shift
+    or die "Please specify org file!";
+
 my $orgp = Org::Parser->new;
 # Org::Parser is too picky sometimes (returning errors like
 # "Can't parse timestamp string: <2013-08-07 Mi 9:30 -15min>"
 # and also slow, so manually find the interesting section using
 # pure perl
-open my $fh, "<:utf8", "$ENV{HOME}/doc/misc/TODO";
+open my $fh, "<:utf8", $file;
 my $state = 0;
 my $buf;
 while(<$fh>) {
@@ -79,16 +82,18 @@ __END__
 
 =head1 NAME
 
-pmmeetings2bbd.pl - convert Berlin.pm meetings to .gpx file
+pmmeetings2bbd.pl - convert Berlin.pm meetings to .gpx or .kml file
 
 =head1 EXAMPLE
 
 Create GPX file:
 
-    perl5.18.0 pmmeetings2bbd.pl | ~/src/bbbike/miscsrc/bbd2gpx - >| /tmp/pm.gpx
+    pmmeetings2bbd.pl | ~/src/bbbike/miscsrc/bbd2gpx - >| /tmp/pm.gpx
 
 Create KML file:
 
-    perl5.18.0 pmmeetings2bbd.pl | ~/src/bbbike/miscsrc/bbd2kml - >| /tmp/pm.kml
+    pmmeetings2bbd.pl | ~/src/bbbike/miscsrc/bbd2kml - >| /tmp/pm.kml
+
+Use option C<-r> to reverse the output.
 
 =cut
