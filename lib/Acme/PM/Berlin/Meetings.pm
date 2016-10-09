@@ -3,7 +3,7 @@
 #
 # Author: Slaven Rezic
 #
-# Copyright (C) 2010,2012,2015 Slaven Rezic. All rights reserved.
+# Copyright (C) 2010,2012,2015,2016 Slaven Rezic. All rights reserved.
 # This package is free software; you can redistribute it and/or
 # modify it under the same terms as Perl itself.
 #
@@ -14,64 +14,68 @@
 package Acme::PM::Berlin::Meetings;
 
 use strict;
-our $VERSION = '201501.05';
+our $VERSION = '201610.09';
 
 use Exporter 'import'; # needs Exporter 5.57
 our @EXPORT = qw(next_meeting);
 
 use DateTime;
-use DateTime::Event::Recurrence;
-
-our $NORMAL_RECURRENCE;
-our $ADVANCE_ONE_WEEK_RECURRENCE;
 
 sub next_meeting {
     my $count = shift || 1;
-    my $dt = DateTime->now; # (time_zone => 'local');
+    my $dt = DateTime->now(time_zone => 'local');
     map { $dt = next_meeting_dt($dt) } (1 .. $count);
 }
 
 sub next_meeting_dt {
     my $dt = shift;
-    $NORMAL_RECURRENCE ||= do {
-	# XXX week_start_day shouldn't be needed to be specified,
-	# but see https://rt.cpan.org/Ticket/Display.html?id=54166
-	my $der = DateTime::Event::Recurrence->monthly(weeks => -1, days => 'we', hours => 20, week_start_day => 'mo');
-#	$der->set_time_zone('Europe/Berlin');
-	$der;
-    };
-
-    my $prev_dt = $NORMAL_RECURRENCE->previous($dt);
-    if (_within_xmas_time($prev_dt)) {
-	my $january_dt = _advance_to_january_date($prev_dt);
-	if ($dt < $january_dt) {
-	    return $january_dt;
+    my $dt_berlin = $dt->set_time_zone('Europe/Berlin');
+    if ($dt_berlin->month == 1 && $dt_berlin->day < 10) {
+	my $dec_meeting = _get_dec_meeting($dt_berlin);
+	if ($dec_meeting > $dt_berlin) {
+	    return $dec_meeting;
 	}
     }
-
-    my $next_dt = $NORMAL_RECURRENCE->next($dt);
-    if (_within_xmas_time($next_dt)) {
-	$next_dt = _advance_to_january_date($next_dt);
+    my $last_wed_of_month = _get_last_wed_of_month($dt_berlin);
+    if ($last_wed_of_month <= $dt_berlin) {
+	$dt_berlin->add(months => 1, end_of_month => 'limit');
+	$last_wed_of_month = _get_last_wed_of_month($dt_berlin);
     }
-    $next_dt;
+    if ($last_wed_of_month->month == 12) {
+	return _get_dec_meeting($last_wed_of_month);
+    }
+    $last_wed_of_month;    
 }
 
-sub _within_xmas_time {
-    my $dt = shift;
-    ($dt->month == 12 && $dt->day >= 24) || ($dt->month == 1 && $dt->day <= 2);
+sub _get_last_wed_of_month {
+    my $dt_berlin = shift;
+    my $last_day_of_month = DateTime->last_day_of_month(year => $dt_berlin->year, month => $dt_berlin->month, time_zone => 'Europe/Berlin');
+    my $dow = $last_day_of_month->day_of_week;
+    my $last_wed_of_month = $last_day_of_month->add(days => $dow < 3 ? -$dow-4 : -$dow+3);
+    _adjust_hour($last_wed_of_month);
+    $last_wed_of_month;
 }
 
-sub _advance_to_january_date {
+sub _get_dec_meeting {
     my $dt = shift;
-    while(_within_xmas_time($dt)) {
-	$ADVANCE_ONE_WEEK_RECURRENCE ||= do {
-	    my $der = DateTime::Event::Recurrence->weekly(days => 'we', hours => 20, week_start_day => 'mo');
-#	    $der->set_time_zone('Europe/Berlin');
-	    $der;
-	};
-	$dt = $ADVANCE_ONE_WEEK_RECURRENCE->next($dt);
+    $dt = $dt->clone;
+    if ($dt->month == 12) {
+	$dt->add(months => 1); # end_of_month does not matter
     }
+    $dt->set(day => 3);
+    my $dow = $dt->day_of_week;
+    $dt->add(days => $dow < 4 ? -$dow+3 : -$dow+10);
+    _adjust_hour($dt);
     $dt;
+}
+
+sub _adjust_hour {
+    my $dt = shift;
+    if ($dt->year >= 2016) {
+	$dt->set(hour => 19);
+    } else {
+	$dt->set(hour => 20);
+    }
 }
 
 1;
