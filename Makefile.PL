@@ -37,22 +37,23 @@ sub MY::postamble {
 EOF
     }
 
-    my $bbbike_dir = sub {
-	for my $candidate ("$ENV{HOME}/src/bbbike") {
-	    return $candidate if -d $candidate;
-	}
-    }->();
-    my $berlinpm_github_io_dir = sub {
-	for my $candidate ("$ENV{HOME}/work2/BerlinPM.github.io") {
-	    return $candidate if -d $candidate;
-	}
-    }->();
-    $postamble .= <<"EOF";
+    if ($^O ne 'MSWin32') { # shell commands in Makefile rules are too hard for dmake
+	my $bbbike_dir = sub {
+	    for my $candidate ("$ENV{HOME}/src/bbbike") {
+		return $candidate if -d $candidate;
+	    }
+	}->();
+	my $berlinpm_github_io_dir = sub {
+	    for my $candidate ("$ENV{HOME}/work2/BerlinPM.github.io") {
+		return $candidate if -d $candidate;
+	    }
+	}->();
+	$postamble .= <<"EOF";
 BBBIKE_DIR=		$bbbike_dir
 BERLINPM_GITHUB_IO_DIR= $berlinpm_github_io_dir
 
 EOF
-    $postamble .= <<'EOF';
+	$postamble .= <<'EOF';
 convert-berlin-pm-meetings.org: convert-for-acme-pm-berlin-meetings convert-for-berlin-pm-org
 
 convert-for-acme-pm-berlin-meetings:
@@ -76,6 +77,7 @@ convert-for-berlin-pm-org:
 	cd ${BERLINPM_GITHUB_IO_DIR}/javascripts && git commit -m "update historical map" berlin-pm.geojsonp && git push
 
 EOF
+    }
 
     $postamble;
 }
