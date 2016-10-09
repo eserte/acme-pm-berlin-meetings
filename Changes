@@ -1,5 +1,9 @@
 Revision history for Perl extension Acme::PM::Berlin::Meetings.
 
+201610.0901 2016-10-09
+	- bugfix: a missing clone() call
+	- mention berlin-pm in documentation
+
 201610.09 2016-10-09
 	- DateTime::Event::Recurrence is not used anymore
 	- reflect new begin time (19:00 instead of 20:00)

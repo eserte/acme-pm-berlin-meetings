@@ -14,7 +14,7 @@
 package Acme::PM::Berlin::Meetings;
 
 use strict;
-our $VERSION = '201610.09';
+our $VERSION = '201610.0901';
 
 use Exporter 'import'; # needs Exporter 5.57
 our @EXPORT = qw(next_meeting);
@@ -29,7 +29,7 @@ sub next_meeting {
 
 sub next_meeting_dt {
     my $dt = shift;
-    my $dt_berlin = $dt->set_time_zone('Europe/Berlin');
+    my $dt_berlin = $dt->clone->set_time_zone('Europe/Berlin');
     if ($dt_berlin->month == 1 && $dt_berlin->day < 10) {
 	my $dec_meeting = _get_dec_meeting($dt_berlin);
 	if ($dec_meeting > $dt_berlin) {
@@ -90,6 +90,10 @@ Acme::PM::Berlin::Meetings - get the next date of the Berlin PM meeting
 
     use Acme::PM::Berlin::Meetings;
     next_meeting(1)
+
+Or use the bundled script:
+
+    berlin-pm
 
 =head1 NOTES
 
