@@ -191,6 +191,7 @@
     | 2016-05-25 | Café Schmitts                   | Oderstr. 8                  | Friedrichshain      |   11 | 52.51117,13.468645  |
     | 2016-06-29 | Zollpackhof                     | Elisabeth-Abegg-Str. 1      | Tiergarten          |   10 | 52.521293,13.367068 |
     | 2016-07-19 | Café V                          | Lausitzer Platz 12          | Kreuzberg           |    9 | 52.50076,13.43166   |
+    | 2016-07-26 | Braugasthaus Dolden Mädel       | Mehringdamm 80              | Kreuzberg           |      | 52.48959,13.38594   |
     | 2016-08-31 | Prater                          | Kastanienallee 7            | Prenzlauer Berg     |   15 | 52.539821,13.410031 |
     | 2016-09-28 | Zur kleinen Markthalle          | Legiendamm 32               | Kreuzberg           |    7 | 52.503776,13.416118 |
 
