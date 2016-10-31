@@ -194,19 +194,8 @@
     | 2016-07-26 | Braugasthaus Dolden Mädel       | Mehringdamm 80              | Kreuzberg           |      | 52.48959,13.38594   |
     | 2016-08-31 | Prater                          | Kastanienallee 7            | Prenzlauer Berg     |   15 | 52.539821,13.410031 |
     | 2016-09-28 | Zur kleinen Markthalle          | Legiendamm 32               | Kreuzberg           |    7 | 52.503776,13.416118 |
+    | 2016-10-26 | Powwow                          | Grimmstr. 20                | Kreuzberg           |   11 | 52.493091,13.414344 |
 
-    Siehe auch ~/src/bbbike-aux/misc/pmmeetings2bbd.pl für einen
-    Konverter.
-
-    Für Acme-PM-Berlin-Meetings konvertieren:
-    : ~/bin/pistachio-perl/bin/perl ~/src/bbbike-aux/misc/pmmeetings2bbd.pl | ~/src/bbbike/miscsrc/bbd2kml -title "Berlin PM meetings" - >| ~/src/CPAN/Acme-PM-Berlin-Meetings/data/berlin-pm.kml; cd ~/src/CPAN/Acme-PM-Berlin-Meetings/data && git diff berlin-pm.kml  
-    : ~/bin/pistachio-perl/bin/perl ~/src/bbbike-aux/misc/pmmeetings2bbd.pl | ~/src/bbbike/miscsrc/bbd2geojson - >| ~/src/CPAN/Acme-PM-Berlin-Meetings/data/berlin-pm.geojson; cd ~/src/CPAN/Acme-PM-Berlin-Meetings/data && git diff berlin-pm.geojson
-    : git diff
-    : git commit -m "kml and geojson update" berlin-pm.* && git push
-
-    Und für die Karte auf berlin.pm.org:
-    : ~/bin/pistachio-perl/bin/perl ~/src/bbbike-aux/misc/pmmeetings2bbd.pl -r | ~/src/bbbike/miscsrc/bbd2geojson -bbbgeojsonp - >| ~/work2/BerlinPM.github.io/javascripts/berlin-pm.geojsonp
-    : cd ~/work2/BerlinPM.github.io/javascripts
-    : git diff
-    : git commit -m "update historical map" berlin-pm.geojsonp && git push
+    Um diese Tabelle nach .kml und .geojson zu konvertieren:
+    : make convert-berlin-pm-meetings.org
 
