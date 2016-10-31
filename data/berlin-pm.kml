@@ -1402,5 +1402,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2016-10-26 : Powwow : Grimmstr. 20 : Kreuzberg : 11</name>
+      <Point>
+        <coordinates>
+13.414344,52.493091
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
