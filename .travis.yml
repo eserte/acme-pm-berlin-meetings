@@ -1,7 +1,3 @@
-branches:
- except:
-  - /appveyor/
-
 language: perl
 perl:
   - "5.24"
@@ -13,7 +9,6 @@ perl:
   - "5.12"
   - "5.10"
   - "5.8"
-sudo: false
 matrix:
   include:
     # The perl does not matter here, system perl will be used
@@ -39,3 +34,8 @@ install:
   # (all requirements are already met with system packages)
   # On OSX the system perl already comes with DateTime
   - if [ "$USE_SYSTEM_PERL" = "1" -o "$TRAVIS_OS_NAME" = "osx" ]; then cpanm --sudo --quiet --installdeps --notest .; else cpanm --quiet --installdeps --notest .; fi
+
+branches:
+ except:
+  - /appveyor/
+sudo: false
