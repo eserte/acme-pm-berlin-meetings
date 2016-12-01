@@ -2436,6 +2436,20 @@
             "name" : "2016-10-26 : Powwow : Grimmstr. 20 : Kreuzberg : 11"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.397455",
+               "52.532392"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2016-11-30 : Djimalaya : Invalidenstr. 159 : Mitte : 10"
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"

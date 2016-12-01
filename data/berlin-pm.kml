@@ -1410,5 +1410,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2016-11-30 : Djimalaya : Invalidenstr. 159 : Mitte : 10</name>
+      <Point>
+        <coordinates>
+13.397455,52.532392
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
