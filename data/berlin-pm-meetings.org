@@ -1,16 +1,16 @@
 *** TODO all Berlin.pm meetings
     Keywords: PM-Treffen History.pod
-    |      Datum | Ort                             | Adresse                     | Bezirk/Ortsteil     | Anz. | WGS84               |
+    |      Datum | Ort                             | Adresse                     | Bezirk/Ortsteil   . | Anz. | WGS84               |
     |------------+---------------------------------+-----------------------------+---------------------+------+---------------------|
     | 2002-02-?? | Café Orange                     | Oranienburger Str. 32       | Mitte               |      | 52.524968,13.393556 |
     | 2002-03-?? | Tadshikische Teestube (?)       | Oranienburger Str. 27       | Mitte               |      | 52.524628,13.395001 |
     | 2002-04-?? | Joe Peñas                       | Marheinekeplatz 3           | Kreuzberg           |      | 52.489310,13.396652 |
     | 2002-05-29 | Entweder/Oder                   | Oderberger Str. 15          | Prenzlauer Berg     |      | 52.539220,13.408289 |
     | 2002-06-?? | Entweder/Oder (?)               | Oderberger Str. 15          | Prenzlauer Berg     |      | 52.539220,13.408289 |
-    | 2002-07-?? | Schwarzes Café                  | Kantstr. 148                | Charlottenburg      |      | 52.505576,13.324146 |
-    | 2002-08-?? | (?)                             |                             | Prenzlauer Berg (?) |      |                     |
-    | 2002-09-?? | Café Orange                     | Oranienburger Str. 32       | Mitte               |      | 52.524968,13.393556 |
-    | 2002-10-?? | Locus (?)                       | Marheinekeplatz 4           | Kreuzberg           |      | 52.489340,13.396389 |
+    | 2002-07-31 | Schwarzes Café                  | Kantstr. 148                | Charlottenburg      |      | 52.505576,13.324146 |
+    | 2002-08-28 | (?)                             | Wichertstr./Gudvanger Str.  | Prenzlauer Berg     |      | 52.548172,13.422610 |
+    | 2002-09-25 | Café Orange                     | Oranienburger Str. 32       | Mitte               |      | 52.524968,13.393556 |
+    | 2002-10-30 | Locus                           | Marheinekeplatz 4           | Kreuzberg           |      | 52.489340,13.396389 |
     | 2002-11-27 | Tante Elli                      | Lüderitzstr. 5              | Wedding             |      | 52.550044,13.349164 |
     | 2002-12-18 | Speedy Gonzales                 | Kastanienallee 26           | Prenzlauer Berg     |      | 52.537404,13.408287 |
     |------------+---------------------------------+-----------------------------+---------------------+------+---------------------|
