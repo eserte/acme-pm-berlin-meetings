@@ -59,7 +59,7 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>2002-07-?? : Schwarzes Caf&#233; : Kantstr. 148 : Charlottenburg : </name>
+      <name>2002-07-31 : Schwarzes Caf&#233; : Kantstr. 148 : Charlottenburg : </name>
       <Point>
         <coordinates>
 13.324146,52.505576
@@ -67,7 +67,15 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>2002-09-?? : Caf&#233; Orange : Oranienburger Str. 32 : Mitte : </name>
+      <name>2002-08-28 : (?) : Wichertstr./Gudvanger Str. : Prenzlauer Berg : </name>
+      <Point>
+        <coordinates>
+13.422610,52.548172
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2002-09-25 : Caf&#233; Orange : Oranienburger Str. 32 : Mitte : </name>
       <Point>
         <coordinates>
 13.393556,52.524968
@@ -75,7 +83,7 @@
       </Point>
     </Placemark>
     <Placemark>
-      <name>2002-10-?? : Locus (?) : Marheinekeplatz 4 : Kreuzberg : </name>
+      <name>2002-10-30 : Locus : Marheinekeplatz 4 : Kreuzberg : </name>
       <Point>
         <coordinates>
 13.396389,52.489340
