@@ -196,6 +196,8 @@
     | 2016-09-28 | Zur kleinen Markthalle          | Legiendamm 32               | Kreuzberg           |    7 | 52.503776,13.416118 |
     | 2016-10-26 | Powwow                          | Grimmstr. 20                | Kreuzberg           |   11 | 52.493091,13.414344 |
     | 2016-11-30 | Djimalaya                       | Invalidenstr. 159           | Mitte               |   10 | 52.532392,13.397455 |
+    |------------+---------------------------------+-----------------------------+---------------------+------+---------------------|
+    | 2017-01-04 | Café Leander                    | Jungstr. 29                 | Friedrichshain      |   14 | 52.511846,13.466270 |
 
     Um diese Tabelle nach .kml und .geojson zu konvertieren:
     : make convert-berlin-pm-meetings.org
