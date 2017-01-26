@@ -1434,5 +1434,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2017-01-25 : Caf&#233; Orange : Oranienburger Str. 32 : Mitte : 9</name>
+      <Point>
+        <coordinates>
+13.393556,52.524968
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

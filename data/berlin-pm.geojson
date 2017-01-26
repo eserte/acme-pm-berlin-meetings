@@ -2478,6 +2478,20 @@
             "name" : "2017-01-04 : Caf\u00e9 Leander : Jungstr. 29 : Friedrichshain : 14"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.393556",
+               "52.524968"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2017-01-25 : Caf\u00e9 Orange : Oranienburger Str. 32 : Mitte : 9"
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"
