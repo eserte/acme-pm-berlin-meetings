@@ -198,6 +198,8 @@
     | 2016-11-30 | Djimalaya                       | Invalidenstr. 159           | Mitte               |   10 | 52.532392,13.397455 |
     |------------+---------------------------------+-----------------------------+---------------------+------+---------------------|
     | 2017-01-04 | Café Leander                    | Jungstr. 29                 | Friedrichshain      |   14 | 52.511846,13.466270 |
+    | 2017-01-25 | Café Orange                     | Oranienburger Str. 32       | Mitte               |    9 | 52.524968,13.393556 |
+    | 2017-02-22 | Ora (Oranien Apotheke)          | Oranienplatz 14             | Kreuzberg           |    5 | 52.501529,13.415613 |
 
     Um diese Tabelle nach .kml und .geojson zu konvertieren:
     : make convert-berlin-pm-meetings.org
