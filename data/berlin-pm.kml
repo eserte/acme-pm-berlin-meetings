@@ -1442,5 +1442,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2017-02-22 : Ora (Oranien Apotheke) : Oranienplatz 14 : Kreuzberg : 5</name>
+      <Point>
+        <coordinates>
+13.415613,52.501529
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

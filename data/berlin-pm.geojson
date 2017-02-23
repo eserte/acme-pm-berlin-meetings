@@ -2492,6 +2492,20 @@
             "name" : "2017-01-25 : Caf\u00e9 Orange : Oranienburger Str. 32 : Mitte : 9"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.415613",
+               "52.501529"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2017-02-22 : Ora (Oranien Apotheke) : Oranienplatz 14 : Kreuzberg : 5"
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"
