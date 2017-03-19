@@ -1,5 +1,10 @@
 Revision history for Perl extension Acme::PM::Berlin::Meetings.
 
+201703.19 2017-03-19
+	- add .org file with historical meetings
+	- add pmmeetings2bbd.pl
+	- kml+geojson updates
+
 201610.0901 2016-10-09
 	- bugfix: a missing clone() call
 	- mention berlin-pm in documentation

@@ -3,7 +3,7 @@
 #
 # Author: Slaven Rezic
 #
-# Copyright (C) 2010,2012,2015,2016 Slaven Rezic. All rights reserved.
+# Copyright (C) 2010,2012,2015,2016,2017 Slaven Rezic. All rights reserved.
 # This package is free software; you can redistribute it and/or
 # modify it under the same terms as Perl itself.
 #
@@ -14,7 +14,7 @@
 package Acme::PM::Berlin::Meetings;
 
 use strict;
-our $VERSION = '201610.0901';
+our $VERSION = '201703.19';
 
 use Exporter 'import'; # needs Exporter 5.57
 our @EXPORT = qw(next_meeting);
