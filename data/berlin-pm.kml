@@ -1450,5 +1450,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2017-03-29 : Schnitzelei Berlin Mitte : Chausseestr. 8 : Mitte : 9</name>
+      <Point>
+        <coordinates>
+13.386191,52.528186
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

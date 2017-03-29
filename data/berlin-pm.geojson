@@ -2506,6 +2506,20 @@
             "name" : "2017-02-22 : Ora (Oranien Apotheke) : Oranienplatz 14 : Kreuzberg : 5"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.386191",
+               "52.528186"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2017-03-29 : Schnitzelei Berlin Mitte : Chausseestr. 8 : Mitte : 9"
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"
