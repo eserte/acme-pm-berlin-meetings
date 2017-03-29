@@ -60,7 +60,7 @@
     | 2006-05-31 | Schraders                       | Malplaquetstr. 16b          | Wedding             |      | 52.551574,13.358012 |
     | 2006-06-28 | Stadtstrand                     | Mühlenstr.                  | Friedrichshain      |      | 52.502945,13.444892 |
     | 2006-07-26 | Schönwetter                     | Bernauer Str. 63            | Wedding             |      | 52.540458,13.402726 |
-    | 2006-08-30 | Das Speisezimmer                | Chausseestr. 8              | Mitte               |      | 52.528186,13.386191 |
+    | 2006-08-30 | Das Speisezimmer                | Chausseestr. 8              | Mitte               |      | 52.52849,13.38736   |
     | 2006-09-26 | Restaurant Glühwurm             | Handjerystr. 77             | Friedenau           |      | 52.471327,13.333278 |
     | 2006-10-25 | Café Uebereck                   | Sonntagstr. 31              | Friedrichshain      |      | 52.505370,13.466479 |
     | 2006-11-29 | Café Uebereck                   | Sonntagstr. 31              | Friedrichshain      |      | 52.505370,13.466479 |
@@ -200,7 +200,7 @@
     | 2017-01-04 | Café Leander                    | Jungstr. 29                 | Friedrichshain      |   14 | 52.511846,13.466270 |
     | 2017-01-25 | Café Orange                     | Oranienburger Str. 32       | Mitte               |    9 | 52.524968,13.393556 |
     | 2017-02-22 | Ora (Oranien Apotheke)          | Oranienplatz 14             | Kreuzberg           |    5 | 52.501529,13.415613 |
-    | 2017-03-29 | Schnitzelei Berlin Mitte        | Chausseestr. 8              | Mitte               |    9 | 52.528186,13.386191 |
+    | 2017-03-29 | Schnitzelei Berlin Mitte        | Chausseestr. 8              | Mitte               |    9 | 52.52849,13.38736   |
 
     Um diese Tabelle nach .kml und .geojson zu konvertieren:
     : make convert-berlin-pm-meetings.org
