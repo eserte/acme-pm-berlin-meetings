@@ -2520,6 +2520,20 @@
             "name" : "2017-03-29 : Schnitzelei Berlin Mitte : Chausseestr. 8 : Mitte : 9"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.412995",
+               "52.497601"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2017-04-26 : Viasko : Erkelenzdamm 49 : Kreuzberg : 8"
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"
