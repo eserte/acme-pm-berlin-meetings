@@ -1466,5 +1466,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2017-05-31 : Hafenrestaurant Deckshaus : M&#228;rkisches Ufer 34 : Mitte : 12</name>
+      <Point>
+        <coordinates>
+13.412187,52.513831
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
