@@ -1474,5 +1474,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2017-06-28 : Stone Brewing : Im Marienpark 23 : Mariendorf : 11</name>
+      <Point>
+        <coordinates>
+13.36805,52.43818
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

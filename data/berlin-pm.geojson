@@ -2548,6 +2548,20 @@
             "name" : "2017-05-31 : Hafenrestaurant Deckshaus : M\u00e4rkisches Ufer 34 : Mitte : 12"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.36805",
+               "52.43818"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2017-06-28 : Stone Brewing : Im Marienpark 23 : Mariendorf : 11"
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"
