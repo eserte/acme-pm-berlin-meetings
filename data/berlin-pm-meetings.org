@@ -203,6 +203,7 @@
     | 2017-03-29 | Schnitzelei Berlin Mitte        | Chausseestr. 8              | Mitte               |    9 | 52.52849,13.38736   |
     | 2017-04-26 | Viasko                          | Erkelenzdamm 49             | Kreuzberg           |    8 | 52.497601,13.412995 |
     | 2017-05-31 | Hafenrestaurant Deckshaus       | Märkisches Ufer 34          | Mitte               |   12 | 52.513831,13.412187 |
+    | 2017-06-28 | Stone Brewing                   | Im Marienpark 23            | Mariendorf          |   11 | 52.43818,13.36805   |
 
     Um diese Tabelle nach .kml und .geojson zu konvertieren:
     : make convert-berlin-pm-meetings.org
