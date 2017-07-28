@@ -1482,5 +1482,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2017-07-26 : Chay Village : Niederbarnimstra&#223;e 10 : Friedrichshain : 8</name>
+      <Point>
+        <coordinates>
+13.45829,52.51356
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

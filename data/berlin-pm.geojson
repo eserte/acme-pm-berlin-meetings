@@ -2562,6 +2562,20 @@
             "name" : "2017-06-28 : Stone Brewing : Im Marienpark 23 : Mariendorf : 11"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.45829",
+               "52.51356"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2017-07-26 : Chay Village : Niederbarnimstra\u00dfe 10 : Friedrichshain : 8"
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"
