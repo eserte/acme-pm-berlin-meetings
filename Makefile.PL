@@ -69,7 +69,9 @@ convert-for-acme-pm-berlin-meetings:
 
 convert-for-berlin-pm-org:
 	[ -s "${BERLINPM_GITHUB_IO_DIR}" ]
-	${PERL} script/pmmeetings2bbd.pl -r data/berlin-pm-meetings.org | ${PERK} ${BBBIKE_DIR}/miscsrc/bbd2geojson -bbbgeojsonp - > ${BERLINPM_GITHUB_IO_DIR}/javascripts/berlin-pm.geojsonp~
+	cd ${BERLINPM_GITHUB_IO_DIR}/javascripts && git pull
+	${PERL} -c script/pmmeetings2bbd.pl
+	${PERL} script/pmmeetings2bbd.pl -r data/berlin-pm-meetings.org | ${PERL} ${BBBIKE_DIR}/miscsrc/bbd2geojson -bbbgeojsonp - > ${BERLINPM_GITHUB_IO_DIR}/javascripts/berlin-pm.geojsonp~
 	mv ${BERLINPM_GITHUB_IO_DIR}/javascripts/berlin-pm.geojsonp~ ${BERLINPM_GITHUB_IO_DIR}/javascripts/berlin-pm.geojsonp
 	cd ${BERLINPM_GITHUB_IO_DIR}/javascripts && git diff
 	@echo "Does the diff look OK? (CTRL-C if not) "
