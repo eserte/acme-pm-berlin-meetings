@@ -1490,5 +1490,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2017-08-30 : Caf&#233; am Flie&#223; : Blankenburger Pflasterweg 40 : Stadtrandsiedlung Malchow : 11</name>
+      <Point>
+        <coordinates>
+13.469406,52.584534
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
