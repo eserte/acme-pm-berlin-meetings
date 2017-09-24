@@ -12,7 +12,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2002-02-?? : Caf\u00e9 Orange : Oranienburger Str. 32 : Mitte : "
+            "name" : "2002-02-?? : Caf\u00e9 Orange : Oranienburger Str. 32 : Mitte : \n2002-09-25 : Caf\u00e9 Orange : Oranienburger Str. 32 : Mitte : \n2017-01-25 : Caf\u00e9 Orange : Oranienburger Str. 32 : Mitte : 9"
          },
          "type" : "Feature"
       },
@@ -54,21 +54,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2002-05-29 : Entweder/Oder : Oderberger Str. 15 : Prenzlauer Berg : "
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.408289",
-               "52.539220"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2002-06-?? : Entweder/Oder (?) : Oderberger Str. 15 : Prenzlauer Berg : "
+            "name" : "2002-05-29 : Entweder/Oder : Oderberger Str. 15 : Prenzlauer Berg : \n2002-06-?? : Entweder/Oder (?) : Oderberger Str. 15 : Prenzlauer Berg : \n2003-06-25 : Entweder/Oder : Oderberger Str. 15 : Prenzlauer Berg : "
          },
          "type" : "Feature"
       },
@@ -103,20 +89,6 @@
       {
          "geometry" : {
             "coordinates" : [
-               "13.393556",
-               "52.524968"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2002-09-25 : Caf\u00e9 Orange : Oranienburger Str. 32 : Mitte : "
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.396389",
                "52.489340"
             ],
@@ -124,7 +96,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2002-10-30 : Locus : Marheinekeplatz 4 : Kreuzberg : "
+            "name" : "2002-10-30 : Locus : Marheinekeplatz 4 : Kreuzberg : \n2005-02-23 : Locus : Marheinekeplatz 4 : Kreuzberg : \n2008-01-02 : Locus : Marheinekeplatz 4 : Kreuzberg : \n2009-03-25 : Locus : Marheinekeplatz 4 : Kreuzberg : \n2011-01-05 : Locus : Marheinekeplatz 4 : Kreuzberg : \n2011-11-30 : Locus : Marheinekeplatz 4 : Kreuzberg : "
          },
          "type" : "Feature"
       },
@@ -194,7 +166,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2003-03-26 : Caf\u00e9 Hundertwasser : Simon-Dach-Str. 39 : Friedrichshain : "
+            "name" : "2003-03-26 : Caf\u00e9 Hundertwasser : Simon-Dach-Str. 39 : Friedrichshain : \n2004-09-29 : Caf\u00e9 Hundertwasser : Simon-Dach-Str. 39 : Friedrichshain : "
          },
          "type" : "Feature"
       },
@@ -229,20 +201,6 @@
       {
          "geometry" : {
             "coordinates" : [
-               "13.408289",
-               "52.539220"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2003-06-25 : Entweder/Oder : Oderberger Str. 15 : Prenzlauer Berg : "
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.336045",
                "52.511182"
             ],
@@ -250,7 +208,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2003-07-30 : Schleusenkrug : am Landwehrkanal : Tiergarten : "
+            "name" : "2003-07-30 : Schleusenkrug : am Landwehrkanal : Tiergarten : \n2009-04-29 : Schleusenkrug : am Landwehrkanal : Tiergarten : \n2010-04-28 : Schleusenkrug : am Landwehrkanal : Tiergarten : \n2011-04-27 : Schleusenkrug : am Landwehrkanal : Tiergarten : \n2012-06-27 : Schleusenkrug : am Landwehrkanal : Tiergarten : \n2013-04-24 : Schleusenkrug : am Landwehrkanal : Tiergarten : ~13\n2015-06-24 : Schleusenkrug : am Landwehrkanal : Tiergarten : 8"
          },
          "type" : "Feature"
       },
@@ -278,7 +236,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2003-09-24 : Kuchenkaiser : Oranienplatz 1 : Kreuzberg : "
+            "name" : "2003-09-24 : Kuchenkaiser : Oranienplatz 1 : Kreuzberg : \n2014-03-26 : Kuchenkaiser : Oranienplatz 1 : Kreuzberg : 7"
          },
          "type" : "Feature"
       },
@@ -334,7 +292,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2004-01-28 : Last century pub : Lenbachstr. 1 : Friedrichshain : "
+            "name" : "2004-01-28 : Last century pub : Lenbachstr. 1 : Friedrichshain : \n2012-01-25 : The Happy Pig's : Lenbachstr. 1 : Friedrichshain : "
          },
          "type" : "Feature"
       },
@@ -404,7 +362,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2004-07-28 : Caf\u00e9 Uebereck : Sonntagstr. 31 : Friedrichshain : "
+            "name" : "2004-07-28 : Caf\u00e9 Uebereck : Sonntagstr. 31 : Friedrichshain : \n2006-10-25 : Caf\u00e9 Uebereck : Sonntagstr. 31 : Friedrichshain : \n2006-11-29 : Caf\u00e9 Uebereck : Sonntagstr. 31 : Friedrichshain : \n2007-10-31 : Caf\u00e9 Uebereck : Sonntagstr. 31 : Friedrichshain : \n2009-06-24 : Caf\u00e9 Uebereck : Sonntagstr. 31 : Friedrichshain : \n2010-10-27 : Caf\u00e9 Uebereck : Sonntagstr. 31 : Friedrichshain : \n2012-04-25 : Caf\u00e9 Uebereck : Sonntagstr. 31 : Friedrichshain : ~18\n2014-08-27 : Caf\u00e9 Uebereck : Sonntagstr. 31 : Friedrichshain : 15\n2015-05-27 : Caf\u00e9 Uebereck : Sonntagstr. 31 : Friedrichshain : 5"
          },
          "type" : "Feature"
       },
@@ -418,21 +376,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2004-08-25 : Golgatha am Kreuzberg : Dudenstr. 40 : Kreuzberg : "
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.456823",
-               "52.510880"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2004-09-29 : Caf\u00e9 Hundertwasser : Simon-Dach-Str. 39 : Friedrichshain : "
+            "name" : "2004-08-25 : Golgatha am Kreuzberg : Dudenstr. 40 : Kreuzberg : \n2007-07-25 : Golgatha am Kreuzberg : Dudenstr. 40 : Kreuzberg : "
          },
          "type" : "Feature"
       },
@@ -467,20 +411,6 @@
       {
          "geometry" : {
             "coordinates" : [
-               "13.396389",
-               "52.489340"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2005-02-23 : Locus : Marheinekeplatz 4 : Kreuzberg : "
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.397396",
                "52.527191"
             ],
@@ -502,7 +432,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2005-04-27 : Old Emerald Isle : Erkelenzdamm 49 : Kreuzberg : "
+            "name" : "2005-04-27 : Old Emerald Isle : Erkelenzdamm 49 : Kreuzberg : \n2012-07-25 : Viasko : Erkelenzdamm 49 : Kreuzberg : \n2014-05-28 : Viasko : Erkelenzdamm 49 : Kreuzberg : ~9\n2015-10-28 : Viasko : Erkelenzdamm 49 : Kreuzberg : 11\n2017-04-26 : Viasko : Erkelenzdamm 49 : Kreuzberg : 8"
          },
          "type" : "Feature"
       },
@@ -516,7 +446,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2005-05-25 : Zollpackhof : Elisabeth-Abegg-Str. 1 : Tiergarten : "
+            "name" : "2005-05-25 : Zollpackhof : Elisabeth-Abegg-Str. 1 : Tiergarten : \n2010-07-28 : Zollpackhof : Elisabeth-Abegg-Str. 1 : Tiergarten : \n2012-08-29 : Zollpackhof : Elisabeth-Abegg-Str. 1 : Tiergarten : \n2016-06-29 : Zollpackhof : Elisabeth-Abegg-Str. 1 : Tiergarten : 10"
          },
          "type" : "Feature"
       },
@@ -642,7 +572,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2006-03-29 : Caf\u00e9 Resonanz (?) : Ebersstr. 73 : Sch\u00f6neberg : "
+            "name" : "2006-03-29 : Caf\u00e9 Resonanz (?) : Ebersstr. 73 : Sch\u00f6neberg : \n2014-04-30 : Caf\u00e9 Resonanz : Ebersstr. 73 : Sch\u00f6neberg : "
          },
          "type" : "Feature"
       },
@@ -712,7 +642,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2006-08-30 : Das Speisezimmer : Chausseestr. 8 : Mitte : "
+            "name" : "2006-08-30 : Das Speisezimmer : Chausseestr. 8 : Mitte : \n2017-03-29 : Schnitzelei Berlin Mitte : Chausseestr. 8 : Mitte : 9"
          },
          "type" : "Feature"
       },
@@ -727,34 +657,6 @@
          "properties" : {
             "cat" : "X",
             "name" : "2006-09-26 : Restaurant Gl\u00fchwurm : Handjerystr. 77 : Friedenau : "
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.466479",
-               "52.505370"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2006-10-25 : Caf\u00e9 Uebereck : Sonntagstr. 31 : Friedrichshain : "
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.466479",
-               "52.505370"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2006-11-29 : Caf\u00e9 Uebereck : Sonntagstr. 31 : Friedrichshain : "
          },
          "type" : "Feature"
       },
@@ -810,7 +712,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2007-03-28 : Ballhaus Mitte : Auguststr. 24 : Mitte : "
+            "name" : "2007-03-28 : Ballhaus Mitte : Auguststr. 24 : Mitte : \n2011-07-27 : Cl\u00e4rchens Ballhaus : Auguststr. 24 : Mitte : \n2011-08-10 : Cl\u00e4rchens Ballhaus : Auguststr. 24 : Mitte : "
          },
          "type" : "Feature"
       },
@@ -824,21 +726,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2007-04-25 : META : Am Falkplatz 1 : Prenzlauer Berg : "
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.405985",
-               "52.545926"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2007-05-30 : Deponie : Georgenstr. 5 : Mitte : "
+            "name" : "2007-04-25 : META : Am Falkplatz 1 : Prenzlauer Berg : \n2007-05-30 : Deponie : Georgenstr. 5 : Mitte : "
          },
          "type" : "Feature"
       },
@@ -852,21 +740,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2007-06-27 : Die Turnhalle : Holteistr. 6-9 : Friedrichshain : "
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.378335",
-               "52.486606"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2007-07-25 : Golgatha am Kreuzberg : Dudenstr. 40 : Kreuzberg : "
+            "name" : "2007-06-27 : Die Turnhalle : Holteistr. 6-9 : Friedrichshain : \n2008-04-30 : Die Turnhalle : Holteistr. 6-9 : Friedrichshain : \n2010-08-25 : Die Turnhalle : Holteistr. 6-9 : Friedrichshain : "
          },
          "type" : "Feature"
       },
@@ -880,7 +754,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2007-08-29 : Prater : Kastanienallee 7 : Prenzlauer Berg : "
+            "name" : "2007-08-29 : Prater : Kastanienallee 7 : Prenzlauer Berg : \n2009-07-29 : Prater : Kastanienallee 7 : Prenzlauer Berg : \n2011-08-31 : Prater : Kastanienallee 7 : Prenzlauer Berg : \n2012-05-30 : Prater : Kastanienallee 7 : Prenzlauer Berg : \n2016-08-31 : Prater : Kastanienallee 7 : Prenzlauer Berg : 15"
          },
          "type" : "Feature"
       },
@@ -894,21 +768,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2007-09-26 : Powwow : Grimmstr. 20 : Kreuzberg : "
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.466479",
-               "52.505370"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2007-10-31 : Caf\u00e9 Uebereck : Sonntagstr. 31 : Friedrichshain : "
+            "name" : "2007-09-26 : Powwow : Grimmstr. 20 : Kreuzberg : \n2016-10-26 : Powwow : Grimmstr. 20 : Kreuzberg : 11"
          },
          "type" : "Feature"
       },
@@ -923,20 +783,6 @@
          "properties" : {
             "cat" : "X",
             "name" : "2007-11-28 : Sankt Oberholz : Rosenthaler Str. 72a : Mitte : "
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.396389",
-               "52.489340"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2008-01-02 : Locus : Marheinekeplatz 4 : Kreuzberg : "
          },
          "type" : "Feature"
       },
@@ -978,21 +824,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2008-03-26 : Pap\u00e0 Pane di Sorrento : Ackerstr. 23 : Mitte : "
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.4653",
-               "52.50716"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2008-04-30 : Die Turnhalle : Holteistr. 6-9 : Friedrichshain : "
+            "name" : "2008-03-26 : Pap\u00e0 Pane di Sorrento : Ackerstr. 23 : Mitte : \n2010-09-29 : Pap\u00e0 Pane di Sorrento : Ackerstr. 23 : Mitte : \n2012-02-29 : Pap\u00e0 Pane di Sorrento : Ackerstr. 23 : Mitte : \n2014-10-29 : Pap\u00e0 Pane di Sorrento : Ackerstr. 23 : Mitte : 10"
          },
          "type" : "Feature"
       },
@@ -1048,7 +880,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2008-08-27 : Nola's am Weinberg : Weinbergspark : Mitte : "
+            "name" : "2008-08-27 : Nola's am Weinberg : Weinbergspark : Mitte : \n2013-05-29 : Nola's am Weinberg : Weinbergspark : Mitte : ~9"
          },
          "type" : "Feature"
       },
@@ -1062,7 +894,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2008-09-24 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : "
+            "name" : "2008-09-24 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : \n2009-01-07 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : \n2010-02-24 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : \n2011-01-26 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : \n2012-01-04 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : \n2013-01-09 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : 15\n2014-01-08 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : 10\n2015-01-07 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : 9\n2016-01-06 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : 12"
          },
          "type" : "Feature"
       },
@@ -1097,20 +929,6 @@
       {
          "geometry" : {
             "coordinates" : [
-               "13.391503",
-               "52.526051"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2009-01-07 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : "
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.394120",
                "52.528639"
             ],
@@ -1132,35 +950,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2009-03-04 : Restaurant Honigmond : Tieckstr. 12 : Mitte : "
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.396389",
-               "52.489340"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2009-03-25 : Locus : Marheinekeplatz 4 : Kreuzberg : "
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.336045",
-               "52.511182"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2009-04-29 : Schleusenkrug : am Landwehrkanal : Tiergarten : "
+            "name" : "2009-03-04 : Restaurant Honigmond : Tieckstr. 12 : Mitte : \n2010-03-31 : Restaurant Honigmond : Tieckstr. 12 : Mitte : "
          },
          "type" : "Feature"
       },
@@ -1175,34 +965,6 @@
          "properties" : {
             "cat" : "X",
             "name" : "2009-05-27 : Alpenst\u00fcck : Gartenstr. 9 : Mitte : "
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.466479",
-               "52.505370"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2009-06-24 : Caf\u00e9 Uebereck : Sonntagstr. 31 : Friedrichshain : "
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.410031",
-               "52.539821"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2009-07-29 : Prater : Kastanienallee 7 : Prenzlauer Berg : "
          },
          "type" : "Feature"
       },
@@ -1293,48 +1055,6 @@
       {
          "geometry" : {
             "coordinates" : [
-               "13.391503",
-               "52.526051"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2010-02-24 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : "
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.389313",
-               "52.529599"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2010-03-31 : Restaurant Honigmond : Tieckstr. 12 : Mitte : "
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.336045",
-               "52.511182"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2010-04-28 : Schleusenkrug : am Landwehrkanal : Tiergarten : "
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.339539",
                "52.524119"
             ],
@@ -1363,62 +1083,6 @@
       {
          "geometry" : {
             "coordinates" : [
-               "13.367068",
-               "52.521293"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2010-07-28 : Zollpackhof : Elisabeth-Abegg-Str. 1 : Tiergarten : "
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.4653",
-               "52.50716"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2010-08-25 : Die Turnhalle : Holteistr. 6-9 : Friedrichshain : "
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.396334",
-               "52.531914"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2010-09-29 : Pap\u00e0 Pane di Sorrento : Ackerstr. 23 : Mitte : "
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.466479",
-               "52.505370"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2010-10-27 : Caf\u00e9 Uebereck : Sonntagstr. 31 : Friedrichshain : "
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.462163",
                "52.513078"
             ],
@@ -1427,34 +1091,6 @@
          "properties" : {
             "cat" : "X",
             "name" : "2010-11-24 : Restaurant Fliegender Tisch : Mainzer Str. 10 : Friedrichshain : "
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.396389",
-               "52.489340"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2011-01-05 : Locus : Marheinekeplatz 4 : Kreuzberg : "
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.391503",
-               "52.526051"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2011-01-26 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : "
          },
          "type" : "Feature"
       },
@@ -1489,20 +1125,6 @@
       {
          "geometry" : {
             "coordinates" : [
-               "13.336045",
-               "52.511182"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2011-04-27 : Schleusenkrug : am Landwehrkanal : Tiergarten : "
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.444896",
                "52.474217"
             ],
@@ -1510,7 +1132,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2011-05-25 : Villa Rixdorf : Richardplatz 6 : Neuk\u00f6lln : "
+            "name" : "2011-05-25 : Villa Rixdorf : Richardplatz 6 : Neuk\u00f6lln : \n2014-07-30 : Villa Rixdorf : Richardplatz 6 : Neuk\u00f6lln : 9"
          },
          "type" : "Feature"
       },
@@ -1525,48 +1147,6 @@
          "properties" : {
             "cat" : "X",
             "name" : "2011-06-29 : Sommergarten in Alt-Moabit : Alt-Moabit 26 : Moabit : "
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.396805",
-               "52.526658"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2011-07-27 : Cl\u00e4rchens Ballhaus : Auguststr. 24 : Mitte : "
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.396805",
-               "52.526658"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2011-08-10 : Cl\u00e4rchens Ballhaus : Auguststr. 24 : Mitte : "
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.410031",
-               "52.539821"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2011-08-31 : Prater : Kastanienallee 7 : Prenzlauer Berg : "
          },
          "type" : "Feature"
       },
@@ -1601,62 +1181,6 @@
       {
          "geometry" : {
             "coordinates" : [
-               "13.396389",
-               "52.489340"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2011-11-30 : Locus : Marheinekeplatz 4 : Kreuzberg : "
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.391503",
-               "52.526051"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2012-01-04 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : "
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.468398",
-               "52.506860"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2012-01-25 : The Happy Pig's : Lenbachstr. 1 : Friedrichshain : "
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.396334",
-               "52.531914"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2012-02-29 : Pap\u00e0 Pane di Sorrento : Ackerstr. 23 : Mitte : "
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.435323",
                "52.469071"
             ],
@@ -1665,76 +1189,6 @@
          "properties" : {
             "cat" : "X",
             "name" : "2012-03-28 : Helmut Kohl Bar : Emser Str. 122 : Neuk\u00f6lln : "
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.466479",
-               "52.505370"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2012-04-25 : Caf\u00e9 Uebereck : Sonntagstr. 31 : Friedrichshain : ~18"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.410031",
-               "52.539821"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2012-05-30 : Prater : Kastanienallee 7 : Prenzlauer Berg : "
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.336045",
-               "52.511182"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2012-06-27 : Schleusenkrug : am Landwehrkanal : Tiergarten : "
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.412995",
-               "52.497601"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2012-07-25 : Viasko : Erkelenzdamm 49 : Kreuzberg : "
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.367068",
-               "52.521293"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2012-08-29 : Zollpackhof : Elisabeth-Abegg-Str. 1 : Tiergarten : "
          },
          "type" : "Feature"
       },
@@ -1783,20 +1237,6 @@
       {
          "geometry" : {
             "coordinates" : [
-               "13.391503",
-               "52.526051"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2013-01-09 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : 15"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.466270",
                "52.511846"
             ],
@@ -1804,7 +1244,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2013-01-30 : Caf\u00e9 Leander : Jungstr. 29 : Friedrichshain : 11"
+            "name" : "2013-01-30 : Caf\u00e9 Leander : Jungstr. 29 : Friedrichshain : 11\n2017-01-04 : Caf\u00e9 Leander : Jungstr. 29 : Friedrichshain : 14"
          },
          "type" : "Feature"
       },
@@ -1833,34 +1273,6 @@
          "properties" : {
             "cat" : "X",
             "name" : "2013-03-27 : Restauration Tucholsky : Torstr. 189 : Mitte : 10"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.336045",
-               "52.511182"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2013-04-24 : Schleusenkrug : am Landwehrkanal : Tiergarten : ~13"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.401891",
-               "52.532231"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2013-05-29 : Nola's am Weinberg : Weinbergspark : Mitte : ~9"
          },
          "type" : "Feature"
       },
@@ -1951,20 +1363,6 @@
       {
          "geometry" : {
             "coordinates" : [
-               "13.391503",
-               "52.526051"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2014-01-08 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : 10"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.471629",
                "52.517210"
             ],
@@ -1993,48 +1391,6 @@
       {
          "geometry" : {
             "coordinates" : [
-               "13.416583",
-               "52.502822"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2014-03-26 : Kuchenkaiser : Oranienplatz 1 : Kreuzberg : 7"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.351890",
-               "52.479737"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2014-04-30 : Caf\u00e9 Resonanz : Ebersstr. 73 : Sch\u00f6neberg : "
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.412995",
-               "52.497601"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2014-05-28 : Viasko : Erkelenzdamm 49 : Kreuzberg : ~9"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.45816",
                "52.51234"
             ],
@@ -2043,34 +1399,6 @@
          "properties" : {
             "cat" : "X",
             "name" : "2014-06-25 : Bistro Zeus : Boxhagener Str. 29 : Friedrichshain : 8"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.444896",
-               "52.474217"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2014-07-30 : Villa Rixdorf : Richardplatz 6 : Neuk\u00f6lln : 9"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.466479",
-               "52.505370"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2014-08-27 : Caf\u00e9 Uebereck : Sonntagstr. 31 : Friedrichshain : 15"
          },
          "type" : "Feature"
       },
@@ -2091,20 +1419,6 @@
       {
          "geometry" : {
             "coordinates" : [
-               "13.396334",
-               "52.531914"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2014-10-29 : Pap\u00e0 Pane di Sorrento : Ackerstr. 23 : Mitte : 10"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.39762",
                "52.53411"
             ],
@@ -2113,20 +1427,6 @@
          "properties" : {
             "cat" : "X",
             "name" : "2014-11-26 : Chay Viet (& Sloppy Joe's) : Brunnenstr. 164 : Mitte : 12"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.391503",
-               "52.526051"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2015-01-07 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : 9"
          },
          "type" : "Feature"
       },
@@ -2189,34 +1489,6 @@
       {
          "geometry" : {
             "coordinates" : [
-               "13.466479",
-               "52.505370"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2015-05-27 : Caf\u00e9 Uebereck : Sonntagstr. 31 : Friedrichshain : 5"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.336045",
-               "52.511182"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2015-06-24 : Schleusenkrug : am Landwehrkanal : Tiergarten : 8"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.465827",
                "52.553961"
             ],
@@ -2259,20 +1531,6 @@
       {
          "geometry" : {
             "coordinates" : [
-               "13.412995",
-               "52.497601"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2015-10-28 : Viasko : Erkelenzdamm 49 : Kreuzberg : 11"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.468645",
                "52.51117"
             ],
@@ -2280,21 +1538,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2015-11-25 : Caf\u00e9 Schmitts : Oderstr. 8 : Friedrichshain : 10"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.391503",
-               "52.526051"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2016-01-06 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : 12"
+            "name" : "2015-11-25 : Caf\u00e9 Schmitts : Oderstr. 8 : Friedrichshain : 10\n2016-05-25 : Caf\u00e9 Schmitts : Oderstr. 8 : Friedrichshain : 11"
          },
          "type" : "Feature"
       },
@@ -2357,34 +1601,6 @@
       {
          "geometry" : {
             "coordinates" : [
-               "13.468645",
-               "52.51117"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2016-05-25 : Caf\u00e9 Schmitts : Oderstr. 8 : Friedrichshain : 11"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.367068",
-               "52.521293"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2016-06-29 : Zollpackhof : Elisabeth-Abegg-Str. 1 : Tiergarten : 10"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.43166",
                "52.50076"
             ],
@@ -2413,20 +1629,6 @@
       {
          "geometry" : {
             "coordinates" : [
-               "13.410031",
-               "52.539821"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2016-08-31 : Prater : Kastanienallee 7 : Prenzlauer Berg : 15"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.416118",
                "52.503776"
             ],
@@ -2435,20 +1637,6 @@
          "properties" : {
             "cat" : "X",
             "name" : "2016-09-28 : Zur kleinen Markthalle : Legiendamm 32 : Kreuzberg : 7"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.414344",
-               "52.493091"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2016-10-26 : Powwow : Grimmstr. 20 : Kreuzberg : 11"
          },
          "type" : "Feature"
       },
@@ -2469,34 +1657,6 @@
       {
          "geometry" : {
             "coordinates" : [
-               "13.466270",
-               "52.511846"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2017-01-04 : Caf\u00e9 Leander : Jungstr. 29 : Friedrichshain : 14"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.393556",
-               "52.524968"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2017-01-25 : Caf\u00e9 Orange : Oranienburger Str. 32 : Mitte : 9"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
                "13.415613",
                "52.501529"
             ],
@@ -2505,34 +1665,6 @@
          "properties" : {
             "cat" : "X",
             "name" : "2017-02-22 : Ora (Oranien Apotheke) : Oranienplatz 14 : Kreuzberg : 5"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.38736",
-               "52.52849"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2017-03-29 : Schnitzelei Berlin Mitte : Chausseestr. 8 : Mitte : 9"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.412995",
-               "52.497601"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2017-04-26 : Viasko : Erkelenzdamm 49 : Kreuzberg : 8"
          },
          "type" : "Feature"
       },
