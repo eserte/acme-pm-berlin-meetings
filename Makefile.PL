@@ -56,23 +56,31 @@ EOF
 	$postamble .= <<'EOF';
 convert-berlin-pm-meetings.org: convert-for-acme-pm-berlin-meetings convert-for-berlin-pm-org
 
-convert-for-acme-pm-berlin-meetings:
+convert-for-acme-pm-berlin-meetings: only-convert-for-acme-pm-berlin-meetings push-convert-for-acme-pm-berlin-meetings
+
+only-convert-for-acme-pm-berlin-meetings:
 	${PERL} script/pmmeetings2bbd.pl data/berlin-pm-meetings.org | ${PERL} ${BBBIKE_DIR}/miscsrc/bbd2kml -title "Berlin PM meetings" - > data/berlin-pm.kml~
 	mv data/berlin-pm.kml~ data/berlin-pm.kml
-	${PERL} script/pmmeetings2bbd.pl data/berlin-pm-meetings.org | ${PERL} ${BBBIKE_DIR}/miscsrc/bbd2geojson - > data/berlin-pm.geojson~
+	${PERL} script/pmmeetings2bbd.pl data/berlin-pm-meetings.org | ${PERL} ${BBBIKE_DIR}/miscsrc/bbd2geojson -combine - > data/berlin-pm.geojson~
 	mv data/berlin-pm.geojson~ data/berlin-pm.geojson
+
+push-convert-for-acme-pm-berlin-meetings:
 	git diff data
 	@echo "Does the diff look OK? (CTRL-C if not) "
 	@read yn
 	git commit -m "kml and geojson update" data/berlin-pm.kml data/berlin-pm.geojson
 	git push
 
-convert-for-berlin-pm-org:
+convert-for-berlin-pm-org: only-convert-for-berlin-pm-org push-convert-for-berlin-pm-org
+
+only-convert-for-berlin-pm-org:
 	[ -s "${BERLINPM_GITHUB_IO_DIR}" ]
 	cd ${BERLINPM_GITHUB_IO_DIR}/javascripts && git pull
 	${PERL} -c script/pmmeetings2bbd.pl
-	${PERL} script/pmmeetings2bbd.pl -r data/berlin-pm-meetings.org | ${PERL} ${BBBIKE_DIR}/miscsrc/bbd2geojson -bbbgeojsonp - > ${BERLINPM_GITHUB_IO_DIR}/javascripts/berlin-pm.geojsonp~
+	${PERL} script/pmmeetings2bbd.pl -r data/berlin-pm-meetings.org | ${PERL} ${BBBIKE_DIR}/miscsrc/bbd2geojson -combine -bbbgeojsonp - > ${BERLINPM_GITHUB_IO_DIR}/javascripts/berlin-pm.geojsonp~
 	mv ${BERLINPM_GITHUB_IO_DIR}/javascripts/berlin-pm.geojsonp~ ${BERLINPM_GITHUB_IO_DIR}/javascripts/berlin-pm.geojsonp
+
+push-convert-for-berlin-pm-org:
 	cd ${BERLINPM_GITHUB_IO_DIR}/javascripts && git diff
 	@echo "Does the diff look OK? (CTRL-C if not) "
 	@read yn
