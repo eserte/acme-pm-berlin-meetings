@@ -1,4 +1,5 @@
-// generated with bbd2geojson (from BBBike distribution)
+// generated with bbd2geojson from BBBike distribution, see
+// https://github.com/eserte/bbbike/blob/master/miscsrc/bbd2geojson
 {
    "features" : [
       {
