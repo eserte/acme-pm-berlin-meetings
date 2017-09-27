@@ -206,6 +206,7 @@
     | 2017-06-28 | Stone Brewing                   | Im Marienpark 23             | Mariendorf                |   11 | 52.43818,13.36805   |
     | 2017-07-26 | Chay Village                    | Niederbarnimstraße 10        | Friedrichshain            |    8 | 52.51356,13.45829   |
     | 2017-08-30 | Café am Fließ                   | Blankenburger Pflasterweg 40 | Stadtrandsiedlung Malchow |   11 | 52.584534,13.469406 |
+    | 2017-09-27 | Brauhaus in Rixdorf             | Glasower Str. 27             | Neukölln                  |    8 | 52.46457,13.43595   |
 
     Um diese Tabelle nach .kml und .geojson zu konvertieren:
     : make convert-berlin-pm-meetings.org
