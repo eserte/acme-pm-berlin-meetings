@@ -1498,5 +1498,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2017-09-27 : Brauhaus in Rixdorf : Glasower Str. 27 : Neuk&#246;lln : 8</name>
+      <Point>
+        <coordinates>
+13.43595,52.46457
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

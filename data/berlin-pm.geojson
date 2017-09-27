@@ -12,7 +12,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2002-02-?? : Caf\u00e9 Orange : Oranienburger Str. 32 : Mitte : \n2002-09-25 : Caf\u00e9 Orange : Oranienburger Str. 32 : Mitte : \n2017-01-25 : Caf\u00e9 Orange : Oranienburger Str. 32 : Mitte : 9"
+            "name" : "2002-02-?? : Caf\u00e9 Orange : Oranienburger Str. 32 : Mitte : <br/>\n2002-09-25 : Caf\u00e9 Orange : Oranienburger Str. 32 : Mitte : <br/>\n2017-01-25 : Caf\u00e9 Orange : Oranienburger Str. 32 : Mitte : 9"
          },
          "type" : "Feature"
       },
@@ -54,7 +54,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2002-05-29 : Entweder/Oder : Oderberger Str. 15 : Prenzlauer Berg : \n2002-06-?? : Entweder/Oder (?) : Oderberger Str. 15 : Prenzlauer Berg : \n2003-06-25 : Entweder/Oder : Oderberger Str. 15 : Prenzlauer Berg : "
+            "name" : "2002-05-29 : Entweder/Oder : Oderberger Str. 15 : Prenzlauer Berg : <br/>\n2002-06-?? : Entweder/Oder (?) : Oderberger Str. 15 : Prenzlauer Berg : <br/>\n2003-06-25 : Entweder/Oder : Oderberger Str. 15 : Prenzlauer Berg : "
          },
          "type" : "Feature"
       },
@@ -96,7 +96,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2002-10-30 : Locus : Marheinekeplatz 4 : Kreuzberg : \n2005-02-23 : Locus : Marheinekeplatz 4 : Kreuzberg : \n2008-01-02 : Locus : Marheinekeplatz 4 : Kreuzberg : \n2009-03-25 : Locus : Marheinekeplatz 4 : Kreuzberg : \n2011-01-05 : Locus : Marheinekeplatz 4 : Kreuzberg : \n2011-11-30 : Locus : Marheinekeplatz 4 : Kreuzberg : "
+            "name" : "2002-10-30 : Locus : Marheinekeplatz 4 : Kreuzberg : <br/>\n2005-02-23 : Locus : Marheinekeplatz 4 : Kreuzberg : <br/>\n2008-01-02 : Locus : Marheinekeplatz 4 : Kreuzberg : <br/>\n2009-03-25 : Locus : Marheinekeplatz 4 : Kreuzberg : <br/>\n2011-01-05 : Locus : Marheinekeplatz 4 : Kreuzberg : <br/>\n2011-11-30 : Locus : Marheinekeplatz 4 : Kreuzberg : "
          },
          "type" : "Feature"
       },
@@ -166,7 +166,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2003-03-26 : Caf\u00e9 Hundertwasser : Simon-Dach-Str. 39 : Friedrichshain : \n2004-09-29 : Caf\u00e9 Hundertwasser : Simon-Dach-Str. 39 : Friedrichshain : "
+            "name" : "2003-03-26 : Caf\u00e9 Hundertwasser : Simon-Dach-Str. 39 : Friedrichshain : <br/>\n2004-09-29 : Caf\u00e9 Hundertwasser : Simon-Dach-Str. 39 : Friedrichshain : "
          },
          "type" : "Feature"
       },
@@ -208,7 +208,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2003-07-30 : Schleusenkrug : am Landwehrkanal : Tiergarten : \n2009-04-29 : Schleusenkrug : am Landwehrkanal : Tiergarten : \n2010-04-28 : Schleusenkrug : am Landwehrkanal : Tiergarten : \n2011-04-27 : Schleusenkrug : am Landwehrkanal : Tiergarten : \n2012-06-27 : Schleusenkrug : am Landwehrkanal : Tiergarten : \n2013-04-24 : Schleusenkrug : am Landwehrkanal : Tiergarten : ~13\n2015-06-24 : Schleusenkrug : am Landwehrkanal : Tiergarten : 8"
+            "name" : "2003-07-30 : Schleusenkrug : am Landwehrkanal : Tiergarten : <br/>\n2009-04-29 : Schleusenkrug : am Landwehrkanal : Tiergarten : <br/>\n2010-04-28 : Schleusenkrug : am Landwehrkanal : Tiergarten : <br/>\n2011-04-27 : Schleusenkrug : am Landwehrkanal : Tiergarten : <br/>\n2012-06-27 : Schleusenkrug : am Landwehrkanal : Tiergarten : <br/>\n2013-04-24 : Schleusenkrug : am Landwehrkanal : Tiergarten : ~13<br/>\n2015-06-24 : Schleusenkrug : am Landwehrkanal : Tiergarten : 8"
          },
          "type" : "Feature"
       },
@@ -236,7 +236,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2003-09-24 : Kuchenkaiser : Oranienplatz 1 : Kreuzberg : \n2014-03-26 : Kuchenkaiser : Oranienplatz 1 : Kreuzberg : 7"
+            "name" : "2003-09-24 : Kuchenkaiser : Oranienplatz 1 : Kreuzberg : <br/>\n2014-03-26 : Kuchenkaiser : Oranienplatz 1 : Kreuzberg : 7"
          },
          "type" : "Feature"
       },
@@ -292,7 +292,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2004-01-28 : Last century pub : Lenbachstr. 1 : Friedrichshain : \n2012-01-25 : The Happy Pig's : Lenbachstr. 1 : Friedrichshain : "
+            "name" : "2004-01-28 : Last century pub : Lenbachstr. 1 : Friedrichshain : <br/>\n2012-01-25 : The Happy Pig's : Lenbachstr. 1 : Friedrichshain : "
          },
          "type" : "Feature"
       },
@@ -362,7 +362,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2004-07-28 : Caf\u00e9 Uebereck : Sonntagstr. 31 : Friedrichshain : \n2006-10-25 : Caf\u00e9 Uebereck : Sonntagstr. 31 : Friedrichshain : \n2006-11-29 : Caf\u00e9 Uebereck : Sonntagstr. 31 : Friedrichshain : \n2007-10-31 : Caf\u00e9 Uebereck : Sonntagstr. 31 : Friedrichshain : \n2009-06-24 : Caf\u00e9 Uebereck : Sonntagstr. 31 : Friedrichshain : \n2010-10-27 : Caf\u00e9 Uebereck : Sonntagstr. 31 : Friedrichshain : \n2012-04-25 : Caf\u00e9 Uebereck : Sonntagstr. 31 : Friedrichshain : ~18\n2014-08-27 : Caf\u00e9 Uebereck : Sonntagstr. 31 : Friedrichshain : 15\n2015-05-27 : Caf\u00e9 Uebereck : Sonntagstr. 31 : Friedrichshain : 5"
+            "name" : "2004-07-28 : Caf\u00e9 Uebereck : Sonntagstr. 31 : Friedrichshain : <br/>\n2006-10-25 : Caf\u00e9 Uebereck : Sonntagstr. 31 : Friedrichshain : <br/>\n2006-11-29 : Caf\u00e9 Uebereck : Sonntagstr. 31 : Friedrichshain : <br/>\n2007-10-31 : Caf\u00e9 Uebereck : Sonntagstr. 31 : Friedrichshain : <br/>\n2009-06-24 : Caf\u00e9 Uebereck : Sonntagstr. 31 : Friedrichshain : <br/>\n2010-10-27 : Caf\u00e9 Uebereck : Sonntagstr. 31 : Friedrichshain : <br/>\n2012-04-25 : Caf\u00e9 Uebereck : Sonntagstr. 31 : Friedrichshain : ~18<br/>\n2014-08-27 : Caf\u00e9 Uebereck : Sonntagstr. 31 : Friedrichshain : 15<br/>\n2015-05-27 : Caf\u00e9 Uebereck : Sonntagstr. 31 : Friedrichshain : 5"
          },
          "type" : "Feature"
       },
@@ -376,7 +376,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2004-08-25 : Golgatha am Kreuzberg : Dudenstr. 40 : Kreuzberg : \n2007-07-25 : Golgatha am Kreuzberg : Dudenstr. 40 : Kreuzberg : "
+            "name" : "2004-08-25 : Golgatha am Kreuzberg : Dudenstr. 40 : Kreuzberg : <br/>\n2007-07-25 : Golgatha am Kreuzberg : Dudenstr. 40 : Kreuzberg : "
          },
          "type" : "Feature"
       },
@@ -432,7 +432,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2005-04-27 : Old Emerald Isle : Erkelenzdamm 49 : Kreuzberg : \n2012-07-25 : Viasko : Erkelenzdamm 49 : Kreuzberg : \n2014-05-28 : Viasko : Erkelenzdamm 49 : Kreuzberg : ~9\n2015-10-28 : Viasko : Erkelenzdamm 49 : Kreuzberg : 11\n2017-04-26 : Viasko : Erkelenzdamm 49 : Kreuzberg : 8"
+            "name" : "2005-04-27 : Old Emerald Isle : Erkelenzdamm 49 : Kreuzberg : <br/>\n2012-07-25 : Viasko : Erkelenzdamm 49 : Kreuzberg : <br/>\n2014-05-28 : Viasko : Erkelenzdamm 49 : Kreuzberg : ~9<br/>\n2015-10-28 : Viasko : Erkelenzdamm 49 : Kreuzberg : 11<br/>\n2017-04-26 : Viasko : Erkelenzdamm 49 : Kreuzberg : 8"
          },
          "type" : "Feature"
       },
@@ -446,7 +446,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2005-05-25 : Zollpackhof : Elisabeth-Abegg-Str. 1 : Tiergarten : \n2010-07-28 : Zollpackhof : Elisabeth-Abegg-Str. 1 : Tiergarten : \n2012-08-29 : Zollpackhof : Elisabeth-Abegg-Str. 1 : Tiergarten : \n2016-06-29 : Zollpackhof : Elisabeth-Abegg-Str. 1 : Tiergarten : 10"
+            "name" : "2005-05-25 : Zollpackhof : Elisabeth-Abegg-Str. 1 : Tiergarten : <br/>\n2010-07-28 : Zollpackhof : Elisabeth-Abegg-Str. 1 : Tiergarten : <br/>\n2012-08-29 : Zollpackhof : Elisabeth-Abegg-Str. 1 : Tiergarten : <br/>\n2016-06-29 : Zollpackhof : Elisabeth-Abegg-Str. 1 : Tiergarten : 10"
          },
          "type" : "Feature"
       },
@@ -572,7 +572,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2006-03-29 : Caf\u00e9 Resonanz (?) : Ebersstr. 73 : Sch\u00f6neberg : \n2014-04-30 : Caf\u00e9 Resonanz : Ebersstr. 73 : Sch\u00f6neberg : "
+            "name" : "2006-03-29 : Caf\u00e9 Resonanz (?) : Ebersstr. 73 : Sch\u00f6neberg : <br/>\n2014-04-30 : Caf\u00e9 Resonanz : Ebersstr. 73 : Sch\u00f6neberg : "
          },
          "type" : "Feature"
       },
@@ -642,7 +642,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2006-08-30 : Das Speisezimmer : Chausseestr. 8 : Mitte : \n2017-03-29 : Schnitzelei Berlin Mitte : Chausseestr. 8 : Mitte : 9"
+            "name" : "2006-08-30 : Das Speisezimmer : Chausseestr. 8 : Mitte : <br/>\n2017-03-29 : Schnitzelei Berlin Mitte : Chausseestr. 8 : Mitte : 9"
          },
          "type" : "Feature"
       },
@@ -712,7 +712,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2007-03-28 : Ballhaus Mitte : Auguststr. 24 : Mitte : \n2011-07-27 : Cl\u00e4rchens Ballhaus : Auguststr. 24 : Mitte : \n2011-08-10 : Cl\u00e4rchens Ballhaus : Auguststr. 24 : Mitte : "
+            "name" : "2007-03-28 : Ballhaus Mitte : Auguststr. 24 : Mitte : <br/>\n2011-07-27 : Cl\u00e4rchens Ballhaus : Auguststr. 24 : Mitte : <br/>\n2011-08-10 : Cl\u00e4rchens Ballhaus : Auguststr. 24 : Mitte : "
          },
          "type" : "Feature"
       },
@@ -726,7 +726,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2007-04-25 : META : Am Falkplatz 1 : Prenzlauer Berg : \n2007-05-30 : Deponie : Georgenstr. 5 : Mitte : "
+            "name" : "2007-04-25 : META : Am Falkplatz 1 : Prenzlauer Berg : <br/>\n2007-05-30 : Deponie : Georgenstr. 5 : Mitte : "
          },
          "type" : "Feature"
       },
@@ -740,7 +740,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2007-06-27 : Die Turnhalle : Holteistr. 6-9 : Friedrichshain : \n2008-04-30 : Die Turnhalle : Holteistr. 6-9 : Friedrichshain : \n2010-08-25 : Die Turnhalle : Holteistr. 6-9 : Friedrichshain : "
+            "name" : "2007-06-27 : Die Turnhalle : Holteistr. 6-9 : Friedrichshain : <br/>\n2008-04-30 : Die Turnhalle : Holteistr. 6-9 : Friedrichshain : <br/>\n2010-08-25 : Die Turnhalle : Holteistr. 6-9 : Friedrichshain : "
          },
          "type" : "Feature"
       },
@@ -754,7 +754,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2007-08-29 : Prater : Kastanienallee 7 : Prenzlauer Berg : \n2009-07-29 : Prater : Kastanienallee 7 : Prenzlauer Berg : \n2011-08-31 : Prater : Kastanienallee 7 : Prenzlauer Berg : \n2012-05-30 : Prater : Kastanienallee 7 : Prenzlauer Berg : \n2016-08-31 : Prater : Kastanienallee 7 : Prenzlauer Berg : 15"
+            "name" : "2007-08-29 : Prater : Kastanienallee 7 : Prenzlauer Berg : <br/>\n2009-07-29 : Prater : Kastanienallee 7 : Prenzlauer Berg : <br/>\n2011-08-31 : Prater : Kastanienallee 7 : Prenzlauer Berg : <br/>\n2012-05-30 : Prater : Kastanienallee 7 : Prenzlauer Berg : <br/>\n2016-08-31 : Prater : Kastanienallee 7 : Prenzlauer Berg : 15"
          },
          "type" : "Feature"
       },
@@ -768,7 +768,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2007-09-26 : Powwow : Grimmstr. 20 : Kreuzberg : \n2016-10-26 : Powwow : Grimmstr. 20 : Kreuzberg : 11"
+            "name" : "2007-09-26 : Powwow : Grimmstr. 20 : Kreuzberg : <br/>\n2016-10-26 : Powwow : Grimmstr. 20 : Kreuzberg : 11"
          },
          "type" : "Feature"
       },
@@ -824,7 +824,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2008-03-26 : Pap\u00e0 Pane di Sorrento : Ackerstr. 23 : Mitte : \n2010-09-29 : Pap\u00e0 Pane di Sorrento : Ackerstr. 23 : Mitte : \n2012-02-29 : Pap\u00e0 Pane di Sorrento : Ackerstr. 23 : Mitte : \n2014-10-29 : Pap\u00e0 Pane di Sorrento : Ackerstr. 23 : Mitte : 10"
+            "name" : "2008-03-26 : Pap\u00e0 Pane di Sorrento : Ackerstr. 23 : Mitte : <br/>\n2010-09-29 : Pap\u00e0 Pane di Sorrento : Ackerstr. 23 : Mitte : <br/>\n2012-02-29 : Pap\u00e0 Pane di Sorrento : Ackerstr. 23 : Mitte : <br/>\n2014-10-29 : Pap\u00e0 Pane di Sorrento : Ackerstr. 23 : Mitte : 10"
          },
          "type" : "Feature"
       },
@@ -880,7 +880,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2008-08-27 : Nola's am Weinberg : Weinbergspark : Mitte : \n2013-05-29 : Nola's am Weinberg : Weinbergspark : Mitte : ~9"
+            "name" : "2008-08-27 : Nola's am Weinberg : Weinbergspark : Mitte : <br/>\n2013-05-29 : Nola's am Weinberg : Weinbergspark : Mitte : ~9"
          },
          "type" : "Feature"
       },
@@ -894,7 +894,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2008-09-24 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : \n2009-01-07 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : \n2010-02-24 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : \n2011-01-26 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : \n2012-01-04 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : \n2013-01-09 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : 15\n2014-01-08 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : 10\n2015-01-07 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : 9\n2016-01-06 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : 12"
+            "name" : "2008-09-24 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : <br/>\n2009-01-07 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : <br/>\n2010-02-24 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : <br/>\n2011-01-26 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : <br/>\n2012-01-04 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : <br/>\n2013-01-09 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : 15<br/>\n2014-01-08 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : 10<br/>\n2015-01-07 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : 9<br/>\n2016-01-06 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : 12"
          },
          "type" : "Feature"
       },
@@ -950,7 +950,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2009-03-04 : Restaurant Honigmond : Tieckstr. 12 : Mitte : \n2010-03-31 : Restaurant Honigmond : Tieckstr. 12 : Mitte : "
+            "name" : "2009-03-04 : Restaurant Honigmond : Tieckstr. 12 : Mitte : <br/>\n2010-03-31 : Restaurant Honigmond : Tieckstr. 12 : Mitte : "
          },
          "type" : "Feature"
       },
@@ -1132,7 +1132,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2011-05-25 : Villa Rixdorf : Richardplatz 6 : Neuk\u00f6lln : \n2014-07-30 : Villa Rixdorf : Richardplatz 6 : Neuk\u00f6lln : 9"
+            "name" : "2011-05-25 : Villa Rixdorf : Richardplatz 6 : Neuk\u00f6lln : <br/>\n2014-07-30 : Villa Rixdorf : Richardplatz 6 : Neuk\u00f6lln : 9"
          },
          "type" : "Feature"
       },
@@ -1244,7 +1244,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2013-01-30 : Caf\u00e9 Leander : Jungstr. 29 : Friedrichshain : 11\n2017-01-04 : Caf\u00e9 Leander : Jungstr. 29 : Friedrichshain : 14"
+            "name" : "2013-01-30 : Caf\u00e9 Leander : Jungstr. 29 : Friedrichshain : 11<br/>\n2017-01-04 : Caf\u00e9 Leander : Jungstr. 29 : Friedrichshain : 14"
          },
          "type" : "Feature"
       },
@@ -1538,7 +1538,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2015-11-25 : Caf\u00e9 Schmitts : Oderstr. 8 : Friedrichshain : 10\n2016-05-25 : Caf\u00e9 Schmitts : Oderstr. 8 : Friedrichshain : 11"
+            "name" : "2015-11-25 : Caf\u00e9 Schmitts : Oderstr. 8 : Friedrichshain : 10<br/>\n2016-05-25 : Caf\u00e9 Schmitts : Oderstr. 8 : Friedrichshain : 11"
          },
          "type" : "Feature"
       },
@@ -1721,6 +1721,20 @@
          "properties" : {
             "cat" : "X",
             "name" : "2017-08-30 : Caf\u00e9 am Flie\u00df : Blankenburger Pflasterweg 40 : Stadtrandsiedlung Malchow : 11"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.43595",
+               "52.46457"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2017-09-27 : Brauhaus in Rixdorf : Glasower Str. 27 : Neuk\u00f6lln : 8"
          },
          "type" : "Feature"
       }
