@@ -1506,5 +1506,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2017-10-25 : Brauhaus Lemke am Hackeschen Markt : Dircksenstr. 143 : Mitte : 7</name>
+      <Point>
+        <coordinates>
+13.40419,52.52315
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
