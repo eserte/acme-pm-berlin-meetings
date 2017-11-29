@@ -1514,5 +1514,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2017-11-29 : Bal&#233; : Schlesische Str. 35 : Kreuzberg : 11</name>
+      <Point>
+        <coordinates>
+13.44534,52.49941
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
