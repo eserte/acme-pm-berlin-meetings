@@ -209,6 +209,8 @@
     | 2017-09-27 | Brauhaus in Rixdorf                | Glasower Str. 27             | Neukölln                  |    8 | 52.46457,13.43595   |
     | 2017-10-25 | Brauhaus Lemke am Hackeschen Markt | Dircksenstr. 143             | Mitte                     |    7 | 52.52315,13.40419   |
     | 2017-11-29 | Balé                               | Schlesische Str. 35          | Kreuzberg                 |   11 | 52.49941,13.44534   |
+    |------------+------------------------------------+------------------------------+---------------------------+------+---------------------|
+    | 2018-01-03 | Brewdog                            | Ackerstr. 29                 | Mitte                     |   10 | 52.53280,13.39577   |
 
     Um diese Tabelle nach .kml und .geojson zu konvertieren:
     : make convert-berlin-pm-meetings.org
