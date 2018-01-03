@@ -1765,6 +1765,20 @@
             "name" : "2017-11-29 : Bal\u00e9 : Schlesische Str. 35 : Kreuzberg : 11"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.39577",
+               "52.53280"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2018-01-03 : Brewdog : Ackerstr. 29 : Mitte : 10"
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"
