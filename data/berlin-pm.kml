@@ -1530,5 +1530,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2018-01-31 : Lindenbr&#228;u am Potsdamer Platz : Bellevuestrasse 3-5 : Tiergarten : 12</name>
+      <Point>
+        <coordinates>
+13.37233,52.51029
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
