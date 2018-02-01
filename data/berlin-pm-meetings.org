@@ -211,6 +211,7 @@
     | 2017-11-29 | Balé                               | Schlesische Str. 35          | Kreuzberg                 |   11 | 52.49941,13.44534   |
     |------------+------------------------------------+------------------------------+---------------------------+------+---------------------|
     | 2018-01-03 | Brewdog                            | Ackerstr. 29                 | Mitte                     |   10 | 52.53280,13.39577   |
+    | 2018-01-31 | Lindenbräu am Potsdamer Platz      | Bellevuestrasse 3-5          | Tiergarten                |   12 | 52.51029,13.37233   |
 
     Um diese Tabelle nach .kml und .geojson zu konvertieren:
     : make convert-berlin-pm-meetings.org
