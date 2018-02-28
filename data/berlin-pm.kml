@@ -1538,5 +1538,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2018-02-28 : Pap&#224; Pane di Sorrento : Ackerstr. 23 : Mitte : 11</name>
+      <Point>
+        <coordinates>
+13.396334,52.531914
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
