@@ -1546,5 +1546,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2018-03-28 : Caf&#233; Morgenland : Skalitzer Str. 35 : Kreuzberg : 10</name>
+      <Point>
+        <coordinates>
+13.42579,52.49886
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
