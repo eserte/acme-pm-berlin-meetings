@@ -1807,6 +1807,20 @@
             "name" : "2018-03-28 : Caf\u00e9 Morgenland : Skalitzer Str. 35 : Kreuzberg : 10"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.41519",
+               "52.54395"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2018-04-25 : Caf\u00e9 Butter : Pappelallee 73 : Prenzlauer Berg : 10"
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"

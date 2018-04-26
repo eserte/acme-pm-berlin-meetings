@@ -1554,5 +1554,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2018-04-25 : Caf&#233; Butter : Pappelallee 73 : Prenzlauer Berg : 10</name>
+      <Point>
+        <coordinates>
+13.41519,52.54395
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
