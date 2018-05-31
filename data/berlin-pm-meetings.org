@@ -215,6 +215,7 @@
     | 2018-02-28 | Papà Pane di Sorrento              | Ackerstr. 23                 | Mitte                     |   11 | 52.531914,13.396334 |
     | 2018-03-28 | Café Morgenland                    | Skalitzer Str. 35            | Kreuzberg                 |   10 | 52.49886,13.42579   |
     | 2018-04-25 | Café Butter                        | Pappelallee 73               | Prenzlauer Berg           |   10 | 52.54395,13.41519   |
+    | 2018-05-30 | Schleusenkrug                      | am Landwehrkanal             | Tiergarten                |    9 | 52.511182,13.336045 |
 
     Um diese Tabelle nach .kml und .geojson zu konvertieren:
     : make convert-berlin-pm-meetings.org
