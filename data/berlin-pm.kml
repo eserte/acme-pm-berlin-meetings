@@ -1570,5 +1570,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2018-06-27 : J&#228;gerklause : Gr&#252;nberger Str. 1 : Friedrichshain : 8</name>
+      <Point>
+        <coordinates>
+13.44776,52.51344
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

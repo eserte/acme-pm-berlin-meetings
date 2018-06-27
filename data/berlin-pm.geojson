@@ -1821,6 +1821,20 @@
             "name" : "2018-04-25 : Caf\u00e9 Butter : Pappelallee 73 : Prenzlauer Berg : 10"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.44776",
+               "52.51344"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2018-06-27 : J\u00e4gerklause : Gr\u00fcnberger Str. 1 : Friedrichshain : 8"
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"
