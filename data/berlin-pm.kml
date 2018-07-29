@@ -1578,5 +1578,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2018-07-25 : Biergarten Moabiter Freiheit : Alt-Moabit 24 : Moabit : 10</name>
+      <Point>
+        <coordinates>
+13.34891,52.52526
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
