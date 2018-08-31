@@ -1849,6 +1849,20 @@
             "name" : "2018-07-25 : Biergarten Moabiter Freiheit : Alt-Moabit 24 : Moabit : 10"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.41182",
+               "52.49139"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2018-08-29 : M\u00e4dchen ohne Abitur : K\u00f6rtestr. 5 : Kreuzberg : 8"
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"

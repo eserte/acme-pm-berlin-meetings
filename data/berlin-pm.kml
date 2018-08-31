@@ -1586,5 +1586,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2018-08-29 : M&#228;dchen ohne Abitur : K&#246;rtestr. 5 : Kreuzberg : 8</name>
+      <Point>
+        <coordinates>
+13.41182,52.49139
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
