@@ -218,6 +218,7 @@
     | 2018-05-30 | Schleusenkrug                      | am Landwehrkanal             | Tiergarten                |    9 | 52.511182,13.336045 |
     | 2018-06-27 | Jägerklause                        | Grünberger Str. 1            | Friedrichshain            |    8 | 52.51344,13.44776   |
     | 2018-07-25 | Biergarten Moabiter Freiheit       | Alt-Moabit 24                | Moabit                    |   10 | 52.52526,13.34891   |
+    | 2018-08-29 | Mädchen ohne Abitur                | Körtestr. 5                  | Kreuzberg                 |    8 | 52.49139,13.41182   |
 
     Um diese Tabelle nach .kml und .geojson zu konvertieren:
     : make convert-berlin-pm-meetings.org
