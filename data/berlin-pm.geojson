@@ -432,7 +432,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2005-04-27 : Old Emerald Isle : Erkelenzdamm 49 : Kreuzberg : <br/>\n2012-07-25 : Viasko : Erkelenzdamm 49 : Kreuzberg : <br/>\n2014-05-28 : Viasko : Erkelenzdamm 49 : Kreuzberg : ~9<br/>\n2015-10-28 : Viasko : Erkelenzdamm 49 : Kreuzberg : 11<br/>\n2017-04-26 : Viasko : Erkelenzdamm 49 : Kreuzberg : 8<br/>\n2017-09-26 : Viasko : Erkelenzdamm 49 : Kreuzberg : 9"
+            "name" : "2005-04-27 : Old Emerald Isle : Erkelenzdamm 49 : Kreuzberg : <br/>\n2012-07-25 : Viasko : Erkelenzdamm 49 : Kreuzberg : <br/>\n2014-05-28 : Viasko : Erkelenzdamm 49 : Kreuzberg : ~9<br/>\n2015-10-28 : Viasko : Erkelenzdamm 49 : Kreuzberg : 11<br/>\n2017-04-26 : Viasko : Erkelenzdamm 49 : Kreuzberg : 8<br/>\n2018-09-26 : Viasko : Erkelenzdamm 49 : Kreuzberg : 9"
          },
          "type" : "Feature"
       },
@@ -1861,6 +1861,20 @@
          "properties" : {
             "cat" : "X",
             "name" : "2018-08-29 : M\u00e4dchen ohne Abitur : K\u00f6rtestr. 5 : Kreuzberg : 8"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.41246",
+               "52.52519"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2018-10-31 : Las Olas : Karl-Liebknecht-Str. 29 : Mitte : 15"
          },
          "type" : "Feature"
       }
