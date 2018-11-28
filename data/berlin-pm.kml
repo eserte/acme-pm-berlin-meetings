@@ -1618,5 +1618,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2018-11-28 : Schalander im RAW : Revaler Stra&#223;e 99 : Friedrichshain : 9</name>
+      <Point>
+        <coordinates>
+13.45695,52.50706
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

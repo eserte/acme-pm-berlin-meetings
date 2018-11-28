@@ -1877,6 +1877,20 @@
             "name" : "2018-10-31 : Las Olas : Karl-Liebknecht-Str. 29 : Mitte : 15"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.45695",
+               "52.50706"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2018-11-28 : Schalander im RAW : Revaler Stra\u00dfe 99 : Friedrichshain : 9"
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"
