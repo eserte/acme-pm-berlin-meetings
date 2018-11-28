@@ -222,6 +222,7 @@
     | 2018-09-13 | Lindenbräu am Potsdamer Platz      | Bellevuestrasse 3-5          | Tiergarten                |   16 | 52.51029,13.37233   |
     | 2018-09-26 | Viasko                             | Erkelenzdamm 49              | Kreuzberg                 |    9 | 52.497601,13.412995 |
     | 2018-10-31 | Las Olas                           | Karl-Liebknecht-Str. 29      | Mitte                     |   15 | 52.52519,13.41246   |
+    | 2018-11-28 | Schalander im RAW                  | Revaler Straße 99            | Friedrichshain            |    9 | 52.50706,13.45695   |
 
     Um diese Tabelle nach .kml und .geojson zu konvertieren:
     : make convert-berlin-pm-meetings.org
