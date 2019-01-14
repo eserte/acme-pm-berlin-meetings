@@ -1,5 +1,3 @@
-// generated with bbd2geojson from BBBike distribution, see
-// https://github.com/eserte/bbbike/blob/master/miscsrc/bbd2geojson
 {
    "features" : [
       {
@@ -1889,6 +1887,20 @@
          "properties" : {
             "cat" : "X",
             "name" : "2018-11-28 : Schalander im RAW : Revaler Stra\u00dfe 99 : Friedrichshain : 9"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.32348",
+               "52.50655"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2019-01-09 : Dicke Wirtin : Carmerstra\u00dfe 9 : Charlottenburg : 8"
          },
          "type" : "Feature"
       }

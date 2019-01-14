@@ -1626,5 +1626,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2019-01-09 : Dicke Wirtin : Carmerstra&#223;e 9 : Charlottenburg : 8</name>
+      <Point>
+        <coordinates>
+13.32348,52.50655
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
