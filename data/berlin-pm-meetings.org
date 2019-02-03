@@ -225,6 +225,7 @@
     | 2018-11-28 | Schalander im RAW                  | Revaler Straße 99            | Friedrichshain            |    9 | 52.50706,13.45695   |
     |------------+------------------------------------+------------------------------+---------------------------+------+---------------------|
     | 2019-01-09 | Dicke Wirtin                       | Carmerstraße 9               | Charlottenburg            |    8 | 52.50655,13.32348   |
+    | 2019-01-30 | Alte Dorfecke                      | Alt-Tempelhof 61             | Tempelhof                 |    8 | 52.46578,13.37804   |
 
     Um diese Tabelle nach .kml und .geojson zu konvertieren:
     : make convert-berlin-pm-meetings.org
