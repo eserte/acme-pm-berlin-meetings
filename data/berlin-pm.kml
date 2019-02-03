@@ -1634,5 +1634,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2019-01-30 : Alte Dorfecke : Alt-Tempelhof 61 : Tempelhof : 8</name>
+      <Point>
+        <coordinates>
+13.37804,52.46578
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

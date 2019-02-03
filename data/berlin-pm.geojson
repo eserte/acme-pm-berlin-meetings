@@ -1903,6 +1903,20 @@
             "name" : "2019-01-09 : Dicke Wirtin : Carmerstra\u00dfe 9 : Charlottenburg : 8"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.37804",
+               "52.46578"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2019-01-30 : Alte Dorfecke : Alt-Tempelhof 61 : Tempelhof : 8"
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"
