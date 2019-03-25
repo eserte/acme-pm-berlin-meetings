@@ -1642,5 +1642,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2019-02-27 : The Castle Friedrichshain : Frankfurter Tor 7 : Friedrichshain : 10</name>
+      <Point>
+        <coordinates>
+13.45393,52.515497
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

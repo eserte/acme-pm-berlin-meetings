@@ -1917,6 +1917,20 @@
             "name" : "2019-01-30 : Alte Dorfecke : Alt-Tempelhof 61 : Tempelhof : 8"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.45393",
+               "52.515497"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2019-02-27 : The Castle Friedrichshain : Frankfurter Tor 7 : Friedrichshain : 10"
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"
