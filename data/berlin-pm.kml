@@ -1666,5 +1666,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2019-05-29 : Marjan-Grill : Flensburger Str./S-Bellevue : Hansaviertel : 13</name>
+      <Point>
+        <coordinates>
+13.346919,52.520065
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
