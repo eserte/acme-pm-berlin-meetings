@@ -230,6 +230,7 @@
     | 2019-03-27 | Café Uebereck                      | Sonntagstr. 31               | Friedrichshain            |    8 | 52.505370,13.466479 |
     | 2019-04-24 | Schleusenkrug                      | am Landwehrkanal             | Tiergarten                |    5 | 52.511182,13.336045 |
     | 2019-05-29 | Marjan-Grill                       | Flensburger Str./S-Bellevue  | Hansaviertel              |   13 | 52.520065,13.346919 |
+    | 2019-06-26 | Prater                             | Kastanienallee 7             | Prenzlauer Berg           |    7 | 52.539821,13.410031 |
 
     Um diese Tabelle nach .kml und .geojson zu konvertieren:
     : make convert-berlin-pm-meetings.org
