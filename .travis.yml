@@ -1,28 +1,39 @@
 language: perl
-perl:
-  - "5.24"
-  - "5.22"
-  - "5.20"
-  - "5.18"
-  - "5.16"
-  - "5.14"
-  - "5.12"
-  - "5.10"
-  - "5.8"
 matrix:
   include:
-    # The perl does not matter here, system perl will be used
+# perlbrew perls
+    - perl: "5.30"
+      dist: xenial
+    - perl: "5.24"
+      dist: xenial
+    - perl: "5.22"
+      dist: xenial
+    - perl: "5.20"
+      dist: trusty
+    - perl: "5.16"
+      dist: trusty
+    - perl: "5.12"
+      dist: trusty
+    - perl: "5.10"
+      dist: trusty
+    - perl: "5.8"
+      dist: trusty
+
+# system perls (perl version does not matter here, only reflects the system perl version (hopefully))
     - perl: "5.18"
       os: osx
       sudo: true
-    # Actually the perl here does not matter
     - perl: "5.14"
       env: USE_SYSTEM_PERL=1
+      dist: precise
       sudo: true
-    # Actually the perl here does not matter
     - perl: "5.18"
       env: USE_SYSTEM_PERL=1
       dist: trusty
+      sudo: true
+    - perl: "5.26"
+      env: USE_SYSTEM_PERL=1
+      dist: xenial
       sudo: true
 
 before_install:
