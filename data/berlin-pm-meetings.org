@@ -232,6 +232,7 @@
     | 2019-05-29 | Marjan-Grill                       | Flensburger Str./S-Bellevue  | Hansaviertel              |   13 | 52.520065,13.346919 |
     | 2019-06-26 | Prater                             | Kastanienallee 7             | Prenzlauer Berg           |    7 | 52.539821,13.410031 |
     | 2019-07-31 | Café Schmitts                      | Oderstr. 8                   | Friedrichshain            |   10 | 52.51117,13.468645  |
+    | 2019-08-28 | Uferlos                            | Uferstr. 13                  | Wedding                   |   10 | 52.55061,13.37335   |
 
     Um diese Tabelle nach .kml und .geojson zu konvertieren:
     : make convert-berlin-pm-meetings.org
