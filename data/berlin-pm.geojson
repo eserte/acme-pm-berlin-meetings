@@ -1945,6 +1945,20 @@
             "name" : "2019-05-29 : Marjan-Grill : Flensburger Str./S-Bellevue : Hansaviertel : 13"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.37335",
+               "52.55061"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2019-08-28 : Uferlos : Uferstr. 13 : Wedding : 10"
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"
