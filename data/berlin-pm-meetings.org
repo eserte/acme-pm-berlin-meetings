@@ -235,6 +235,7 @@
     | 2019-08-28 | Uferlos                            | Uferstr. 13                  | Wedding                   |   10 | 52.55061,13.37335   |
     | 2019-09-25 | Prager Hopfenstube                 | Karl-Marx-Allee 127          | Friedrichshain            |  ~10 | 52.51693,13.44839   |
     | 2019-10-29 | Tiergarten-Quelle                  | Bachstr. 6 (Bogen 482)       | Tiergarten                |    9 | 52.516775,13.338469 |
+    | 2019-11-27 | Papà Pane di Sorrento              | Ackerstr. 23                 | Mitte                     |    7 | 52.531914,13.396334 |
 
     Um diese Tabelle nach .kml und .geojson zu konvertieren:
     : make convert-berlin-pm-meetings.org
