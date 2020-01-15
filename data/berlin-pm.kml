@@ -1722,5 +1722,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2020-01-08 : Caf&#233; Leander : Jungstr. 29 : Friedrichshain : 12</name>
+      <Point>
+        <coordinates>
+13.466270,52.511846
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
