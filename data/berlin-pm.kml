@@ -1730,5 +1730,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2020-01-29 : &#1044;&#1072;&#1095;&#1072; : Gabriel-Max-Str. 1 : Friedrichshain : 7</name>
+      <Point>
+        <coordinates>
+13.457995,52.509419
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
