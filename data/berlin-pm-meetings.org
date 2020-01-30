@@ -238,6 +238,7 @@
     | 2019-11-27 | Papà Pane di Sorrento              | Ackerstr. 23                 | Mitte                     |    7 | 52.531914,13.396334 |
     |------------+------------------------------------+------------------------------+---------------------------+------+---------------------|
     | 2020-01-08 | Café Leander                       | Jungstr. 29                  | Friedrichshain            |   12 | 52.511846,13.466270 |
+    | 2020-01-29 | Дача                               | Gabriel-Max-Str. 1           | Friedrichshain            |    7 | 52.509419,13.457995 |
 
     Um diese Tabelle nach .kml und .geojson zu konvertieren:
     : make convert-berlin-pm-meetings.org
