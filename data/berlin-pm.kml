@@ -1738,5 +1738,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2020-02-26 : Kurhaus Korsakow : Gr&#252;nberger Str. 81 : Friedrichshain : 9</name>
+      <Point>
+        <coordinates>
+13.46092,52.51126
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

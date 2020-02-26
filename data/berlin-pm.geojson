@@ -1973,6 +1973,20 @@
             "name" : "2019-09-25 : Prager Hopfenstube : Karl-Marx-Allee 127 : Friedrichshain : ~10"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.46092",
+               "52.51126"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2020-02-26 : Kurhaus Korsakow : Gr\u00fcnberger Str. 81 : Friedrichshain : 9"
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"
