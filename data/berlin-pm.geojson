@@ -269,8 +269,8 @@
       {
          "geometry" : {
             "coordinates" : [
-               "13.353470",
-               "52.489098"
+               "13.35351",
+               "52.48940"
             ],
             "type" : "Point"
          },
@@ -339,8 +339,8 @@
       {
          "geometry" : {
             "coordinates" : [
-               "13.321906",
-               "52.506328"
+               "13.32161",
+               "52.50659"
             ],
             "type" : "Point"
          },
@@ -388,7 +388,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2004-11-24 : Cocktailbar Zeitlos 5 : Franklinstr. 10 : Charlottenburg : "
+            "name" : "2004-11-24 : Cocktailbar Zeitlos 5 : Franklinstr. 10 : Charlottenburg : <br/>\n2008-10-29 : Cocktailbar Zeitlos 5 : Franklinstr. 10 : Charlottenburg : "
          },
          "type" : "Feature"
       },
@@ -451,8 +451,8 @@
       {
          "geometry" : {
             "coordinates" : [
-               "13.331367",
-               "52.512933"
+               "13.33197",
+               "52.51270"
             ],
             "type" : "Point"
          },
@@ -563,8 +563,8 @@
       {
          "geometry" : {
             "coordinates" : [
-               "13.351890",
-               "52.479737"
+               "13.34968",
+               "52.47925"
             ],
             "type" : "Point"
          },
@@ -577,8 +577,8 @@
       {
          "geometry" : {
             "coordinates" : [
-               "13.430549",
-               "52.500799"
+               "13.43081",
+               "52.50099"
             ],
             "type" : "Point"
          },
@@ -619,8 +619,8 @@
       {
          "geometry" : {
             "coordinates" : [
-               "13.402726",
-               "52.540458"
+               "13.40270",
+               "52.54097"
             ],
             "type" : "Point"
          },
@@ -724,7 +724,21 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2007-04-25 : META : Am Falkplatz 1 : Prenzlauer Berg : <br/>\n2007-05-30 : Deponie : Georgenstr. 5 : Mitte : "
+            "name" : "2007-04-25 : META : Am Falkplatz 1 : Prenzlauer Berg : "
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.39250",
+               "52.52016"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2007-05-30 : Deponie : Georgenstr. 5 : Mitte : "
          },
          "type" : "Feature"
       },
@@ -843,8 +857,8 @@
       {
          "geometry" : {
             "coordinates" : [
-               "13.365114",
-               "52.522590"
+               "13.36447",
+               "52.52261"
             ],
             "type" : "Point"
          },
@@ -893,20 +907,6 @@
          "properties" : {
             "cat" : "X",
             "name" : "2008-09-24 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : <br/>\n2009-01-07 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : <br/>\n2010-02-24 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : <br/>\n2011-01-26 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : <br/>\n2012-01-04 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : <br/>\n2013-01-09 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : 15<br/>\n2014-01-08 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : 10<br/>\n2015-01-07 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : 9<br/>\n2016-01-06 : Caf\u00e9 Nord Sud : Auguststr. 87 : Mitte : 12"
-         },
-         "type" : "Feature"
-      },
-      {
-         "geometry" : {
-            "coordinates" : [
-               "13.329235",
-               "52.519987"
-            ],
-            "type" : "Point"
-         },
-         "properties" : {
-            "cat" : "X",
-            "name" : "2008-10-29 : Cocktailbar Zeitlos 5 : Franklinstr. 10 : Charlottenburg : "
          },
          "type" : "Feature"
       },
@@ -1067,8 +1067,8 @@
       {
          "geometry" : {
             "coordinates" : [
-               "13.359200",
-               "52.543163"
+               "13.35969",
+               "52.54352"
             ],
             "type" : "Point"
          },
@@ -1151,8 +1151,8 @@
       {
          "geometry" : {
             "coordinates" : [
-               "13.426992",
-               "52.499130"
+               "13.42801",
+               "52.49909"
             ],
             "type" : "Point"
          },
@@ -1207,8 +1207,8 @@
       {
          "geometry" : {
             "coordinates" : [
-               "13.413450",
-               "52.502820"
+               "13.41400",
+               "52.50263"
             ],
             "type" : "Point"
          },
@@ -1333,8 +1333,8 @@
       {
          "geometry" : {
             "coordinates" : [
-               "13.442809",
-               "52.472541"
+               "13.44276",
+               "52.47240"
             ],
             "type" : "Point"
          },
@@ -1389,8 +1389,8 @@
       {
          "geometry" : {
             "coordinates" : [
-               "13.45816",
-               "52.51234"
+               "13.45887",
+               "52.51249"
             ],
             "type" : "Point"
          },
@@ -1403,8 +1403,8 @@
       {
          "geometry" : {
             "coordinates" : [
-               "13.392382",
-               "52.525052"
+               "13.39203",
+               "52.52501"
             ],
             "type" : "Point"
          },
@@ -1417,8 +1417,8 @@
       {
          "geometry" : {
             "coordinates" : [
-               "13.39762",
-               "52.53411"
+               "13.39795",
+               "52.53423"
             ],
             "type" : "Point"
          },
@@ -1515,8 +1515,8 @@
       {
          "geometry" : {
             "coordinates" : [
-               "13.409886",
-               "52.488698"
+               "13.41047",
+               "52.48843"
             ],
             "type" : "Point"
          },
@@ -1655,8 +1655,8 @@
       {
          "geometry" : {
             "coordinates" : [
-               "13.415613",
-               "52.501529"
+               "13.41600",
+               "52.50141"
             ],
             "type" : "Point"
          },
@@ -1921,8 +1921,8 @@
       {
          "geometry" : {
             "coordinates" : [
-               "13.45393",
-               "52.515497"
+               "13.45417",
+               "52.51507"
             ],
             "type" : "Point"
          },

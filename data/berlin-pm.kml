@@ -198,7 +198,7 @@
       <name>2003-12-17 : Caf&#233; Gottlob : Akazienstr. 16 : Sch&#246;neberg : </name>
       <Point>
         <coordinates>
-13.353470,52.489098
+13.35351,52.48940
         </coordinates>
       </Point>
     </Placemark>
@@ -238,7 +238,7 @@
       <name>2004-05-26 : Zwiebelfisch : Savignyplatz 7 : Charlottenburg : </name>
       <Point>
         <coordinates>
-13.321906,52.506328
+13.32161,52.50659
         </coordinates>
       </Point>
     </Placemark>
@@ -318,7 +318,7 @@
       <name>2005-06-29 : Capt'n Schillow : Str. des 17. Juni : Tiergarten : </name>
       <Point>
         <coordinates>
-13.331367,52.512933
+13.33197,52.51270
         </coordinates>
       </Point>
     </Placemark>
@@ -382,7 +382,7 @@
       <name>2006-03-29 : Caf&#233; Resonanz (?) : Ebersstr. 73 : Sch&#246;neberg : </name>
       <Point>
         <coordinates>
-13.351890,52.479737
+13.34968,52.47925
         </coordinates>
       </Point>
     </Placemark>
@@ -390,7 +390,7 @@
       <name>2006-05-03 : Rocco und seine Br&#252;der : Lausitzer Platz 13 : Kreuzberg : </name>
       <Point>
         <coordinates>
-13.430549,52.500799
+13.43081,52.50099
         </coordinates>
       </Point>
     </Placemark>
@@ -414,7 +414,7 @@
       <name>2006-07-26 : Sch&#246;nwetter : Bernauer Str. 63 : Wedding : </name>
       <Point>
         <coordinates>
-13.402726,52.540458
+13.40270,52.54097
         </coordinates>
       </Point>
     </Placemark>
@@ -494,7 +494,7 @@
       <name>2007-05-30 : Deponie : Georgenstr. 5 : Mitte : </name>
       <Point>
         <coordinates>
-13.405985,52.545926
+13.39250,52.52016
         </coordinates>
       </Point>
     </Placemark>
@@ -598,7 +598,7 @@
       <name>2008-06-25 : Restaurant Paris-Moskau : Alt-Moabit 141 : Moabit : </name>
       <Point>
         <coordinates>
-13.365114,52.522590
+13.36447,52.52261
         </coordinates>
       </Point>
     </Placemark>
@@ -630,7 +630,7 @@
       <name>2008-10-29 : Cocktailbar Zeitlos 5 : Franklinstr. 10 : Charlottenburg : </name>
       <Point>
         <coordinates>
-13.329235,52.519987
+13.329279,52.519969
         </coordinates>
       </Point>
     </Placemark>
@@ -790,7 +790,7 @@
       <name>2010-06-30 : Brauerei Eschenbr&#228;u : Triftstr. 67 : Wedding : </name>
       <Point>
         <coordinates>
-13.359200,52.543163
+13.35969,52.54352
         </coordinates>
       </Point>
     </Placemark>
@@ -918,7 +918,7 @@
       <name>2011-09-28 : Hannibal : Skalitzer Str. : Kreuzberg : </name>
       <Point>
         <coordinates>
-13.426992,52.499130
+13.42801,52.49909
         </coordinates>
       </Point>
     </Placemark>
@@ -1022,7 +1022,7 @@
       <name>2012-10-31 : Max &#38; Moritz : Oranienstr. 162 : Kreuzberg : </name>
       <Point>
         <coordinates>
-13.413450,52.502820
+13.41400,52.50263
         </coordinates>
       </Point>
     </Placemark>
@@ -1118,7 +1118,7 @@
       <name>2013-10-30 : Ponte Verde : Kirchhofstr. 41 : Neuk&#246;lln : 15</name>
       <Point>
         <coordinates>
-13.442809,52.472541
+13.44276,52.47240
         </coordinates>
       </Point>
     </Placemark>
@@ -1166,7 +1166,7 @@
       <name>2014-04-30 : Caf&#233; Resonanz : Ebersstr. 73 : Sch&#246;neberg : </name>
       <Point>
         <coordinates>
-13.351890,52.479737
+13.34968,52.47925
         </coordinates>
       </Point>
     </Placemark>
@@ -1182,7 +1182,7 @@
       <name>2014-06-25 : Bistro Zeus : Boxhagener Str. 29 : Friedrichshain : 8</name>
       <Point>
         <coordinates>
-13.45816,52.51234
+13.45887,52.51249
         </coordinates>
       </Point>
     </Placemark>
@@ -1206,7 +1206,7 @@
       <name>2014-09-24 : Aufsturz : Oranienburger Str. 67 : Mitte : 7</name>
       <Point>
         <coordinates>
-13.392382,52.525052
+13.39203,52.52501
         </coordinates>
       </Point>
     </Placemark>
@@ -1222,7 +1222,7 @@
       <name>2014-11-26 : Chay Viet (&#38; Sloppy Joe's) : Brunnenstr. 164 : Mitte : 12</name>
       <Point>
         <coordinates>
-13.39762,52.53411
+13.39795,52.53423
         </coordinates>
       </Point>
     </Placemark>
@@ -1302,7 +1302,7 @@
       <name>2015-09-30 : Brauhaus S&#252;dstern : Hasenheide 69 : Kreuzberg : 9</name>
       <Point>
         <coordinates>
-13.409886,52.488698
+13.41047,52.48843
         </coordinates>
       </Point>
     </Placemark>
@@ -1446,7 +1446,7 @@
       <name>2017-02-22 : Ora (Oranien Apotheke) : Oranienplatz 14 : Kreuzberg : 5</name>
       <Point>
         <coordinates>
-13.415613,52.501529
+13.41600,52.50141
         </coordinates>
       </Point>
     </Placemark>
@@ -1646,7 +1646,7 @@
       <name>2019-02-27 : The Castle Friedrichshain : Frankfurter Tor 7 : Friedrichshain : 10</name>
       <Point>
         <coordinates>
-13.45393,52.515497
+13.45417,52.51507
         </coordinates>
       </Point>
     </Placemark>
