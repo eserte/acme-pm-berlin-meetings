@@ -37,7 +37,7 @@
     | 2004-08-25 | Golgatha am Kreuzberg              | Dudenstr. 40                 | Kreuzberg                 |      | 52.486606,13.378335 |
     | 2004-09-29 | Café Hundertwasser                 | Simon-Dach-Str. 39           | Friedrichshain            |      | 52.510880,13.456823 |
     | 2004-10-27 | ---ausgefallen---                  |                              |                           |      |                     |
-    | 2004-11-24 | Cocktailbar Zeitlos 5              | Franklinstr. 10              | Charlottenburg            |      | 52.519969,13.329279 |
+    | 2004-11-24 | Cocktailbar Zeitlos 5              | Franklinstr. 10              | Charlottenburg            |      | 52.51981,13.32881   |
     | 2004-12-22 | Café Buchhandlung                  | Tucholskystr. 32             | Mitte                     |      | 52.526135,13.393727 |
     |------------+------------------------------------+------------------------------+---------------------------+------+---------------------|
     | 2005-01-26 | (?)                                |                              |                           |      |                     |
@@ -88,7 +88,7 @@
     | 2008-07-30 | Z-Bar                              | Bergstr. 2                   | Mitte                     |      | 52.529423,13.395588 |
     | 2008-08-27 | Nola's am Weinberg                 | Weinbergspark                | Mitte                     |      | 52.532231,13.401891 |
     | 2008-09-24 | Café Nord Sud                      | Auguststr. 87                | Mitte                     |      | 52.526051,13.391503 |
-    | 2008-10-29 | Cocktailbar Zeitlos 5              | Franklinstr. 10              | Charlottenburg            |      | 52.519969,13.329279 |
+    | 2008-10-29 | Cocktailbar Zeitlos 5              | Franklinstr. 10              | Charlottenburg            |      | 52.51981,13.32881   |
     | 2008-11-26 | Ein Brief von Gestern              | Bänschstr. 25                | Friedrichshain            |      | 52.518922,13.462227 |
     |------------+------------------------------------+------------------------------+---------------------------+------+---------------------|
     | 2009-01-07 | Café Nord Sud                      | Auguststr. 87                | Mitte                     |      | 52.526051,13.391503 |
