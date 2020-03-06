@@ -25,13 +25,13 @@
     | 2003-09-24 | Kuchenkaiser                       | Oranienplatz 1               | Kreuzberg                 |      | 52.502822,13.416583 |
     | 2003-10-29 | Bergwerk                           | Bergstr. 68                  | Mitte                     |      | 52.531641,13.394177 |
     | 2003-11-26 | Schollenkrug                       | Waidmannsluster Damm 77      | Waidmannslust             |      | 52.600667,13.302880 |
-    | 2003-12-17 | Café Gottlob                       | Akazienstr. 16               | Schöneberg                |      | 52.489098,13.353470 |
+    | 2003-12-17 | Café Gottlob                       | Akazienstr. 16               | Schöneberg                |      | 52.48940,13.35351   |
     |------------+------------------------------------+------------------------------+---------------------------+------+---------------------|
     | 2004-01-28 | Last century pub                   | Lenbachstr. 1                | Friedrichshain            |      | 52.506860,13.468398 |
     | 2004-02-25 | Jalla Jalla                        | Kopenhagener Str. 4          | Prenzlauer Berg           |      | 52.548881,13.412027 |
     | 2004-03-31 | Tiergarten-Quelle                  | Bachstr. 6 (Bogen 482)       | Tiergarten                |      | 52.516775,13.338469 |
     | 2004-04-28 | Tiroler Alpenstadl                 | Wichertstr. 43               | Prenzlauer Berg           |      | 52.546163,13.427073 |
-    | 2004-05-26 | Zwiebelfisch                       | Savignyplatz 7               | Charlottenburg            |      | 52.506328,13.321906 |
+    | 2004-05-26 | Zwiebelfisch                       | Savignyplatz 7               | Charlottenburg            |      | 52.50659,13.32161   |
     | 2004-06-30 | ---ausgefallen---                  |                              |                           |      |                     |
     | 2004-07-28 | Café Uebereck                      | Sonntagstr. 31               | Friedrichshain            |      | 52.505370,13.466479 |
     | 2004-08-25 | Golgatha am Kreuzberg              | Dudenstr. 40                 | Kreuzberg                 |      | 52.486606,13.378335 |
@@ -45,7 +45,7 @@
     | 2005-03-30 | Weinlokal neben Strandbad Mitte    | Auguststr.                   | Mitte                     |      | 52.527191,13.397396 |
     | 2005-04-27 | Old Emerald Isle                   | Erkelenzdamm 49              | Kreuzberg                 |      | 52.497601,13.412995 |
     | 2005-05-25 | Zollpackhof                        | Elisabeth-Abegg-Str. 1       | Tiergarten                |      | 52.521293,13.367068 |
-    | 2005-06-29 | Capt'n Schillow                    | Str. des 17. Juni            | Tiergarten                |      | 52.512933,13.331367 |
+    | 2005-06-29 | Capt'n Schillow                    | Str. des 17. Juni            | Tiergarten                |      | 52.51270,13.33197   |
     | 2005-07-27 | Café Aroma                         | Hochkirchstr. 8              | Schöneberg                |      | 52.489930,13.369547 |
     | 2005-08-31 | Restaurant Toulouse                | Schwarzer Weg 71             | Tegel                     |      | 52.584956,13.255366 |
     | 2005-09-28 | frarosa                            | Zionskirchstr. 40            | Mitte                     |      | 52.534215,13.403046 |
@@ -55,11 +55,11 @@
     | 2006-01-03 | (?)                                |                              |                           |      |                     |
     | 2006-01-25 | Istoria                            | Kollwitzstr. 64              | Prenzlauer Berg           |      | 52.536030,13.417965 |
     | 2006-02-22 | Café Rizz                          | Grimmstr. 21                 | Kreuzberg                 |      | 52.493243,13.414437 |
-    | 2006-03-29 | Café Resonanz (?)                  | Ebersstr. 73                 | Schöneberg                |      | 52.479737,13.351890 |
-    | 2006-05-03 | Rocco und seine Brüder             | Lausitzer Platz 13           | Kreuzberg                 |      | 52.500799,13.430549 |
+    | 2006-03-29 | Café Resonanz (?)                  | Ebersstr. 73                 | Schöneberg                |      | 52.47925,13.34968   |
+    | 2006-05-03 | Rocco und seine Brüder             | Lausitzer Platz 13           | Kreuzberg                 |      | 52.50099,13.43081   |
     | 2006-05-31 | Schraders                          | Malplaquetstr. 16b           | Wedding                   |      | 52.551574,13.358012 |
     | 2006-06-28 | Stadtstrand                        | Mühlenstr.                   | Friedrichshain            |      | 52.502945,13.444892 |
-    | 2006-07-26 | Schönwetter                        | Bernauer Str. 63             | Wedding                   |      | 52.540458,13.402726 |
+    | 2006-07-26 | Schönwetter                        | Bernauer Str. 63             | Wedding                   |      | 52.54097,13.40270   |
     | 2006-08-30 | Das Speisezimmer                   | Chausseestr. 8               | Mitte                     |      | 52.52849,13.38736   |
     | 2006-09-26 | Restaurant Glühwurm                | Handjerystr. 77              | Friedenau                 |      | 52.471327,13.333278 |
     | 2006-10-25 | Café Uebereck                      | Sonntagstr. 31               | Friedrichshain            |      | 52.505370,13.466479 |
@@ -70,7 +70,7 @@
     | 2007-02-28 | Café Altes Europa                  | Gipsstr. 11                  | Mitte                     |      | 52.526775,13.400986 |
     | 2007-03-28 | Ballhaus Mitte                     | Auguststr. 24                | Mitte                     |      | 52.526658,13.396805 |
     | 2007-04-25 | META                               | Am Falkplatz 1               | Prenzlauer Berg           |      | 52.545926,13.405985 |
-    | 2007-05-30 | Deponie                            | Georgenstr. 5                | Mitte                     |      | 52.545926,13.405985 |
+    | 2007-05-30 | Deponie                            | Georgenstr. 5                | Mitte                     |      | 52.52016,13.39250   |
     | 2007-06-27 | Die Turnhalle                      | Holteistr. 6-9               | Friedrichshain            |      | 52.50716,13.4653    |
     | 2007-07-25 | Golgatha am Kreuzberg              | Dudenstr. 40                 | Kreuzberg                 |      | 52.486606,13.378335 |
     | 2007-08-29 | Prater                             | Kastanienallee 7             | Prenzlauer Berg           |      | 52.539821,13.410031 |
@@ -84,11 +84,11 @@
     | 2008-03-26 | Papà Pane di Sorrento              | Ackerstr. 23                 | Mitte                     |      | 52.531914,13.396334 |
     | 2008-04-30 | Die Turnhalle                      | Holteistr. 6-9               | Friedrichshain            |      | 52.50716,13.4653    |
     | 2008-05-28 | Bundespressestrand                 | Kapelle-Ufer 1               | Mitte                     |      | 52.522746,13.375461 |
-    | 2008-06-25 | Restaurant Paris-Moskau            | Alt-Moabit 141               | Moabit                    |      | 52.522590,13.365114 |
+    | 2008-06-25 | Restaurant Paris-Moskau            | Alt-Moabit 141               | Moabit                    |      | 52.52261,13.36447   |
     | 2008-07-30 | Z-Bar                              | Bergstr. 2                   | Mitte                     |      | 52.529423,13.395588 |
     | 2008-08-27 | Nola's am Weinberg                 | Weinbergspark                | Mitte                     |      | 52.532231,13.401891 |
     | 2008-09-24 | Café Nord Sud                      | Auguststr. 87                | Mitte                     |      | 52.526051,13.391503 |
-    | 2008-10-29 | Cocktailbar Zeitlos 5              | Franklinstr. 10              | Charlottenburg            |      | 52.519987,13.329235 |
+    | 2008-10-29 | Cocktailbar Zeitlos 5              | Franklinstr. 10              | Charlottenburg            |      | 52.519969,13.329279 |
     | 2008-11-26 | Ein Brief von Gestern              | Bänschstr. 25                | Friedrichshain            |      | 52.518922,13.462227 |
     |------------+------------------------------------+------------------------------+---------------------------+------+---------------------|
     | 2009-01-07 | Café Nord Sud                      | Auguststr. 87                | Mitte                     |      | 52.526051,13.391503 |
@@ -110,7 +110,7 @@
     | 2010-03-31 | Restaurant Honigmond               | Tieckstr. 12                 | Mitte                     |      | 52.529599,13.389313 |
     | 2010-04-28 | Schleusenkrug                      | am Landwehrkanal             | Tiergarten                |      | 52.511182,13.336045 |
     | 2010-05-26 | Walhalla                           | Krefelder Str. 6             | Moabit                    |      | 52.524119,13.339539 |
-    | 2010-06-30 | Brauerei Eschenbräu                | Triftstr. 67                 | Wedding                   |      | 52.543163,13.359200 |
+    | 2010-06-30 | Brauerei Eschenbräu                | Triftstr. 67                 | Wedding                   |      | 52.54352,13.35969   |
     | 2010-07-28 | Zollpackhof                        | Elisabeth-Abegg-Str. 1       | Tiergarten                |      | 52.521293,13.367068 |
     | 2010-08-25 | Die Turnhalle                      | Holteistr. 6-9               | Friedrichshain            |      | 52.50716,13.4653    |
     | 2010-09-29 | Papà Pane di Sorrento              | Ackerstr. 23                 | Mitte                     |      | 52.531914,13.396334 |
@@ -127,7 +127,7 @@
     | 2011-07-27 | Clärchens Ballhaus                 | Auguststr. 24                | Mitte                     |      | 52.526658,13.396805 |
     | 2011-08-10 | Clärchens Ballhaus                 | Auguststr. 24                | Mitte                     |      | 52.526658,13.396805 |
     | 2011-08-31 | Prater                             | Kastanienallee 7             | Prenzlauer Berg           |      | 52.539821,13.410031 |
-    | 2011-09-28 | Hannibal                           | Skalitzer Str.               | Kreuzberg                 |      | 52.499130,13.426992 |
+    | 2011-09-28 | Hannibal                           | Skalitzer Str.               | Kreuzberg                 |      | 52.49909,13.42801   |
     | 2011-10-26 | Trattoria Libau                    | Libauer Str. 10              | Friedrichshain            |      | 52.508469,13.452785 |
     | 2011-11-30 | Locus                              | Marheinekeplatz 4            | Kreuzberg                 |      | 52.489340,13.396389 |
     |------------+------------------------------------+------------------------------+---------------------------+------+---------------------|
@@ -141,7 +141,7 @@
     | 2012-07-25 | Viasko                             | Erkelenzdamm 49              | Kreuzberg                 |      | 52.497601,13.412995 |
     | 2012-08-29 | Zollpackhof                        | Elisabeth-Abegg-Str. 1       | Tiergarten                |      | 52.521293,13.367068 |
     | 2012-09-26 | Sophieneck                         | Große Hamburger Str. 37      | Mitte                     |      | 52.526279,13.398631 |
-    | 2012-10-31 | Max & Moritz                       | Oranienstr. 162              | Kreuzberg                 |      | 52.502820,13.413450 |
+    | 2012-10-31 | Max & Moritz                       | Oranienstr. 162              | Kreuzberg                 |      | 52.50263,13.41400   |
     | 2012-11-28 | Transit                            | Sonntagstr. 28               | Friedrichshain            |      | 52.506017,13.465736 |
     |------------+------------------------------------+------------------------------+---------------------------+------+---------------------|
     | 2013-01-09 | Café Nord Sud                      | Auguststr. 87                | Mitte                     |   15 | 52.526051,13.391503 |
@@ -154,21 +154,21 @@
     | 2013-07-31 | Grill und Schlemmerbuffet          | Rosenthaler Platz            | Mitte                     |   ~8 | 52.529603,13.401332 |
     | 2013-08-28 | Restaurant Tim                     | Bruno-Baum-Str. 71           | Marzahn                   |   12 | 52.536151,13.542803 |
     | 2013-09-25 | Tussy Lounge                       | Sonntagstr. 22               | Friedrichshain            |   ~8 | 52.506945,13.464723 |
-    | 2013-10-30 | Ponte Verde                        | Kirchhofstr. 41              | Neukölln                  |   15 | 52.472541,13.442809 |
+    | 2013-10-30 | Ponte Verde                        | Kirchhofstr. 41              | Neukölln                  |   15 | 52.47240,13.44276   |
     | 2013-11-27 | Elfida                             | Gabriel-Max-Str. 15          | Friedrichshain            |  ~15 | 52.511327,13.458677 |
     |------------+------------------------------------+------------------------------+---------------------------+------+---------------------|
     | 2014-01-08 | Café Nord Sud                      | Auguststr. 87                | Mitte                     |   10 | 52.526051,13.391503 |
     | 2014-01-29 | Schalander                         | Bänschstr. 91                | Friedrichshain            |   10 | 52.517210,13.471629 |
     | 2014-02-26 | Schwarze Pumpe                     | Choriner Str. 76             | Mitte                     |   10 | 52.532374,13.406118 |
     | 2014-03-26 | Kuchenkaiser                       | Oranienplatz 1               | Kreuzberg                 |    7 | 52.502822,13.416583 |
-    | 2014-04-30 | Café Resonanz                      | Ebersstr. 73                 | Schöneberg                |      | 52.479737,13.351890 |
+    | 2014-04-30 | Café Resonanz                      | Ebersstr. 73                 | Schöneberg                |      | 52.47925,13.34968   |
     | 2014-05-28 | Viasko                             | Erkelenzdamm 49              | Kreuzberg                 |   ~9 | 52.497601,13.412995 |
-    | 2014-06-25 | Bistro Zeus                        | Boxhagener Str. 29           | Friedrichshain            |    8 | 52.51234,13.45816   |
+    | 2014-06-25 | Bistro Zeus                        | Boxhagener Str. 29           | Friedrichshain            |    8 | 52.51249,13.45887   |
     | 2014-07-30 | Villa Rixdorf                      | Richardplatz 6               | Neukölln                  |    9 | 52.474217,13.444896 |
     | 2014-08-27 | Café Uebereck                      | Sonntagstr. 31               | Friedrichshain            |   15 | 52.505370,13.466479 |
-    | 2014-09-24 | Aufsturz                           | Oranienburger Str. 67        | Mitte                     |    7 | 52.525052,13.392382 |
+    | 2014-09-24 | Aufsturz                           | Oranienburger Str. 67        | Mitte                     |    7 | 52.52501,13.39203   |
     | 2014-10-29 | Papà Pane di Sorrento              | Ackerstr. 23                 | Mitte                     |   10 | 52.531914,13.396334 |
-    | 2014-11-26 | Chay Viet (& Sloppy Joe's)         | Brunnenstr. 164              | Mitte                     |   12 | 52.53411,13.39762   |
+    | 2014-11-26 | Chay Viet (& Sloppy Joe's)         | Brunnenstr. 164              | Mitte                     |   12 | 52.53423,13.39795   |
     |------------+------------------------------------+------------------------------+---------------------------+------+---------------------|
     | 2015-01-07 | Café Nord Sud                      | Auguststr. 87                | Mitte                     |    9 | 52.526051,13.391503 |
     | 2015-01-28 | The Lir Irish Bar                  | Flensburger Str. 7           | Tiergarten                |    7 | 52.520388,13.344371 |
@@ -179,7 +179,7 @@
     | 2015-06-24 | Schleusenkrug                      | am Landwehrkanal             | Tiergarten                |    8 | 52.511182,13.336045 |
     | 2015-07-29 | Strandbad Weißensee                | Berliner Allee 155           | Weißensee                 |    7 | 52.553961,13.465827 |
     | 2015-08-26 | James June Sommergarten            | Karl-Marx-Allee 93           | Friedrichshain            |   11 | 52.517589,13.441393 |
-    | 2015-09-30 | Brauhaus Südstern                  | Hasenheide 69                | Kreuzberg                 |    9 | 52.488698,13.409886 |
+    | 2015-09-30 | Brauhaus Südstern                  | Hasenheide 69                | Kreuzberg                 |    9 | 52.48843,13.41047   |
     | 2015-10-28 | Viasko                             | Erkelenzdamm 49              | Kreuzberg                 |   11 | 52.497601,13.412995 |
     | 2015-11-25 | Café Schmitts                      | Oderstr. 8                   | Friedrichshain            |   10 | 52.51117,13.468645  |
     |------------+------------------------------------+------------------------------+---------------------------+------+---------------------|
@@ -199,7 +199,7 @@
     |------------+------------------------------------+------------------------------+---------------------------+------+---------------------|
     | 2017-01-04 | Café Leander                       | Jungstr. 29                  | Friedrichshain            |   14 | 52.511846,13.466270 |
     | 2017-01-25 | Café Orange                        | Oranienburger Str. 32        | Mitte                     |    9 | 52.524968,13.393556 |
-    | 2017-02-22 | Ora (Oranien Apotheke)             | Oranienplatz 14              | Kreuzberg                 |    5 | 52.501529,13.415613 |
+    | 2017-02-22 | Ora (Oranien Apotheke)             | Oranienplatz 14              | Kreuzberg                 |    5 | 52.50141,13.41600   |
     | 2017-03-29 | Schnitzelei Berlin Mitte           | Chausseestr. 8               | Mitte                     |    9 | 52.52849,13.38736   |
     | 2017-04-26 | Viasko                             | Erkelenzdamm 49              | Kreuzberg                 |    8 | 52.497601,13.412995 |
     | 2017-05-31 | Hafenrestaurant Deckshaus          | Märkisches Ufer 34           | Mitte                     |   12 | 52.513831,13.412187 |
@@ -226,7 +226,7 @@
     |------------+------------------------------------+------------------------------+---------------------------+------+---------------------|
     | 2019-01-09 | Dicke Wirtin                       | Carmerstraße 9               | Charlottenburg            |    8 | 52.50655,13.32348   |
     | 2019-01-30 | Alte Dorfecke                      | Alt-Tempelhof 61             | Tempelhof                 |    8 | 52.46578,13.37804   |
-    | 2019-02-27 | The Castle Friedrichshain          | Frankfurter Tor 7            | Friedrichshain            |   10 | 52.515497,13.45393  |
+    | 2019-02-27 | The Castle Friedrichshain          | Frankfurter Tor 7            | Friedrichshain            |   10 | 52.51507,13.45417   |
     | 2019-03-27 | Café Uebereck                      | Sonntagstr. 31               | Friedrichshain            |    8 | 52.505370,13.466479 |
     | 2019-04-24 | Schleusenkrug                      | am Landwehrkanal             | Tiergarten                |    5 | 52.511182,13.336045 |
     | 2019-05-29 | Marjan-Grill                       | Flensburger Str./S-Bellevue  | Hansaviertel              |   13 | 52.520065,13.346919 |
