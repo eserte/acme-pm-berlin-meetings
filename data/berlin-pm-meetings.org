@@ -240,6 +240,7 @@
     | 2020-01-08 | Café Leander                       | Jungstr. 29                  | Friedrichshain            |   12 | 52.511846,13.466270 |
     | 2020-01-29 | Дача                               | Gabriel-Max-Str. 1           | Friedrichshain            |    7 | 52.509419,13.457995 |
     | 2020-02-26 | Kurhaus Korsakow                   | Grünberger Str. 81           | Friedrichshain            |    9 | 52.51126,13.46092   |
+    | 2020-03-25 | virtual (jitsi.org)                |                              |                           |    9 |                     |
 
     Um diese Tabelle nach .kml und .geojson zu konvertieren:
     : make convert-berlin-pm-meetings.org
