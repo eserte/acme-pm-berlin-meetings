@@ -1746,5 +1746,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2020-07-29 : Prater : Kastanienallee 7 : Prenzlauer Berg : 7</name>
+      <Point>
+        <coordinates>
+13.410031,52.539821
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
