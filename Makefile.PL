@@ -2,6 +2,7 @@
 use strict;
 use ExtUtils::MakeMaker;
 
+my $is_devel_host = defined $ENV{USER} && $ENV{USER} eq 'eserte' && ($^O =~ /bsd/i || $ENV{PERL_RELEASE_READY}) && -f "../../perl.release.mk";
 my $eumm_recent_enough = $ExtUtils::MakeMaker::VERSION >= 6.54;
 
 if (!$eumm_recent_enough) {
@@ -28,7 +29,7 @@ WriteMakefile(NAME =>         'Acme::PM::Berlin::Meetings',
 sub MY::postamble {
     my $postamble = "";
 
-    if (defined $ENV{USER} && $ENV{USER} eq 'eserte' && $^O =~ /bsd/i && -f "../../perl.release.mk") {
+    if ($is_devel_host) {
 	$postamble .= <<'EOF';
 
 .include "../../perl.release.mk"
