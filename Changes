@@ -1,5 +1,8 @@
 Revision history for Perl extension Acme::PM::Berlin::Meetings.
 
+202008.24 2020-08-24
+	- handle Aug 2020 exception
+
 201703.19 2017-03-19
 	- add .org file with historical meetings
 	- add pmmeetings2bbd.pl
