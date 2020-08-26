@@ -1754,5 +1754,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2020-08-25 : Luftgarten : Tempelhofer Feld : Neuk&#246;lln : 5</name>
+      <Point>
+        <coordinates>
+13.40931,52.47934
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

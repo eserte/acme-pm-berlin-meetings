@@ -1987,6 +1987,20 @@
             "name" : "2020-02-26 : Kurhaus Korsakow : Gr\u00fcnberger Str. 81 : Friedrichshain : 9"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.40931",
+               "52.47934"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2020-08-25 : Luftgarten : Tempelhofer Feld : Neuk\u00f6lln : 5"
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"
