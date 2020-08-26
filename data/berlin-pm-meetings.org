@@ -242,6 +242,7 @@
     | 2020-02-26 | Kurhaus Korsakow                   | Grünberger Str. 81           | Friedrichshain            |    9 | 52.51126,13.46092   |
     | 2020-03-25 | virtual (jitsi.org)                |                              |                           |    9 |                     |
     | 2020-07-29 | Prater                             | Kastanienallee 7             | Prenzlauer Berg           |    7 | 52.539821,13.410031 |
+    | 2020-08-25 | Luftgarten                         | Tempelhofer Feld             | Neukölln                  |    5 | 52.47934,13.40931   |
 
     Um diese Tabelle nach .kml und .geojson zu konvertieren:
     : make convert-berlin-pm-meetings.org
