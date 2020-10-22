@@ -1770,5 +1770,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2020-10-22 : Brachvogel : Carl-Herz-Ufer 34 : Kreuzberg : 5</name>
+      <Point>
+        <coordinates>
+13.39992,52.49674
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
