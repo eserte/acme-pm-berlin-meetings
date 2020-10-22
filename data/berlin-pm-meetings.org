@@ -244,6 +244,7 @@
     | 2020-07-29 | Prater                             | Kastanienallee 7             | Prenzlauer Berg           |    7 | 52.539821,13.410031 |
     | 2020-08-25 | Luftgarten                         | Tempelhofer Feld             | Neukölln                  |    5 | 52.47934,13.40931   |
     | 2020-09-23 | Zollpackhof                        | Elisabeth-Abegg-Str. 1       | Tiergarten                |    7 | 52.521293,13.367068 |
+    | 2020-10-22 | Brachvogel                         | Carl-Herz-Ufer 34            | Kreuzberg                 |    5 | 52.49674,13.39992   |
 
     Um diese Tabelle nach .kml und .geojson zu konvertieren:
     : make convert-berlin-pm-meetings.org
