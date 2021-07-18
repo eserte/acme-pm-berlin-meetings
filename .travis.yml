@@ -1,37 +1,49 @@
 language: perl
+arch:
+  - arm64
 matrix:
   include:
-# perlbrew perls
-    - perl: "5.30"
-      dist: xenial
-    - perl: "5.24"
-      dist: xenial
-    - perl: "5.22"
-      dist: xenial
-    - perl: "5.20"
-      dist: trusty
-    - perl: "5.16"
-      dist: trusty
-    - perl: "5.12"
-      dist: trusty
-    - perl: "5.10"
-      dist: trusty
-    - perl: "5.8"
-      dist: trusty
+    - dist: xenial
+      perl: 5.24
+    - dist: bionic
+      perl: 5.26
+    - dist: focal
+      perl: 5.32
+    - dist: focal
+      perl: 5.32
+      env: USE_SYSTEM_PERL=1
 
-# system perls (perl version does not matter here, only reflects the system perl version (hopefully))
-    - perl: "5.14"
-      env: USE_SYSTEM_PERL=1
-      dist: precise
-      sudo: true
-    - perl: "5.18"
-      env: USE_SYSTEM_PERL=1
-      dist: trusty
-      sudo: true
-    - perl: "5.26"
-      env: USE_SYSTEM_PERL=1
-      dist: xenial
-      sudo: true
+## perlbrew perls
+#    - perl: "5.30"
+#      dist: xenial
+#    - perl: "5.24"
+#      dist: xenial
+#    - perl: "5.22"
+#      dist: xenial
+#    - perl: "5.20"
+#      dist: trusty
+#    - perl: "5.16"
+#      dist: trusty
+#    - perl: "5.12"
+#      dist: trusty
+#    - perl: "5.10"
+#      dist: trusty
+#    - perl: "5.8"
+#      dist: trusty
+#
+## system perls (perl version does not matter here, only reflects the system perl version (hopefully))
+#    - perl: "5.14"
+#      env: USE_SYSTEM_PERL=1
+#      dist: precise
+#      sudo: true
+#    - perl: "5.18"
+#      env: USE_SYSTEM_PERL=1
+#      dist: trusty
+#      sudo: true
+#    - perl: "5.26"
+#      env: USE_SYSTEM_PERL=1
+#      dist: xenial
+#      sudo: true
 
 ## disabled, because too slow
 #    - perl: "5.18"
