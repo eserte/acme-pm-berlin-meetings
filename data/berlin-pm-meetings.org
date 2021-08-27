@@ -247,6 +247,8 @@
     | 2020-10-22 | Brachvogel                         | Carl-Herz-Ufer 34            | Kreuzberg                 |    5 | 52.49674,13.39992   |
     |------------+------------------------------------+------------------------------+---------------------------+------+---------------------|
     | 2021-06-30 | Prater                             | Kastanienallee 7             | Prenzlauer Berg           |    8 | 52.539821,13.410031 |
+    | 2021-07-28 | republik-berlin                    | Köpenicker Str. 74           | Mitte                     |    7 | 52.510832,13.4175   |
+    | 2021-08-25 | Biergarten Moabiter Freiheit       | Alt-Moabit 24                | Moabit                    |    4 | 52.52526,13.34891   |
 
     Um diese Tabelle nach .kml und .geojson zu konvertieren:
     : make convert-berlin-pm-meetings.org
