@@ -1844,7 +1844,7 @@
          },
          "properties" : {
             "cat" : "X",
-            "name" : "2018-07-25 : Biergarten Moabiter Freiheit : Alt-Moabit 24 : Moabit : 10"
+            "name" : "2018-07-25 : Biergarten Moabiter Freiheit : Alt-Moabit 24 : Moabit : 10<br/>\n2021-08-25 : Biergarten Moabiter Freiheit : Alt-Moabit 24 : Moabit : 4"
          },
          "type" : "Feature"
       },
@@ -2013,6 +2013,20 @@
          "properties" : {
             "cat" : "X",
             "name" : "2020-10-22 : Brachvogel : Carl-Herz-Ufer 34 : Kreuzberg : 5"
+         },
+         "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.4175",
+               "52.510832"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2021-07-28 : republik-berlin : K\u00f6penicker Str. 74 : Mitte : 7"
          },
          "type" : "Feature"
       }

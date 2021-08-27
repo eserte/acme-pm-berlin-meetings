@@ -1786,5 +1786,21 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2021-07-28 : republik-berlin : K&#246;penicker Str. 74 : Mitte : 7</name>
+      <Point>
+        <coordinates>
+13.4175,52.510832
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2021-08-25 : Biergarten Moabiter Freiheit : Alt-Moabit 24 : Moabit : 4</name>
+      <Point>
+        <coordinates>
+13.34891,52.52526
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
