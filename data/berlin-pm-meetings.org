@@ -250,6 +250,7 @@
     | 2021-07-28 | republik-berlin                    | Köpenicker Str. 74           | Mitte                     |    7 | 52.510832,13.4175   |
     | 2021-08-25 | Biergarten Moabiter Freiheit       | Alt-Moabit 24                | Moabit                    |    4 | 52.52526,13.34891   |
     | 2021-09-29 | Zollpackhof                        | Elisabeth-Abegg-Str. 1       | Tiergarten                |    6 | 52.521293,13.367068 |
+    | 2021-10-27 | Brewdog                            | Ackerstr. 29                 | Mitte                     |    5 | 52.53280,13.39577   |
 
     Um diese Tabelle nach .kml und .geojson zu konvertieren:
     : make convert-berlin-pm-meetings.org
