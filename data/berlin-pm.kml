@@ -1818,5 +1818,21 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2022-04-27 : Zollpackhof : Elisabeth-Abegg-Str. 1 : Tiergarten : 9</name>
+      <Point>
+        <coordinates>
+13.367068,52.521293
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>2022-06-02 : Prater : Kastanienallee 7 : Prenzlauer Berg : 2</name>
+      <Point>
+        <coordinates>
+13.410031,52.539821
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
