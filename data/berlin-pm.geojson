@@ -2029,6 +2029,20 @@
             "name" : "2021-07-28 : republik-berlin : K\u00f6penicker Str. 74 : Mitte : 7"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.478086",
+               "52.487423"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2022-06-29 : Zenner : Alt-Treptow 15 : Treptow : 8"
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"

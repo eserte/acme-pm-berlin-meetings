@@ -1834,5 +1834,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2022-06-29 : Zenner : Alt-Treptow 15 : Treptow : 8</name>
+      <Point>
+        <coordinates>
+13.478086,52.487423
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
