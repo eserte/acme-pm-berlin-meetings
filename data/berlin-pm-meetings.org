@@ -254,6 +254,7 @@
     |------------+------------------------------------+------------------------------+---------------------------+------+---------------------|
     | 2022-04-27 | Zollpackhof                        | Elisabeth-Abegg-Str. 1       | Tiergarten                |    9 | 52.521293,13.367068 |
     | 2022-06-02 | Prater                             | Kastanienallee 7             | Prenzlauer Berg           |    2 | 52.539821,13.410031 |
+    | 2022-06-29 | Zenner                             | Alt-Treptow 15               | Treptow                   |    8 | 52.487423,13.478086 |
 
     Um diese Tabelle nach .kml und .geojson zu konvertieren:
     : make convert-berlin-pm-meetings.org
