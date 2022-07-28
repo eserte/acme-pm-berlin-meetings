@@ -2043,6 +2043,20 @@
             "name" : "2022-06-29 : Zenner : Alt-Treptow 15 : Treptow : 8"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.27701",
+               "52.48851"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2022-07-27 : Biergarten am Herthasee : Bismarckallee 23 : Grunewald : 5"
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"

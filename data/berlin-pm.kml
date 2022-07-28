@@ -1842,5 +1842,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2022-07-27 : Biergarten am Herthasee : Bismarckallee 23 : Grunewald : 5</name>
+      <Point>
+        <coordinates>
+13.27701,52.48851
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
