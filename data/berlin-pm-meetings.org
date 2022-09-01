@@ -256,6 +256,7 @@
     | 2022-06-02 | Prater                             | Kastanienallee 7             | Prenzlauer Berg           |    2 | 52.539821,13.410031 |
     | 2022-06-29 | Zenner                             | Alt-Treptow 15               | Treptow                   |    8 | 52.487423,13.478086 |
     | 2022-07-27 | Biergarten am Herthasee            | Bismarckallee 23             | Grunewald                 |    5 | 52.48851,13.27701   |
+    | 2022-08-31 | Die Horn                           | Hornstraße 4                 | Kreuzberg                 |    7 | 52.49426,13.38222   |
 
     Um diese Tabelle nach .kml und .geojson zu konvertieren:
     : make convert-berlin-pm-meetings.org
