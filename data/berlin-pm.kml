@@ -1850,5 +1850,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2022-08-31 : Die Horn : Hornstra&#223;e 4 : Kreuzberg : 7</name>
+      <Point>
+        <coordinates>
+13.38222,52.49426
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

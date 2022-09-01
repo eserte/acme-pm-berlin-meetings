@@ -2057,6 +2057,20 @@
             "name" : "2022-07-27 : Biergarten am Herthasee : Bismarckallee 23 : Grunewald : 5"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.38222",
+               "52.49426"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2022-08-31 : Die Horn : Hornstra\u00dfe 4 : Kreuzberg : 7"
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"
