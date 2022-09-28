@@ -1858,5 +1858,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2022-09-28 : Brewdog : Ackerstr. 29 : Mitte : 7</name>
+      <Point>
+        <coordinates>
+13.39577,52.53280
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
