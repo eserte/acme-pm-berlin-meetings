@@ -258,6 +258,7 @@
     | 2022-07-27 | Biergarten am Herthasee            | Bismarckallee 23             | Grunewald                 |    5 | 52.48851,13.27701   |
     | 2022-08-31 | Die Horn                           | Hornstraße 4                 | Kreuzberg                 |    7 | 52.49426,13.38222   |
     | 2022-09-28 | Brewdog                            | Ackerstr. 29                 | Mitte                     |    7 | 52.53280,13.39577   |
+    | 2022-10-27 | Zollpackhof                        | Elisabeth-Abegg-Str. 1       | Tiergarten                |   10 | 52.521293,13.367068 |
 
     Um diese Tabelle nach .kml und .geojson zu konvertieren:
     : make convert-berlin-pm-meetings.org
