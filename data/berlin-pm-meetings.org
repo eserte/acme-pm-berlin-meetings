@@ -259,6 +259,8 @@
     | 2022-08-31 | Die Horn                           | Hornstraße 4                 | Kreuzberg                 |    7 | 52.49426,13.38222   |
     | 2022-09-28 | Brewdog                            | Ackerstr. 29                 | Mitte                     |    7 | 52.53280,13.39577   |
     | 2022-10-27 | Zollpackhof                        | Elisabeth-Abegg-Str. 1       | Tiergarten                |   10 | 52.521293,13.367068 |
+    |------------+------------------------------------+------------------------------+---------------------------+------+---------------------|
+    | 2023-01-25 | Café Uebereck                      | Sonntagstr. 31               | Friedrichshain            |    7 | 52.505370,13.466479 |
 
     Um diese Tabelle nach .kml und .geojson zu konvertieren:
     : make convert-berlin-pm-meetings.org
