@@ -73,7 +73,7 @@ jobs:
         set -e
         apt-get update -qq
         apt-get install -q --no-install-recommends -y build-essential
-        cpanm --quiet --installdeps --notest . || ( cat /github/home/.cpanm/work/*/build.log; false )
+        cpanm --quiet --installdeps --notest . || ( cat ~/.cpanm/work/*/build.log; false )
     - name: Build and test
       run: |
         set -e
