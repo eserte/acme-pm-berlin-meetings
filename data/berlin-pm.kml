@@ -1882,5 +1882,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2023-02-22 : Intimes : Boxhagener Str. 107 : Friedrichshain : 4</name>
+      <Point>
+        <coordinates>
+13.457859,52.512819
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
