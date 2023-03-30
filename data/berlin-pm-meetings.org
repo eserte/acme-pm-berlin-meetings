@@ -262,6 +262,7 @@
     |------------+------------------------------------+------------------------------+---------------------------+------+---------------------|
     | 2023-01-25 | Café Uebereck                      | Sonntagstr. 31               | Friedrichshain            |    7 | 52.505370,13.466479 |
     | 2023-02-22 | Intimes                            | Boxhagener Str. 107          | Friedrichshain            |    4 | 52.512819,13.457859 |
+    | 2023-03-29 | Korry Restaurant                   | Konrad-Wolf-Str. 68a         | Alt-Hohenschönhausen      |    7 | 52.53775,13.47870   |
 
     Um diese Tabelle nach .kml und .geojson zu konvertieren:
     : make convert-berlin-pm-meetings.org
