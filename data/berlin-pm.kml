@@ -1890,5 +1890,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2023-03-29 : Korry Restaurant : Konrad-Wolf-Str. 68a : Alt-Hohensch&#246;nhausen : 7</name>
+      <Point>
+        <coordinates>
+13.47870,52.53775
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
