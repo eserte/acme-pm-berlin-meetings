@@ -1898,5 +1898,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2023-04-25 : Ambrosius : Karl-Heinrich-Ulrichs-Str. 14 : Tiergarten : 6</name>
+      <Point>
+        <coordinates>
+13.35345,52.50238
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

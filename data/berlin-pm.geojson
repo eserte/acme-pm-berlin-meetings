@@ -2085,6 +2085,20 @@
             "name" : "2023-03-29 : Korry Restaurant : Konrad-Wolf-Str. 68a : Alt-Hohensch\u00f6nhausen : 7"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.35345",
+               "52.50238"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2023-04-25 : Ambrosius : Karl-Heinrich-Ulrichs-Str. 14 : Tiergarten : 6"
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"
