@@ -264,6 +264,7 @@
     | 2023-02-22 | Intimes                            | Boxhagener Str. 107           | Friedrichshain            |    4 | 52.512819,13.457859 |
     | 2023-03-29 | Korry Restaurant                   | Konrad-Wolf-Str. 68a          | Alt-Hohenschönhausen      |    7 | 52.53775,13.47870   |
     | 2023-04-25 | Ambrosius                          | Karl-Heinrich-Ulrichs-Str. 14 | Tiergarten                |    6 | 52.50238,13.35345   |
+    | 2023-05-31 | Brło Brwhouse                      | Schöneberger Str. 16          | Kreuzberg                 |    7 | 52.50007,13.37335   |
 
     Um diese Tabelle nach .kml und .geojson zu konvertieren:
     : make convert-berlin-pm-meetings.org
