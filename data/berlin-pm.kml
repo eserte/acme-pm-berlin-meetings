@@ -1906,5 +1906,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2023-05-31 : Br&#322;o Brwhouse : Sch&#246;neberger Str. 16 : Kreuzberg : 7</name>
+      <Point>
+        <coordinates>
+13.37335,52.50007
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
