@@ -265,6 +265,7 @@
     | 2023-03-29 | Korry Restaurant                   | Konrad-Wolf-Str. 68a          | Alt-Hohenschönhausen      |    7 | 52.53775,13.47870   |
     | 2023-04-25 | Ambrosius                          | Karl-Heinrich-Ulrichs-Str. 14 | Tiergarten                |    6 | 52.50238,13.35345   |
     | 2023-05-31 | Brło Brwhouse                      | Schöneberger Str. 16          | Kreuzberg                 |    7 | 52.50007,13.37335   |
+    | 2023-06-28 | Biergarten Jockel                  | Ratiborstr. 14c               | Kreuzberg                 |    5 | 52.49169,13.4389954 |
 
     Um diese Tabelle nach .kml und .geojson zu konvertieren:
     : make convert-berlin-pm-meetings.org
