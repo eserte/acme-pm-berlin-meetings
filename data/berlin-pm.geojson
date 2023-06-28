@@ -2113,6 +2113,20 @@
             "name" : "2023-05-31 : Br\u0142o Brwhouse : Sch\u00f6neberger Str. 16 : Kreuzberg : 7"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.4389954",
+               "52.49169"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2023-06-28 : Biergarten Jockel : Ratiborstr. 14c : Kreuzberg : 5"
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"
