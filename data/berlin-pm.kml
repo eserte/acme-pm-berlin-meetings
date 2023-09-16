@@ -1930,5 +1930,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2023-08-30 : Caf&#233; am Neuen See : Lichtensteinallee 2 : Tiergarten : </name>
+      <Point>
+        <coordinates>
+13.34427,52.51053
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

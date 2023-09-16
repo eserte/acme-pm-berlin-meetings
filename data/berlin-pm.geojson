@@ -2127,6 +2127,20 @@
             "name" : "2023-06-28 : Biergarten Jockel : Ratiborstr. 14c : Kreuzberg : 5"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.34427",
+               "52.51053"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2023-08-30 : Caf\u00e9 am Neuen See : Lichtensteinallee 2 : Tiergarten : "
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"
