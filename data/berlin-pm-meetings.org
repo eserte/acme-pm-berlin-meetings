@@ -268,6 +268,7 @@
     | 2023-06-28 | Biergarten Jockel                  | Ratiborstr. 14c               | Kreuzberg                 |    5 | 52.49169,13.4389954 |
     | 2023-07-26 | Prater                             | Kastanienallee 7              | Prenzlauer Berg           |    7 | 52.539821,13.410031 |
     | 2023-08-30 | Café am Neuen See                  | Lichtensteinallee 2           | Tiergarten                |    5 | 52.51053,13.34427   |
+    | 2023-09-27 | Zollpackhof                        | Elisabeth-Abegg-Str. 1        | Tiergarten                |    7 | 52.521293,13.367068 |
 
     Um diese Tabelle nach .kml und .geojson zu konvertieren:
     : make convert-berlin-pm-meetings.org
