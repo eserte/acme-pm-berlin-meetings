@@ -1946,5 +1946,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2023-10-25 : Kaffeehaus KuchenRausch : Simon-Dach-Str. 1 : Friedrichshain : 6</name>
+      <Point>
+        <coordinates>
+13.45730,52.51278
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

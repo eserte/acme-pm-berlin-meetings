@@ -2141,6 +2141,20 @@
             "name" : "2023-08-30 : Caf\u00e9 am Neuen See : Lichtensteinallee 2 : Tiergarten : 5"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.45730",
+               "52.51278"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2023-10-25 : Kaffeehaus KuchenRausch : Simon-Dach-Str. 1 : Friedrichshain : 6"
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"
