@@ -1954,5 +1954,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2023-11-29 : Swart Bier &#38; Weinlokal : Dreysestr. 17 : Moabit : 5</name>
+      <Point>
+        <coordinates>
+13.35271,52.52808
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

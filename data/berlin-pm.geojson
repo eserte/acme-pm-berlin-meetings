@@ -2155,6 +2155,20 @@
             "name" : "2023-10-25 : Kaffeehaus KuchenRausch : Simon-Dach-Str. 1 : Friedrichshain : 6"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.35271",
+               "52.52808"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2023-11-29 : Swart Bier & Weinlokal : Dreysestr. 17 : Moabit : 5"
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"
