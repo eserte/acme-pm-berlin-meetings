@@ -271,6 +271,8 @@
     | 2023-09-27 | Zollpackhof                        | Elisabeth-Abegg-Str. 1        | Tiergarten                |    7 | 52.521293,13.367068 |
     | 2023-10-25 | Kaffeehaus KuchenRausch            | Simon-Dach-Str. 1             | Friedrichshain            |    6 | 52.51278,13.45730   |
     | 2023-11-29 | Swart Bier & Weinlokal             | Dreysestr. 17                 | Moabit                    |    5 | 52.52808,13.35271   |
+    |------------+------------------------------------+-------------------------------+---------------------------+------+---------------------|
+    | 2024-01-03 | Anna Koschke                       | Krausnickstr. 11              | Mitte                     |    7 | 52.52529,13.39824   |
 
     Um diese Tabelle nach .kml und .geojson zu konvertieren:
     : make convert-berlin-pm-meetings.org
