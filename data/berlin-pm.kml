@@ -1962,5 +1962,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2024-01-03 : Anna Koschke : Krausnickstr. 11 : Mitte : 7</name>
+      <Point>
+        <coordinates>
+13.39824,52.52529
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

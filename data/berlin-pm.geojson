@@ -2169,6 +2169,20 @@
             "name" : "2023-11-29 : Swart Bier & Weinlokal : Dreysestr. 17 : Moabit : 5"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.39824",
+               "52.52529"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2024-01-03 : Anna Koschke : Krausnickstr. 11 : Mitte : 7"
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"
