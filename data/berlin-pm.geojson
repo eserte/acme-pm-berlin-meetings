@@ -2183,6 +2183,20 @@
             "name" : "2024-01-03 : Anna Koschke : Krausnickstr. 11 : Mitte : 7"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.35835",
+               "52.52327"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2024-01-31 : Restaurant Neumann's : Alt-Moabit 126 : Moabit : 7"
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"
