@@ -1,5 +1,8 @@
 Revision history for Perl extension Acme::PM::Berlin::Meetings.
 
+202402.28 2024-02-28
+	- reflect new begin time (18:00 instead of 19:00)
+
 202009.26 2020-09-26
 	- handle Sep 2020 exception (retrospectively)
 
