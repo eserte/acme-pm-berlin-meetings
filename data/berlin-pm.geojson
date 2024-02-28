@@ -2197,6 +2197,20 @@
             "name" : "2024-01-31 : Restaurant Neumann's : Alt-Moabit 126 : Moabit : 7"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "",
+               "52.50964.13.45774"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2024-02-28 : Speisehaus Berlin : W\u00fchlischstr. 30 : Friedrichshain : 6"
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"

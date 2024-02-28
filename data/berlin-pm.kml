@@ -1978,5 +1978,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2024-02-28 : Speisehaus Berlin : W&#252;hlischstr. 30 : Friedrichshain : 6</name>
+      <Point>
+        <coordinates>
+,52.50964.13.45774
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
