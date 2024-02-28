@@ -274,6 +274,7 @@
     |------------+------------------------------------+-------------------------------+---------------------------+------+---------------------|
     | 2024-01-03 | Anna Koschke                       | Krausnickstr. 11              | Mitte                     |    7 | 52.52529,13.39824   |
     | 2024-01-31 | Restaurant Neumann's               | Alt-Moabit 126                | Moabit                    |    7 | 52.52327,13.35835   |
+    | 2024-02-28 | Speisehaus Berlin                  | Wühlischstr. 30               | Friedrichshain            |    6 | 52.50964.13.45774   |
 
     Um diese Tabelle nach .kml und .geojson zu konvertieren:
     : make convert-berlin-pm-meetings.org
