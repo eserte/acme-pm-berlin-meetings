@@ -1994,5 +1994,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2024-04-24 : Pizza e Vino : Invalidenstr. 2 : Mitte : 5</name>
+      <Point>
+        <coordinates>
+13.39796,52.53262
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

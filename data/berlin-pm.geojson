@@ -2211,6 +2211,20 @@
             "name" : "2024-02-28 : Speisehaus Berlin : W\u00fchlischstr. 30 : Friedrichshain : 6"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.39796",
+               "52.53262"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2024-04-24 : Pizza e Vino : Invalidenstr. 2 : Mitte : 5"
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"
