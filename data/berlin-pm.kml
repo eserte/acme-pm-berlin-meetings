@@ -2002,5 +2002,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2024-05-29 : Braugasthaus Dolden M&#228;del : Mehringdamm 80 : Kreuzberg : 7</name>
+      <Point>
+        <coordinates>
+13.38594,52.48959
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
