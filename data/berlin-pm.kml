@@ -2010,5 +2010,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2024-06-26 : Prater : Kastanienallee 7 : Prenzlauer Berg : 9</name>
+      <Point>
+        <coordinates>
+13.410031,52.539821
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
