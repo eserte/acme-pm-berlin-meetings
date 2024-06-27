@@ -278,6 +278,7 @@
     | 2024-03-27 | Papà Pane di Sorrento              | Ackerstr. 23                  | Mitte                     |    5 | 52.531914,13.396334 |
     | 2024-04-24 | Pizza e Vino                       | Invalidenstr. 2               | Mitte                     |    5 | 52.53262,13.39796   |
     | 2024-05-29 | Braugasthaus Dolden Mädel          | Mehringdamm 80                | Kreuzberg                 |    7 | 52.48959,13.38594   |
+    | 2024-06-26 | Prater                             | Kastanienallee 7              | Prenzlauer Berg           |    9 | 52.539821,13.410031 |
 
     Um diese Tabelle nach .kml und .geojson zu konvertieren:
     : make convert-berlin-pm-meetings.org
