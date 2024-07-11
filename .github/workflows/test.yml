@@ -18,6 +18,7 @@ jobs:
        include:
          - os: 'ubuntu-20.04'
          - os: 'ubuntu-22.04'
+         - os: 'ubuntu-24.04'
          - os: 'windows-latest'
     steps:
     - name: apt hacks
@@ -26,7 +27,7 @@ jobs:
         sudo rm -f /etc/apt/sources.list.d/*.list
         sudo apt-get update -qq
       if: "startsWith(matrix.os, 'ubuntu-')"
-    - uses: actions/checkout@v3
+    - uses: taiki-e/checkout-action@v1
 
     - name: "perl dependency installation (ubuntu)"
       run: |
@@ -66,8 +67,8 @@ jobs:
           - perlimage: 5.18.4-buster
           - perlimage: 5.22.4-stretch
           - perlimage: 5.36.0-slim-bullseye
+          - perlimage: 5.40.0-slim-bookworm
     steps:
-    - uses: actions/checkout@v3
     - name: apt hacks
       run: |
         set -e
@@ -79,6 +80,7 @@ jobs:
             echo "deb [check-valid-until=no] http://archive.debian.org/debian-security/ $CODENAME/updates main" >> /etc/apt/sources.list
             ;;
         esac
+    - uses: taiki-e/checkout-action@v1
     - name: Install dependencies
       run: |
         set -e
