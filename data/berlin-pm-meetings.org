@@ -279,6 +279,7 @@
     | 2024-04-24 | Pizza e Vino                       | Invalidenstr. 2               | Mitte                     |    5 | 52.53262,13.39796   |
     | 2024-05-29 | Braugasthaus Dolden Mädel          | Mehringdamm 80                | Kreuzberg                 |    7 | 52.48959,13.38594   |
     | 2024-06-26 | Prater                             | Kastanienallee 7              | Prenzlauer Berg           |    9 | 52.539821,13.410031 |
+    | 2024-07-31 | Biergarten Augustiner auf Bötzow   | Prenzlauer Allee 247          | Prenzlauer Berg           |   10 | 52.52882,13.41695   |
 
     Um diese Tabelle nach .kml und .geojson zu konvertieren:
     : make convert-berlin-pm-meetings.org
