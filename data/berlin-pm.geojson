@@ -2225,6 +2225,20 @@
             "name" : "2024-04-24 : Pizza e Vino : Invalidenstr. 2 : Mitte : 5"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.41695",
+               "52.52882"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2024-07-31 : Biergarten Augustiner auf B\u00f6tzow : Prenzlauer Allee 247 : Prenzlauer Berg : 10"
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"

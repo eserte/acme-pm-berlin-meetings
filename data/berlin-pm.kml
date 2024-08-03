@@ -2018,5 +2018,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2024-07-31 : Biergarten Augustiner auf B&#246;tzow : Prenzlauer Allee 247 : Prenzlauer Berg : 10</name>
+      <Point>
+        <coordinates>
+13.41695,52.52882
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
