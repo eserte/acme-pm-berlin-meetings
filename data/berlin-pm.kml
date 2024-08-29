@@ -2026,5 +2026,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2024-08-28 : Brauhaus Neulich : Selchower Str. 20 : Neuk&#246;lln : 8</name>
+      <Point>
+        <coordinates>
+13.419899,52.478437
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

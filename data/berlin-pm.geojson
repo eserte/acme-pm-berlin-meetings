@@ -2239,6 +2239,20 @@
             "name" : "2024-07-31 : Biergarten Augustiner auf B\u00f6tzow : Prenzlauer Allee 247 : Prenzlauer Berg : 10"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.419899",
+               "52.478437"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2024-08-28 : Brauhaus Neulich : Selchower Str. 20 : Neuk\u00f6lln : 8"
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"
