@@ -281,6 +281,7 @@
     | 2024-06-26 | Prater                             | Kastanienallee 7              | Prenzlauer Berg           |    9 | 52.539821,13.410031 |
     | 2024-07-31 | Biergarten Augustiner auf Bötzow   | Prenzlauer Allee 247          | Prenzlauer Berg           |   10 | 52.52882,13.41695   |
     | 2024-08-28 | Brauhaus Neulich                   | Selchower Str. 20             | Neukölln                  |    8 | 52.478437,13.419899 |
+    | 2024-09-25 | Zollpackhof                        | Elisabeth-Abegg-Str. 1        | Tiergarten                |    9 | 52.521293,13.367068 |
 
     Um diese Tabelle nach .kml und .geojson zu konvertieren:
     : make convert-berlin-pm-meetings.org
