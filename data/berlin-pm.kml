@@ -2034,5 +2034,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2024-09-25 : Zollpackhof : Elisabeth-Abegg-Str. 1 : Tiergarten : 9</name>
+      <Point>
+        <coordinates>
+13.367068,52.521293
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
