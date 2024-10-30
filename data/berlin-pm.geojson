@@ -2253,6 +2253,20 @@
             "name" : "2024-08-28 : Brauhaus Neulich : Selchower Str. 20 : Neuk\u00f6lln : 8"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.299843",
+               "52.519975"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2024-10-30 : Lemke am Schloss : Luisenplatz 1 : Charlottenburg : 5"
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"
