@@ -282,6 +282,7 @@
     | 2024-07-31 | Biergarten Augustiner auf Bötzow   | Prenzlauer Allee 247          | Prenzlauer Berg           |   10 | 52.52882,13.41695   |
     | 2024-08-28 | Brauhaus Neulich                   | Selchower Str. 20             | Neukölln                  |    8 | 52.478437,13.419899 |
     | 2024-09-25 | Zollpackhof                        | Elisabeth-Abegg-Str. 1        | Tiergarten                |    9 | 52.521293,13.367068 |
+    | 2024-10-30 | Lemke am Schloss                   | Luisenplatz 1                 | Charlottenburg            |    5 | 52.519975,13.299843 |
 
     Um diese Tabelle nach .kml und .geojson zu konvertieren:
     : make convert-berlin-pm-meetings.org
