@@ -2267,6 +2267,20 @@
             "name" : "2024-10-30 : Lemke am Schloss : Luisenplatz 1 : Charlottenburg : 5"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.460937",
+               "52.508883"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2024-11-27 : Aleppo Supper Club : W\u00fchlischstr. 21 : Friedrichshain : 7"
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"

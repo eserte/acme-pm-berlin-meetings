@@ -2050,5 +2050,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2024-11-27 : Aleppo Supper Club : W&#252;hlischstr. 21 : Friedrichshain : 7</name>
+      <Point>
+        <coordinates>
+13.460937,52.508883
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
