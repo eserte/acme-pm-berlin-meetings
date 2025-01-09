@@ -2058,5 +2058,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2025-01-08 : Conmux Blechbilderbar : Simon-Dach-Str. 35 : Friedrichshain : 6</name>
+      <Point>
+        <coordinates>
+13.456444,52.509976
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

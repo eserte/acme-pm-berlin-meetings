@@ -2281,6 +2281,20 @@
             "name" : "2024-11-27 : Aleppo Supper Club : W\u00fchlischstr. 21 : Friedrichshain : 7"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.456444",
+               "52.509976"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2025-01-08 : Conmux Blechbilderbar : Simon-Dach-Str. 35 : Friedrichshain : 6"
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"
