@@ -286,6 +286,7 @@
     | 2024-11-27 | Aleppo Supper Club                 | Wühlischstr. 21               | Friedrichshain            |    7 | 52.508883,13.460937 |
     |------------+------------------------------------+-------------------------------+---------------------------+------+---------------------|
     | 2025-01-08 | Conmux Blechbilderbar              | Simon-Dach-Str. 35            | Friedrichshain            |    6 | 52.509976,13.456444 |
+    | 2025-01-29 | The Castle                         | Invalidenstr. 129             | Mitte                     |    9 | 52.531488,13.388387 |
 
     Um diese Tabelle nach .kml und .geojson zu konvertieren:
     : make convert-berlin-pm-meetings.org
