@@ -2295,6 +2295,20 @@
             "name" : "2025-01-08 : Conmux Blechbilderbar : Simon-Dach-Str. 35 : Friedrichshain : 6"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.388387",
+               "52.531488"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2025-01-29 : The Castle : Invalidenstr. 129 : Mitte : 9"
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"

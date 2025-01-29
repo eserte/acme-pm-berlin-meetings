@@ -2066,5 +2066,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2025-01-29 : The Castle : Invalidenstr. 129 : Mitte : 9</name>
+      <Point>
+        <coordinates>
+13.388387,52.531488
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
