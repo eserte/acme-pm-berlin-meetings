@@ -2074,5 +2074,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2025-02-26 : Hummus and Friends : Oranienburger Str. 27 : Mitte : 6</name>
+      <Point>
+        <coordinates>
+13.395055,52.524588
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

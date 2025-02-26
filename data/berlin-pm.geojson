@@ -2309,6 +2309,20 @@
             "name" : "2025-01-29 : The Castle : Invalidenstr. 129 : Mitte : 9"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.395055",
+               "52.524588"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2025-02-26 : Hummus and Friends : Oranienburger Str. 27 : Mitte : 6"
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"
