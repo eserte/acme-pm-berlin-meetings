@@ -2098,5 +2098,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2025-05-28 : Dieselhaus : Forum an der Museumsinsel 10 : Mitte : 5</name>
+      <Point>
+        <coordinates>
+13.393465,52.524185
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

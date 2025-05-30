@@ -2323,6 +2323,20 @@
             "name" : "2025-02-26 : Hummus and Friends : Oranienburger Str. 27 : Mitte : 6"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.393465",
+               "52.524185"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2025-05-28 : Dieselhaus : Forum an der Museumsinsel 10 : Mitte : 5"
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"
