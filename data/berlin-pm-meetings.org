@@ -290,6 +290,7 @@
     | 2025-02-26 | Hummus and Friends                 | Oranienburger Str. 27         | Mitte                     |    6 | 52.524588,13.395055 |
     | 2025-03-26 | Café Uebereck                      | Sonntagstr. 31                | Friedrichshain            |    5 | 52.505370,13.466479 |
     | 2025-04-30 | Schleusenkrug                      | am Landwehrkanal              | Tiergarten                |    2 | 52.511182,13.336045 |
+    | 2025-05-28 | Dieselhaus                         | Forum an der Museumsinsel 10  | Mitte                     |    5 | 52.524185,13.393465 |
 
     Um diese Tabelle nach .kml und .geojson zu konvertieren:
     : make convert-berlin-pm-meetings.org
