@@ -292,6 +292,7 @@
     | 2025-04-30 | Schleusenkrug                      | am Landwehrkanal              | Tiergarten                |    2 | 52.511182,13.336045 |
     | 2025-05-28 | Dieselhaus                         | Forum an der Museumsinsel 10  | Mitte                     |    5 | 52.524185,13.393465 |
     | 2025-06-25 | Zenner                             | Alt-Treptow 15                | Treptow                   |    5 | 52.487423,13.478086 |
+    | 2025-07-30 | Prater                             | Kastanienallee 7              | Prenzlauer Berg           |    8 | 52.539821,13.410031 |
 
     Um diese Tabelle nach .kml und .geojson zu konvertieren:
     : make convert-berlin-pm-meetings.org
