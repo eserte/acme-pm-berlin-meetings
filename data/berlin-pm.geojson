@@ -2337,6 +2337,20 @@
             "name" : "2025-05-28 : Dieselhaus : Forum an der Museumsinsel 10 : Mitte : 5"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.365553",
+               "52.481068"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2025-08-27 : Naumanns Biergarten : Wilhelm-Kabus-Str. 36 : Sch\u00f6neberg : 8"
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"

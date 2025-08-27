@@ -2122,5 +2122,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2025-08-27 : Naumanns Biergarten : Wilhelm-Kabus-Str. 36 : Sch&#246;neberg : 8</name>
+      <Point>
+        <coordinates>
+13.365553,52.481068
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
