@@ -293,6 +293,7 @@
     | 2025-05-28 | Dieselhaus                         | Forum an der Museumsinsel 10  | Mitte                     |    5 | 52.524185,13.393465 |
     | 2025-06-25 | Zenner                             | Alt-Treptow 15                | Treptow                   |    5 | 52.487423,13.478086 |
     | 2025-07-30 | Prater                             | Kastanienallee 7              | Prenzlauer Berg           |    8 | 52.539821,13.410031 |
+    | 2025-08-27 | Naumanns Biergarten                | Wilhelm-Kabus-Str. 36         | Schöneberg                |    8 | 52.481068,13.365553 |
 
     Um diese Tabelle nach .kml und .geojson zu konvertieren:
     : make convert-berlin-pm-meetings.org
