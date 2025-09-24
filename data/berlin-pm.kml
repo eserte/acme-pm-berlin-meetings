@@ -2130,5 +2130,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2025-09-24 : Caf&#233; Uebereck : Sonntagstr. 31 : Friedrichshain : 6</name>
+      <Point>
+        <coordinates>
+13.466479,52.505370
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
