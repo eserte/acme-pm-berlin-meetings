@@ -295,6 +295,7 @@
     | 2025-07-30 | Prater                             | Kastanienallee 7              | Prenzlauer Berg           |    8 | 52.539821,13.410031 |
     | 2025-08-27 | Naumanns Biergarten                | Wilhelm-Kabus-Str. 36         | Schöneberg                |    8 | 52.481068,13.365553 |
     | 2025-09-24 | Café Uebereck                      | Sonntagstr. 31                | Friedrichshain            |    6 | 52.505370,13.466479 |
+    | 2025-10-29 | Sisaket                            | Dircksenstr. 47               | Mitte                     |    6 | 52.523516,13.404871 |
 
     Um diese Tabelle nach .kml und .geojson zu konvertieren:
     : make convert-berlin-pm-meetings.org
