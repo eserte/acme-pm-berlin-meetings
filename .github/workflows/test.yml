@@ -85,6 +85,11 @@ jobs:
         set -e
         apt-get update -qq
         apt-get install -q --no-install-recommends -y build-essential
+        case "$(perl -e 'print $^V =~ /^v(\d+\.\d+)/ ? $1 : "5.8"')" in
+            5.8|5.10)
+                cpanm --quiet --notest Test::Fatal~"<0.018" || ( cat ~/.cpanm/work/*/build.log; false )
+                ;;
+        esac
         cpanm --quiet --installdeps --notest . || ( cat ~/.cpanm/work/*/build.log; false )
     - name: Build and test
       run: |
