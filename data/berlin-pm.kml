@@ -2154,5 +2154,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2026-01-07 : Pap&#224; Pane di Sorrento : Ackerstr. 23 : Mitte : 7</name>
+      <Point>
+        <coordinates>
+13.396334,52.531914
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
