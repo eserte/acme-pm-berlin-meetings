@@ -2162,5 +2162,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2026-01-28 : IRO Izakaya Vegan : Simon-Dach-Str. 15 : Friedrichshain : 6</name>
+      <Point>
+        <coordinates>
+13.45614,52.509826
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
