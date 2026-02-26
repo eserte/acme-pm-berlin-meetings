@@ -300,6 +300,7 @@
     |------------+------------------------------------+-------------------------------+---------------------------+------+---------------------|
     | 2026-01-07 | Papà Pane di Sorrento              | Ackerstr. 23                  | Mitte                     |    7 | 52.531914,13.396334 |
     | 2026-01-28 | IRO Izakaya Vegan                  | Simon-Dach-Str. 15            | Friedrichshain            |    6 | 52.509826,13.45614  |
+    | 2026-02-25 | Schnitzelei Berlin Mitte           | Chausseestr. 8                | Mitte                     |   10 | 52.52849,13.38736   |
 
     Um diese Tabelle nach .kml und .geojson zu konvertieren:
     : make convert-berlin-pm-meetings.org
