@@ -2186,5 +2186,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2026-04-29 : Hannibal : G&#228;rtnerstr. 29a : Friedrichshain : 6</name>
+      <Point>
+        <coordinates>
+13.459880,52.509132
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
