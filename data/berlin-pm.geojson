@@ -2393,6 +2393,20 @@
             "name" : "2026-04-29 : Hannibal : G\u00e4rtnerstr. 29a : Friedrichshain : 6"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.348528",
+               "52.525021"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2026-06-24 : Biergarten am Kleinen Tiergarten : Alt-Moabit 25 : Moabit : 5"
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"
