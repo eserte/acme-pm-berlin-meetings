@@ -304,6 +304,7 @@
     | 2026-03-26 | Xi-Mian                            | Invalidenstr. 159             | Mitte                     |    6 | 52.532392,13.397455 |
     | 2026-04-29 | Hannibal                           | Gärtnerstr. 29a               | Friedrichshain            |    6 | 52.509132,13.459880 |
     | 2026-05-27 | Zollpackhof                        | Elisabeth-Abegg-Str. 1        | Tiergarten                |    5 | 52.521293,13.367068 |
+    | 2026-06-24 | Biergarten am Kleinen Tiergarten   | Alt-Moabit 25                 | Moabit                    |    5 | 52.525021,13.348528 |
 
     Um diese Tabelle nach .kml und .geojson zu konvertieren:
     : make convert-berlin-pm-meetings.org
