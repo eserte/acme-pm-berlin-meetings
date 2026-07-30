@@ -305,6 +305,7 @@
     | 2026-04-29 | Hannibal                           | Gärtnerstr. 29a               | Friedrichshain            |    6 | 52.509132,13.459880 |
     | 2026-05-27 | Zollpackhof                        | Elisabeth-Abegg-Str. 1        | Tiergarten                |    5 | 52.521293,13.367068 |
     | 2026-06-24 | Biergarten am Kleinen Tiergarten   | Alt-Moabit 25                 | Moabit                    |    5 | 52.525021,13.348528 |
+    | 2026-07-29 | SÜDEN Gartenwirtschaft             | Priesterweg 10                | Schöneberg                |    5 | 52.460662,13.355967 |
 
     Um diese Tabelle nach .kml und .geojson zu konvertieren:
     : make convert-berlin-pm-meetings.org
