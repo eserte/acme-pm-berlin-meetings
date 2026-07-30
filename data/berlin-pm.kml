@@ -2210,5 +2210,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2026-07-29 : S&#220;DEN Gartenwirtschaft : Priesterweg 10 : Sch&#246;neberg : 5</name>
+      <Point>
+        <coordinates>
+13.355967,52.460662
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>

@@ -2407,6 +2407,20 @@
             "name" : "2026-06-24 : Biergarten am Kleinen Tiergarten : Alt-Moabit 25 : Moabit : 5"
          },
          "type" : "Feature"
+      },
+      {
+         "geometry" : {
+            "coordinates" : [
+               "13.355967",
+               "52.460662"
+            ],
+            "type" : "Point"
+         },
+         "properties" : {
+            "cat" : "X",
+            "name" : "2026-07-29 : S\u00dcDEN Gartenwirtschaft : Priesterweg 10 : Sch\u00f6neberg : 5"
+         },
+         "type" : "Feature"
       }
    ],
    "type" : "FeatureCollection"
