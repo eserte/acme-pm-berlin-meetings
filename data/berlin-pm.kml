@@ -2226,5 +2226,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2026-09-30 : Schleusenkrug : am Landwehrkanal : Tiergarten : 7</name>
+      <Point>
+        <coordinates>
+13.336045,52.511182
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
