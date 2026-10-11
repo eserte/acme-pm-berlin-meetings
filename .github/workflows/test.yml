@@ -66,8 +66,10 @@ jobs:
           - perlimage: 5.16.3-buster
           - perlimage: 5.18.4-buster
           - perlimage: 5.22.4-stretch
-          - perlimage: 5.36.0-slim-bullseye
+          # note: 5.36.0-slim-bullseye also exist, but currently bullseye debian archive is broken
+          - perlimage: 5.36.0-slim-buster
           - perlimage: 5.40.0-slim-bookworm
+          - perlimage: 5.44.0-slim-trixie
     steps:
     - name: apt hacks
       run: |
