@@ -308,6 +308,7 @@
     | 2026-07-29 | SÜDEN Gartenwirtschaft             | Priesterweg 10                | Schöneberg                |    5 | 52.460662,13.355967 |
     | 2026-08-26 | Prater                             | Kastanienallee 7              | Prenzlauer Berg           |    7 | 52.539821,13.410031 |
     | 2026-09-30 | Schleusenkrug                      | am Landwehrkanal              | Tiergarten                |    7 | 52.511182,13.336045 |
+    | 2026-10-28 | Tuans Hütte                        | Dircksenstr. 40               | Mitte                     |    7 | 52.523550,13.407066 |
 
     Um diese Tabelle nach .kml und .geojson zu konvertieren:
     : make convert-berlin-pm-meetings.org
