@@ -2234,5 +2234,13 @@
         </coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>2026-10-28 : Tuans H&#252;tte : Dircksenstr. 40 : Mitte : 7</name>
+      <Point>
+        <coordinates>
+13.407066,52.523550
+        </coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
